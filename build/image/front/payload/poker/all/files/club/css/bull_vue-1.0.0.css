@@ -1,0 +1,637 @@
+*{padding: 0;margin:0;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-backface-visibility: hidden;}a {text-decoration: none;color: #fff;}ul {list-style: none;}input{border: none;outline:none}body{font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', 微软雅黑, Arial, sans-serif;cursor: default;}
+img{border: none;}
+.backImg1{background:url("../images//game/pic1.png"); }
+.roomCard{position: fixed;top:5px;left: 15px;;z-index:90;height: 40px;}
+.roomCard img{height: 40px;position: absolute;left: 0;top:0;z-index: 9;}
+.roomCard .num{height: 24px;line-height: 24px;text-align: right;color:#fff;font-size:16px;margin-top: 8px;position:relative;}
+.round{position: absolute;top:10px;left: 50%;width: 80px;line-height: 24px;font-size:16px;margin-left: -40px;color:#fff;z-index: 91;text-align: center;opacity: 0.6;}
+.tableTab{position: fixed;top:0px;left: 0px;width: 100%;z-index:90;}
+.addFriend{position: fixed;top:8px;right: 15px;width: 36px;z-index:90;}
+.return{position: fixed;top:8px;right: 70px;width: 36px;z-index:90;}
+.bottom{position: fixed;bottom:0;left: 0;width: 100%;z-index:90;}
+/*.myCardType{position: fixed;bottom:25;left: 35%;width: 30%;z-index:91;text-align: center;color: #fff;height: 24px;line-height: 24px; background-color: black; border-radius: 12px;opacity: 0.3;}*/
+
+.myCardTypeBG{position: absolute;top: 94%;left: 38%;width: 24%;z-index:91;text-align: center;color: #fff;height: 24px;line-height: 24px; background-color: black; border-radius: 12px;opacity: 0.5}
+.myCardType{position: absolute;top: 94%;left: 38%;width: 24%;z-index:91;text-align: center;color: #fff;height: 24px;line-height: 24px;border-radius: 12px;}
+
+.bottomMessage{position: fixed;bottom: 15px;left: 82%;width: 36px; height: 36px;z-index:91;}
+
+.invite{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;}
+.invite .inviteBack{width: 100%;height:100%;background: #000;opacity:0.8;position: absolute;}
+.invite .invite1{width: 80px;position: absolute; top:20px;right: 10px;}
+.invite .inviteText{margin: 0 auto;margin-top:140px;width:80%;line-height: 40px;font-size: 18px;color: #fff;font-family: simHei;position: relative;}
+.invite .inviteText .num{float: left;line-height:24px;height:24px;width:24px;text-align: center;border-radius:12px;background:#b42020;position: relative;margin: 8px 5px 0 0}
+.invite .inviteText img{vertical-align: middle;height: 28px;margin:0 3px;}
+.invite .inviteText .invite2{font-size:17px;color:#cdbc48; }
+
+.main{width: 100%;position: relative;background: #fff;margin:0 auto;}
+
+.title{overflow: hidden;word-break:break-all;}
+/*.member{position: absolute;text-align: center;width: 60px;height: 89px;}*/
+.member{position: absolute;text-align: center;width: 74px;height: 110px;}
+.member .background{width: 66%;position: absolute;top:0;left:0;}
+.member .banker{left:16%; top: -1%;width: 68%; height: 46%;position: absolute;}
+.member .title{color: #fff;font-size: 10px;text-align: center;line-height: 16px;position: relative;margin: 0 auto;margin-top: 15%;height:16px;width: 47px;}
+.member .score{color: #fff;font-size: 12px;text-align: center;line-height: 12px;position: absolute;background: #1f1732;width:66%;border-radius:7px;margin:0 auto;bottom: 11%;left:18%;}
+.member .avatar{width: 66%;position: relative;border-radius:3px;}
+.member .bottom{position: absolute; top: 50%; left: 17%;width: 66%; height: 30px}
+.member .bottom .bname{position: absolute; top: 0px; left: 0px;width: 100%; height: 15px; line-height: 15px;text-align: center;color: white;font-size: 10px;}
+.member .bottom .bscore{position: absolute; top: 15px; left: 0px;width: 100%; height: 15px; line-height: 15px; text-align: center;color: orange;font-size: 12px;}
+
+.memberMine{position: absolute;text-align: center;width: 150px;height: 110px;}
+
+.member .isReady{position: absolute;}
+.member .isReady .ready{height: 20px;}
+.member .isReady .ready.ss{border:2px solid #3ae8ad;}
+
+
+/*.member1{top:75%;left:50%;width: 74px;height: 110px;margin-left: -37px;}*/
+.member1{top:85%;left:10%;width: 74px;height: 110px;margin-left: -37px;}
+.member1 .title{font-size:14px;line-height:20px;height: 20px;width: 58px;}
+.member1 .score{bottom: 12%;line-height:14px;}
+.member1 .isReady{top:-50px;left: -18px;width: 110px;text-align:center;}
+.member1 .isReady .unready{width: 110px;}
+.member1 .isReady .ready{margin-top: 20px;width:40px;}
+
+.member2{top:42%;right:0%;}
+.member2 .isReady{top:10px;left: -50px;}
+.member2 .isReady .ready{width:40px;margin-top: 30px;}
+
+.member3{top:24%;right:0%;}
+.member3 .isReady{top:10px;left: -50px;}
+.member3 .isReady .ready{width:40px;margin-top: 30px;}
+
+.member4{top:5%;left:48%;margin-left: -30px; }
+.member4 .isReady{top:70px;left: 10px;}
+.member4 .isReady .ready{width:40px;margin-top: 30px;}
+
+.member5{top:24%;left:0%;}
+.member5 .isReady{top:10px;left: 70px;}
+.member5 .isReady .ready{width:40px;margin-top: 30px;}
+
+.member6{top:42%;left:0%;}
+.member6 .isReady{top:10px;left: 70px;}
+.member6 .isReady .ready{width:40px;margin-top: 30px;}
+
+/* 玩家金币 */
+.memberCoin{position: absolute;width: 15px;height: 15px; z-index: 100}
+.memberCoin10{top: 82%; left: 48%}
+.memberCoin11{top: 82%; left: 48%}
+.memberCoin12{top: 82%; left: 48%}
+.memberCoin13{top: 82%; left: 48%}
+.memberCoin14{top: 82%; left: 48%}
+.memberCoin15{top: 82%; left: 48%}
+.memberCoin16{top: 82%; left: 48%}
+.memberCoin17{top: 82%; left: 48%}
+
+.memberCoin20{top: 46%; right: 9%}
+.memberCoin21{top: 46%; right: 9%}
+.memberCoin22{top: 46%; right: 9%}
+.memberCoin23{top: 46%; right: 9%}
+.memberCoin24{top: 46%; right: 9%}
+.memberCoin25{top: 46%; right: 9%}
+.memberCoin26{top: 46%; right: 9%}
+.memberCoin27{top: 46%; right: 9%}
+
+.memberCoin30{top: 31%; right: 9%}
+.memberCoin31{top: 31%; right: 9%}
+.memberCoin32{top: 31%; right: 9%}
+.memberCoin33{top: 31%; right: 9%}
+.memberCoin34{top: 31%; right: 9%}
+.memberCoin35{top: 31%; right: 9%}
+.memberCoin36{top: 31%; right: 9%}
+.memberCoin37{top: 31%; right: 9%}
+
+.memberCoin40{top: 11%; left: 48%}
+.memberCoin41{top: 11%; left: 48%}
+.memberCoin42{top: 11%; left: 48%}
+.memberCoin43{top: 11%; left: 48%}
+.memberCoin44{top: 11%; left: 48%}
+.memberCoin45{top: 11%; left: 48%}
+.memberCoin46{top: 11%; left: 48%}
+.memberCoin47{top: 11%; left: 48%}
+
+.memberCoin50{top: 31%; left: 9%}
+.memberCoin51{top: 31%; left: 9%}
+.memberCoin52{top: 31%; left: 9%}
+.memberCoin53{top: 31%; left: 9%}
+.memberCoin54{top: 31%; left: 9%}
+.memberCoin55{top: 31%; left: 9%}
+.memberCoin56{top: 31%; left: 9%}
+.memberCoin57{top: 31%; left: 9%}
+
+.memberCoin60{top: 46%; left: 9%}
+.memberCoin61{top: 46%; left: 9%}
+.memberCoin62{top: 46%; left: 9%}
+.memberCoin63{top: 46%; left: 9%}
+.memberCoin64{top: 46%; left: 9%}
+.memberCoin65{top: 46%; left: 9%}
+.memberCoin66{top: 46%; left: 9%}
+.memberCoin67{top: 46%; left: 9%}
+
+/* 显示是否抢庄 */
+.memberRobText1{position: absolute; top: 75%; left: 60%; width: 30px; height: 16px;}
+.memberRobText2{position: absolute; top: 41%; right: 20%; width: 30px; height: 16px;}
+.memberRobText3{position: absolute; top: 25%; right: 20%; width: 30px; height: 16px;}
+.memberRobText4{position: absolute; top: 7%; left: 58%; width: 30px; height: 16px;}
+.memberRobText5{position: absolute; top: 25%; left: 19%; width: 30px; height: 16px;}
+.memberRobText6{position: absolute; top: 41%; left: 19%; width: 30px; height: 16px;}
+
+/* 投注倍数 */
+.memberTimesText1{position: absolute; top: 85%; left: 18%; width: 40px; height: 40px;}
+.memberTimesText2{position: absolute; top: 41%; right: 16%; width: 30px; height: 16px;}
+.memberTimesText3{position: absolute; top: 25%; right: 16%; width: 30px; height: 16px;}
+.memberTimesText4{position: absolute; top: 7%; left: 58%; width: 30px; height: 16px;}
+.memberTimesText5{position: absolute; top: 25%; left: 19%; width: 30px; height: 16px;}
+.memberTimesText6{position: absolute; top: 41%; left: 19%; width: 30px; height: 16px;}
+
+/* 显示牛几图片 */
+.memberBull1{position: absolute;top: 60%; left: 36%; width: 116px; height: 42px; z-index: 90;}
+.memberBull2{position: absolute;top: 48%; right: 19%; width: 83px; height: 30px; z-index: 90;}
+.memberBull3{position: absolute;top: 32%; right: 19%; width: 83px; height: 30px; z-index: 90;}
+.memberBull4{position: absolute;top: 23%; left: 40%; width: 83px; height: 30px; z-index: 90;}
+.memberBull5{position: absolute;top: 32%; left: 20%; width: 83px; height: 30px; z-index: 90;}
+.memberBull6{position: absolute;top: 48%; left: 20%; width: 83px; height: 30px; z-index: 90;}
+
+ /* 一局完毕显示得分 
+ .memberScoreText1{position: absolute;top: 67%; left: 43%; width: 150px; height: 40px; z-index: 99;} */
+
+ .memberScoreText1{position: absolute;top: 79%; left: -38%; width: 100%; height: 40px; z-index: 99;}
+ .memberScoreText2{position: absolute;top: 44%; right: 20%; text-align: right; width: 150px; height: 40px; z-index: 99;}
+ .memberScoreText3{position: absolute;top: 25%; right: 20%; text-align: right; width: 150px; height: 40px; z-index: 99;}
+ /*.memberScoreText4{position: absolute;top: 20%; left: 43%; width: 150px; height: 40px; z-index: 99;}*/
+ .memberScoreText4{position: absolute;top: 17%; left: 1%; width: 100%; height: 40px; z-index: 99;}
+ .memberScoreText5{position: absolute;top: 25%; left: 20%; width: 150px; height: 40px; z-index: 99;}
+ .memberScoreText6{position: absolute;top: 44%; left: 20%; width: 150px; height: 40px; z-index: 99;}
+
+ .quitBack{position: absolute;width: 47px;height: 72px;border-radius:4px;top:9px;left:6px;background:#000;opacity:0.45;}
+ .member1 .quitBack{position: absolute;width: 58px;height: 88px;border-radius:4px;top:12px;left:8px;background:#000;opacity:0.45;}
+ .colorBorder{position: absolute;text-align: center;width: 45px;height: 69px;border:2px solid #df0000;border-radius:4px;top:9px;left:6px;}
+ .colorBorder .backColor{background:#df0000;opacity:0.45;height:100%;position: absolute;bottom:0;left:0;width:100%;}
+ .colorBorder1{width: 56px;height: 86px;border:3px solid #df0000;border-radius:6px;top:10px;left:6px; }
+ @keyframes mycolor1{0% {border-color: #04c120;}50% {border-color: #ffff3c;}100% {border-color: #df0000;}}
+ @-webkit-keyframes mycolor1 {0% {border-color: #04c120;}50% {border-color: #ffff3c;}100% {border-color: #df0000;}}
+ @keyframes mycolor2{0% {background:#04c120;height: 0;}50% {background:#ffff3c;}100% {background:#df0000;height: 100%;}}
+ @-webkit-keyframes mycolor2{0% {background:#04c120;height: 0;}50% {background:#ffff3c;}100% {background:#df0000;height: 100%;}}
+
+
+ .place{width:120px;height:120px;position: absolute;top:30%;left:165px;}
+ .place .scoresArea{position: relative;width: 100%;height:100%;}
+ .place .totalScore{position: absolute;top:-25px;left: 20px;width: 80px;}
+ .place .totalScore img{position: absolute;width: 20px;left: 0;top:0;}
+ .place .totalScore .scores{height: 20px;line-height: 20px;text-align: right;padding: 0 13px;border-radius:10px;background: #376e8d;color:#fff;font-size:14px;width:40%;}
+
+.coin{width: 28px;height:28px;background:url("../images/game/round.png");background-size:818px 97px;position: absolute;}
+.coin1{left:40px;top:250px;}
+.coin2{left:150px;top:70px;}
+.coin3{left:150px;top:-30px;}
+.coin4{left:40px;top:-80px;}
+.coin5{left:-60px;top:-30px;}
+.coin6{left:-60px;top:70px;}
+.coinType2{background-position:-194 -4;}
+.coinType4{background-position:-2 -4;}
+.coinType8{background-position:-31 -4;}
+.coinType10{background-position:-223 -4;}
+.coinType16{background-position:-59 -4;}
+.coinType20{background-position:-87 -4;}
+
+.myButton{position: absolute;top:55%;width:100%;}
+.myButton .scoreList{width:300px;margin:0 auto; }
+.myButton .scoreList .scoreItem{width: 50px;height:54px;background:url("../images/game/round.png");background-size:801px 95px;float: left;margin-left: 20px;}
+.myButton .scoreList .scoreItem11{background-position:-174 -36;}
+.myButton .scoreList .scoreItem10{background-position:-397 -36;}
+.myButton .scoreList .scoreItem21{background-position:-117 -36;}
+.myButton .scoreList .scoreItem20{background-position:-341 -36;}
+.myButton .scoreList .scoreItem31{background-position:-61 -36;}
+.myButton .scoreList .scoreItem30{background-position:-286 -36;}
+.myButton .scoreList .scoreItem41{background-position:-3 -36;}
+.myButton .scoreList .scoreItem51{background-position:-627 -36;}
+.myButton .scoreList .scoreItem50{background-position:-741 -36;}
+.myButton .scoreList .scoreItem61{background-position:-685 -36;}
+
+.myButton .doubleButton{width:220px;margin:0 auto;}
+.myButton .doubleButton .isSee{margin-top: 160px;}
+.myButton .doubleButton .isSee .leftButton{width: 70px;float: left;margin-left: -10px;}
+.myButton .doubleButton .isSee .rightButton{width:70px;float: right;margin-right: -10px;}
+.myButton .doubleButton .isSee img{width: 100%;}
+.myButton .doubleButton .isOver{margin-top: 150px;}
+.myButton .doubleButton .isOver .button{width: 50px;height:50px;background:url("../images/game/round.png");background-size:801px 95px;}
+.myButton .doubleButton .isOver .leftButton{float: left;background-position:-512 -36;}
+.myButton .doubleButton .isOver .rightButton1{float: right;background-position:-569 -36;}
+.myButton .doubleButton .isOver .rightButton{float: right;background-position:-454 -36;}
+
+
+.messageSay{position: absolute;height: 18px;font-size: 12px;color: #fff;background: #060408;border-radius: 9px;padding: 0 9px;opacity: .75;line-height: 18px;z-index: 97}
+.messageSay1{top:81%;left: 5%;}
+.messageSay1 .triangle{position: absolute;top:18px;left:30px;width:0;height:0;border-top: 6px solid #060408;border-right: 12px solid transparent;}
+.messageSay2{top:37.4%;right: 3%;}
+.messageSay2 .triangle{position: absolute;top:18px;right:20px;width:0;height:0;border-top: 6px solid #060408;border-left: 12px solid transparent;}
+.messageSay3{top:21.4%;right: 3%;}
+.messageSay3 .triangle{position: absolute;top:18px;right:20px;width:0;height:0;border-top: 6px solid #060408;border-left: 12px solid transparent;}
+.messageSay4{top:18.3%;left: 40%;}
+.messageSay4 .triangle{position: absolute;top:-6;left:60px;width:0;height:0;border-bottom: 6px solid #060408;border-right: 12px solid transparent;}
+.messageSay5{top:21.4%;left: 3%;}
+.messageSay5 .triangle{position: absolute;top:18px;left:45px;width:0;height:0;border-top: 6px solid #060408;border-right: 12px solid transparent;}
+.messageSay6{top:37.4%;left: 3%;}
+.messageSay6 .triangle{position: absolute;top:18px;left:45px;width:0;height:0;border-top: 6px solid #060408;border-right: 12px solid transparent;}
+
+/* 26 37 */
+.card{width: 31px;height:43px;background:url("../images/bull/card.png");background-size:31px 43px;position: absolute;}
+.isQuit{width: 32px;height:32px;background:url("../images/game/round.png");background-size:818px 97px;background-position:-160 -1;position: absolute;}
+.isLose{width: 32px;height:32px;background:url("../images/game/round.png");background-size:818px 97px;background-position:-256 -1;position: absolute;}
+.isSeen{width: 32px;height:32px;background:url("../images/game/round.png");background-size:818px 97px;background-position:-123 -1;position: absolute;}
+
+.isQuit1{left:25%;top:5;width: 47px;height:47px;background-size:1282px 152px;background-position:-252 -4;z-index: 96;}
+.isLose1{left:25%;top:5;width: 47px;height:47px;background-size:1282px 152px;background-position:-402 -4;z-index: 96;}
+.myQuitBack{left:0;top:0;width:100%;height:100%;border-radius:4px;background:#000;opacity: .4;position: absolute;z-index: 92;}
+.isSeen1{display: none;}
+
+/* 1号位置暗牌 */
+.card11{animation:mymove11 .4s ;-webkit-animation:mymove11 .4s ;left:2%;top:87%;width: 50px;height:71px;background-size:50px 71px;margin-left: -25px;box-shadow:1px 1px 5px #333;}
+@keyframes mymove11{from {left:50%;top:40%;}to {left:2%;top:87%}}
+@-webkit-keyframes mymove11 {from {left:50%;top:40%;}to {left:2%;top:87%}}
+
+.card12{animation:mymove12 .4s ;-webkit-animation:mymove12 .4s ;left:26%;top:87%;width: 50px;height:71px;background-size:50px 71px;margin-left: -25px;box-shadow:1px 1px 5px #333;}
+@keyframes mymove12{from {left:50%;top:40%;}to {left:26%;top:87%}}
+@-webkit-keyframes mymove12 {from {left:50%;top:40%;}to {left:26%;top:87%}}	
+
+.card13{animation:mymove13 .4s ;-webkit-animation:mymove13 .4s ;left:50%;top:87%;width: 50px;height:71px;background-size:50px 71px;margin-left: -25px;box-shadow:1px 1px 5px #333;}
+@keyframes mymove13{from {left:50%;top:40%;}to {left:50%;top:87%}}
+@-webkit-keyframes mymove13{from {left:50%;top:40%;}to {left:50%;top:87%}}
+
+.card14{animation:mymove14 .4s ;-webkit-animation:mymove14 .4s ;left:74%;top:87%;width: 50px;height:71px;background-size:50px 71px;margin-left: -25px;box-shadow:1px 1px 5px #333;}
+@keyframes mymove14{from {left:50%;top:40%;}to {left:74%;top:87%}}
+@-webkit-keyframes mymove14{from {left:50%;top:40%;}to {left:74%;top:87%}}
+
+.card15{animation:mymove15 .4s ;-webkit-animation:mymove15 .4s ;left:98%;top:87%;width: 50px;height:71px;background-size:50px 71px;margin-left: -25px;box-shadow:1px 1px 5px #333;}
+@keyframes mymove15{from {left:50%;top:40%;}to {left:98%;top:87%}}
+@-webkit-keyframes mymove15{from {left:50%;top:40%;}to {left:98%;top:87%}}
+
+.isQuit2{right:3%;top:37.5%;}
+.isLose2{right:3%;top:37.5%;}
+.isSeen2{right:3%;top:37.5%;}
+/* 2号位置暗牌 */
+.card21{animation:mymove21 .4s ;-webkit-animation:mymove21 .4s ;right:0;top:45%;}
+@keyframes mymove21{from {right:50%;top:40%;}to {right:0;top:45%}}
+@-webkit-keyframes mymove21 {from {right:50%;top:40%;}to {right:0;top:45%}}
+
+.card22{animation:mymove22 .4s ;-webkit-animation:mymove22 .4s ;right:4%;top:45%;}
+@keyframes mymove22{from {right:50%;top:40%;}to {right:4%;top:45%}}
+@-webkit-keyframes mymove22 {from {right:50%;top:40%;}to {right:4%;top:45%}}
+
+.card23{animation:mymove23 .4s ;-webkit-animation:mymove23 .4s ;right:8%;top:45%;}
+@keyframes mymove23{from {right:50%;top:40%;}to {right:8%;top:45%}}
+@-webkit-keyframes mymove23{from {right:50%;top:40%;}to {right:8%;top:45%}}
+
+.card24{animation:mymove24 .4s ;-webkit-animation:mymove24 .4s ;right:12%;top:45%;}
+@keyframes mymove24{from {right:50%;top: 40%;}to {right: 12%;top: 45%}}
+@-webkit-keyframes mymove24{from {right: 50%;top: 40$}to {right: 12%;top: 45%}}
+
+.card25{animation:mymove25 .4s ;-webkit-animation:mymove25 .4s ;right:16%;top:45%;}
+@keyframes mymove25{from {right:50%;top: 40%;}to {right: 16%;top: 45%}}
+@-webkit-keyframes mymove25{from {right: 50%;top: 40$}to {right: 16%;top: 45%}}
+
+/* 2号位置摊牌 */
+.card211{right:0;top:45%;}
+.card221{right:4%;top:45%;}
+.card231{right:8%;top:45%;}
+.card241{right:12%;top:45%;}
+.card251{right:16%;top:45%;}
+
+
+.isQuit3{right:3%;top:11%;}
+.isLose3{right:3%;top:11%;}
+.isSeen3{right:3%;top:11%;}
+/* 3号位置暗牌 */
+.card31{animation:mymove31 .4s ;-webkit-animation:mymove31 .4s ;right:0;top:16%;}
+@keyframes mymove31{from {right:50%;top:40%;}to {right:0;top:16%}}
+@-webkit-keyframes mymove31 {from {right:50%;top:40%;}to {right:0;top:16%}}	
+
+.card32{animation:mymove32 .4s ;-webkit-animation:mymove32 .4s ;right:4%;top:16%;}
+@keyframes mymove32{from {right:50%;top:40%;}to {right:4%;top:16%}}
+@-webkit-keyframes mymove32 {from {right:50%;top:40%;}to {right:4%;top:16%}}
+
+.card33{animation:mymove33 .4s ;-webkit-animation:mymove33 .4s ;right:8%;top:16%;}
+@keyframes mymove33{from {right:50%;top:40%;}to {right:8%;top:16%}}
+@-webkit-keyframes mymove33{from {right:50%;top:40%;}to {right:8%;top:16%}}
+
+.card34{animation:mymove34 .4s ;-webkit-animation:mymove34 .4s ;right:12%;top:16%;}
+@keyframes mymove34{from {right:50%;top:40%;}to {right:12%;top:16%}}
+@-webkit-keyframes mymove34{from {right:50%;top:40%;}to {right:12%;top:16%}}
+
+.card35{animation:mymove35 .4s ;-webkit-animation:mymove35 .4s ;right:16%;top:16%;}
+@keyframes mymove35{from {right:50%;top:40%;}to {right:16%;top:16%}}
+@-webkit-keyframes mymove35{from {right:50%;top:40%;}to {right:16%;top:16%}}
+
+/* 3号位置摊牌牌 */
+.card311{right:0%;top:16%;}
+.card321{right:4%;top:16%;}
+.card331{right:8%;top:16%;}
+.card341{right:12%;top:16%;}
+.card351{right:16%;top:16%;}
+
+.isQuit4{left:44%;top:1%;}
+.isLose4{left:44%;top:1%;}
+.isSeen4{left:44%;top:1%;}
+/* 4号位置暗牌 */
+.card45{animation:mymove45 .4s ;-webkit-animation:mymove45 .4s ;left:40%;top:0;margin-left: -11px;}
+@keyframes mymove45{from {left:50%;top:40%;}to {left:40%;top:0}}
+@-webkit-keyframes mymove45{from {left:50%;top:40%;}to {left:40%;top:0}}
+
+.card44{animation:mymove44 .4s ;-webkit-animation:mymove44 .4s ;left:44%;top:0;margin-left: -11px;}
+@keyframes mymove44{from {left:50%;top:40%;}to {left:44%;top:0}}
+@-webkit-keyframes mymove44{from {left:50%;top:40%;}to {left:44%;top:0}}
+
+.card43{animation:mymove41 .4s ;-webkit-animation:mymove41 .4s ;left:48%;top:0;margin-left: -11px;}
+@keyframes mymove41{from {left:50%;top:40%;}to {left:48%;top:0}}
+@-webkit-keyframes mymove41 {from {left:50%;top:40%;}to {left:48%;top:0}}
+
+.card42{animation:mymove42 .4s ;-webkit-animation:mymove42 .4s ;left:52%;top:0;margin-left: -11px;}
+@keyframes mymove42{from {left:50%;top:40%;}to {left:52%;top:0}}
+@-webkit-keyframes mymove42 {from {left:50%;top:40%;}to {left:52%;top:0%}}
+
+.card41{animation:mymove43 .4s ;-webkit-animation:mymove43 .4s ;left:56%;top:0;margin-left: -11px;}
+@keyframes mymove43{from {left:50%;top:40%;}to {left:56%;top:0}}
+@-webkit-keyframes mymove43{from {left:50%;top:40%;}to {left:56%;top:0}}
+
+/* 4号位置摊牌 */
+.card451{left:40%;top:0;margin-left: -11px;}
+.card441{left:44%;top:0;margin-left: -11px;}
+.card431{left:48%;top:0;margin-left: -11px;}
+.card421{left:52%;top:0;margin-left: -11px;}
+.card411{left:56%;top:0;margin-left: -11px;}
+
+.isQuit5{left:3%;top:11%;}
+.isLose5{left:3%;top:11%;}
+.isSeen5{left:3%;top:11%;}
+/* 5号位置暗牌 */
+.card55{animation:mymove55 .4s ;-webkit-animation:mymove55 .4s ;left:0;top:16%;}
+@keyframes mymove55{from {left:50%;top:40%;}to {left:0;top:16%}}
+@-webkit-keyframes mymove53{from {left:50%;top:40%;}to {left:0;top:16%}}
+
+.card54{animation:mymove54 .4s ;-webkit-animation:mymove54 .4s ;left:4%;top:16%;}
+@keyframes mymove54{from {left:50%;top:40%;}to {left:4%;top:16%}}
+@-webkit-keyframes mymove53{from {left:50%;top:40%;}to {left:4%;top:16%}}
+
+.card53{animation:mymove51 .4s ;-webkit-animation:mymove51 .4s ;left:8%;top:16%;}
+@keyframes mymove51{from {left:50%;top:40%;}to {left:8%;top:16%}}
+@-webkit-keyframes mymove51 {from {left:50%;top:40%;}to {left:8%;top:16%}}	
+
+.card52{animation:mymove52 .4s ;-webkit-animation:mymove52 .4s ;left:12%;top:16%;}
+@keyframes mymove52{from {left:50%;top:40%;}to {left:12%;top:16%}}
+@-webkit-keyframes mymove52 {from {left:50%;top:40%;}to {left:12%;top:16%}}	
+
+.card51{animation:mymove53 .4s ;-webkit-animation:mymove53 .4s ;left:16%;top:16%;}
+@keyframes mymove53{from {left:50%;top:40%;}to {left:16%;top:16%}}
+@-webkit-keyframes mymove53{from {left:50%;top:40%;}to {left:16%;top:16%}}
+
+/* 5号位置摊牌 */
+.card551{left:0;top:16%;}
+.card541{left:4%;top:16%;}
+.card531{left:8%;top:16%;}
+.card521{left:12%;top:16%;}
+.card511{left:16%;top:16%;}
+
+.isQuit6{left:3%;top:37.5%;}
+.isLose6{left:3%;top:37.5%;}
+.isSeen6{left:3%;top:37.5%;}
+/* 6号位置暗牌 */
+.card65{animation:mymove65 .4s ;-webkit-animation:mymove65 .4s ;left:0;top:45%;}
+@keyframes mymove65{from {left:50%;top:40%;}to {left:0;top:45%}}
+@-webkit-keyframes mymove65 {from {left:50%;top:40%;}to {left:0;top:45%}}
+
+.card64{animation:mymove64 .4s ;-webkit-animation:mymove64 .4s ;left:4%;top:45%;}
+@keyframes mymove64{from {left:50%;top:40%;}to {left:4%;top:45%}}
+@-webkit-keyframes mymove64 {from {left:50%;top:40%;}to {left:4%;top:45%}}	
+
+.card63{animation:mymove63 .4s ;-webkit-animation:mymove63 .4s ;left:8%;top:45%;}
+@keyframes mymove63{from {left:50%;top:40%;}to {left:8%;top:45%}}
+@-webkit-keyframes mymove63{from {left:50%;top:40%;}to {left:8%;top:45%}}
+
+.card62{animation:mymove62 .4s ;-webkit-animation:mymove62 .4s ;left:12%;top:45%;}
+@keyframes mymove62{from {left:50%;top:40%;}to {left:12%;top:45%}}
+@-webkit-keyframes mymove62{from {left:50%;top:40%;}to {left:12%;top:45%}}
+
+.card61{animation:mymove61 .4s ;-webkit-animation:mymove61 .4s ;left:16%;top:45%;}
+@keyframes mymove61{from {left:50%;top:40%;}to {left:16%;top:45%}}
+@-webkit-keyframes mymove61{from {left:50%;top:40%;}to {left:16%;top:45%}}
+
+/* 6号位置摊牌 */
+.card651{left:0;top:45%;}
+.card641{left:4%;top:45%;}
+.card631{left:8%;top:45%;}
+.card621{left:12%;top:45%;}
+.card611{left:16%;top:45%;}
+
+/********************************* 翻牌   ***********************************************/
+.cardOver{position: absolute;height: 100%;top:0;}
+.cardOver .cardResult{position: relative;height: 100%;}
+.cardOver .name{color: #fff;font-size: 10px;text-align: center;line-height: 16px;position: absolute;top: 15%;width: 100%;left:0;}
+
+.cardOver .openCard{position: absolute;width: 100%;top: 34%;left: 15%;}
+.cardOver .cards{width: 31px;height: 43px;position: absolute;}
+.cardOver .face{width: 31px;height: 43px;border-radius:3px;position: absolute;-webkit-backface-visibility: hidden;-webkit-transition:all .6s;}
+.cardOver .front{background: url("../images/bull/card.png");background-size:31px 43px;z-index: 92;}
+.cardOver .back{background:url("../images/game/cards.jpg");-webkit-transform:rotateY(-180deg);z-index: 91;background-size:389px 171px;box-shadow:1px 1px 5px #333;}
+/*牌面定位样式*/
+.cardOver .cardA1{background-position: 1 -129;}
+.cardOver .cardA2{background-position: -29 -129;}
+.cardOver .cardA3{background-position: -59 -129;}
+.cardOver .cardA4{background-position: -89 -129;}
+.cardOver .cardA5{background-position: -119 -129;}
+.cardOver .cardA6{background-position: -149 -129;}
+.cardOver .cardA7{background-position: -179 -129;}
+.cardOver .cardA8{background-position: -209 -129;}
+.cardOver .cardA9{background-position: -239 -129;}
+.cardOver .cardA10{background-position: -269 -129;}
+.cardOver .cardA11{background-position: -299 -129;}
+.cardOver .cardA12{background-position: -329 -129;}
+.cardOver .cardA13{background-position: -359 -129;}
+.cardOver .cardB1{background-position: 1 -86;}
+.cardOver .cardB2{background-position: -29 -86;}
+.cardOver .cardB3{background-position: -59 -86;}
+.cardOver .cardB4{background-position: -89 -86;}
+.cardOver .cardB5{background-position: -119 -86;}
+.cardOver .cardB6{background-position: -149 -86;}
+.cardOver .cardB7{background-position: -179 -86;}
+.cardOver .cardB8{background-position: -209 -86;}
+.cardOver .cardB9{background-position: -239 -86;}
+.cardOver .cardB10{background-position: -269 -86;}
+.cardOver .cardB11{background-position: -299 -86;}
+.cardOver .cardB12{background-position: -329 -86;}
+.cardOver .cardB13{background-position: -359 -86;}
+.cardOver .cardC1{background-position: 1 0;}
+.cardOver .cardC2{background-position: -29 0;}
+.cardOver .cardC3{background-position: -59 0;}
+.cardOver .cardC4{background-position: -89 0;}
+.cardOver .cardC5{background-position: -119 0;}
+.cardOver .cardC6{background-position: -149 0;}
+.cardOver .cardC7{background-position: -179 0;}
+.cardOver .cardC8{background-position: -209 0;}
+.cardOver .cardC9{background-position: -239 0;}
+.cardOver .cardC10{background-position: -269 0;}
+.cardOver .cardC11{background-position: -299 0;}
+.cardOver .cardC12{background-position: -329 0;}
+.cardOver .cardC13{background-position: -359 0;}
+.cardOver .cardD1{background-position: 1 -43;}
+.cardOver .cardD2{background-position: -29 -43;}
+.cardOver .cardD3{background-position: -59 -43;}
+.cardOver .cardD4{background-position: -89 -43;}
+.cardOver .cardD5{background-position: -119 -43;}
+.cardOver .cardD6{background-position: -149 -43;}
+.cardOver .cardD7{background-position: -179 -43;}
+.cardOver .cardD8{background-position: -209 -43;}
+.cardOver .cardD9{background-position: -239 -43;}
+.cardOver .cardD10{background-position: -269 -43;}
+.cardOver .cardD11{background-position: -299 -43;}
+.cardOver .cardD12{background-position: -329 -43;}
+.cardOver .cardD13{background-position: -359 -43;}
+
+.cardOver .card-flipped .front{z-index: 91;-webkit-transform: rotateY(180deg);}
+.cardOver .card-flipped .back{z-index: 92;-webkit-transform: rotateY(0deg);}
+
+/*40 自己牌尺寸 57*/
+.myCards {position: absolute;width: 100%;top: 87%;}
+.myCards .winText{position: absolute;width: 100%;top:-50px;}
+.myCards .winText img{width: 120%;margin-left: -10%;}
+.myCards .cards{width: 50px;height: 71px;position: absolute; }
+.myCards .face{width: 50px;height: 71px;border-radius:4px;position: absolute; transform-style: preserve-3d;-webkit-backface-visibility: hidden;-webkit-transition:all .6s; }
+.myCards .front{background: url("../images/bull/card.png");-webkit-transform: rotateY(0deg);background-size:50px 71px;z-index: 92;}
+/*519 228*/
+.myCards .back{background:url("../images/game/cards.jpg");-webkit-transform: rotateY(180deg);z-index: 91;background-size:649px 285px;box-shadow:1px 1px 5px #333;}
+
+.myCards .card-flipped .front{z-index: 91;-webkit-transform: rotateY(180deg);}
+.myCards .card-flipped .back{z-index: 92;-webkit-transform: rotateY(0deg);}
+
+/*牌面定位样式*/
+.myCards .cardA1{background-position: 1 -213;}
+.myCards .cardA2{background-position: -49 -213;}
+.myCards .cardA3{background-position: -99 -213;}
+.myCards .cardA4{background-position: -149 -213;}
+.myCards .cardA5{background-position: -199 -213;}
+.myCards .cardA6{background-position: -249 -213;}
+.myCards .cardA7{background-position: -299 -213;}
+.myCards .cardA8{background-position: -349 -213;}
+.myCards .cardA9{background-position: -399 -213;}
+.myCards .cardA10{background-position: -449 -213;}
+.myCards .cardA11{background-position: -499 -213;}
+.myCards .cardA12{background-position: -549 -213;}
+.myCards .cardA13{background-position: -599 -213;}
+.myCards .cardB1{background-position: 1 -142;}
+.myCards .cardB2{background-position: -49 -142;}
+.myCards .cardB3{background-position: -99 -142;}
+.myCards .cardB4{background-position: -149 -142;}
+.myCards .cardB5{background-position: -199 -142;}
+.myCards .cardB6{background-position: -249 -142;}
+.myCards .cardB7{background-position: -299 -142;}
+.myCards .cardB8{background-position: -349 -142;}
+.myCards .cardB9{background-position: -399 -142;}
+.myCards .cardB10{background-position: -449 -142;}
+.myCards .cardB11{background-position: -499 -142;}
+.myCards .cardB12{background-position: -549 -142;}
+.myCards .cardB13{background-position: -599 -142;}
+.myCards .cardC1{background-position: 1 0;}
+.myCards .cardC2{background-position: -49 0;}
+.myCards .cardC3{background-position: -99 0;}
+.myCards .cardC4{background-position: -149 0;}
+.myCards .cardC5{background-position: -199 0;}
+.myCards .cardC6{background-position: -249 0;}
+.myCards .cardC7{background-position: -299 0;}
+.myCards .cardC8{background-position: -349 0;}
+.myCards .cardC9{background-position: -399 0;}
+.myCards .cardC10{background-position: -449 0;}
+.myCards .cardC11{background-position: -499 0;}
+.myCards .cardC12{background-position: -549 0;}
+.myCards .cardC13{background-position: -599 0;}
+.myCards .cardD1{background-position: 1 -71;}
+.myCards .cardD2{background-position: -49 -71;}
+.myCards .cardD3{background-position: -99 -71;}
+.myCards .cardD4{background-position: -149 -71;}
+.myCards .cardD5{background-position: -199 -71;}
+.myCards .cardD6{background-position: -249 -71;}
+.myCards .cardD7{background-position: -299 -71;}
+.myCards .cardD8{background-position: -349 -71;}
+.myCards .cardD9{background-position: -399 -71;}
+.myCards .cardD10{background-position: -449 -71;}
+.myCards .cardD11{background-position: -499 -71;}
+.myCards .cardD12{background-position: -549 -71;}
+.myCards .cardD13{background-position: -599 -71;}
+
+/*自己牌，发完之后*/
+.myCards .card0{top: 0;left: 2%;margin-left: -25px;}
+.myCards .card1{top: 0;left: 26%;margin-left: -25px;}
+.myCards .card2{top: 0;left: 50%;margin-left: -25px;}
+.myCards .card3{top: 0;left: 74%;margin-left: -25px;}
+.myCards .card4{top: 0;left: 98%;margin-left: -25px;}
+
+/*自己牌，摊牌之后*/
+.myCards .card00{top: 0;left: 2%;margin-left: -25px;}
+.myCards .card01{top: 0;left: 26%;margin-left: -25px;}
+.myCards .card02{top: 0;left: 50%;margin-left: -25px;}
+.myCards .card03{top: 0;left: 74%;margin-left: -25px;}
+.myCards .card04{top: 0;left: 98%;margin-left: -25px;}
+
+.cardOver1{display: none;}
+.cardOver2{right: 0;}
+.cardOver3{right: 0;}
+.cardOver4{left: -14px;}
+.cardOver5{left:0;}
+.cardOver6{left:0;}	
+
+/* 排行榜 
+.ranking{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 110;display: none;}	
+.ranking .roundEndShow{display: none;}	
+.ranking .rankBack{width: 100%;height:100%;background: #000;opacity:0.7}	
+.ranking .rankText{width: 100%;position: absolute;top:12%;left: 0;}		
+.ranking .rankText .title{width: 100%;}	
+.ranking .rankText .time{text-align: center;margin-top: 12px;margin-bottom: 10px;}
+.ranking .rankText .time a{border-radius: 12px;border: 1px solid #f7d92b;color:#f7d92b;padding: 4px 12px;width: 200px;font-size: 14px;}
+.ranking .rankText .scoresItem{width:50%;margin:0 auto;height:42px;line-height:42px;font-size:18px;position: relative; }
+.ranking .rankText .scoresItemWhite{color:#fff; }
+.ranking .rankText .scoresItemWhite a{color:#fff; }
+.ranking .rankText .scoresItemYellow{color:#f7d92b;}
+.ranking .rankText .scoresItemYellow a{color:#f7d92b;}
+.ranking .rankText .scoresItem .name{width: 50%;height:42px;overflow: hidden;word-break:break-all;position: absolute;left: 0;top:0;}
+.ranking .rankText .scoresItem .currentScores{width:42%;text-align: left;position: absolute;right: 0;top:0;}
+.ranking  .button{width:100%;position: absolute;bottom:12%; }
+.ranking  .button img{width:33%;}
+*/
+
+.ranking{position: absolute;width: 200%;height:200%;top:0;left:0;z-index: 1;display: none;}	
+.ranking .roundEndShow{display: none;}	
+.ranking .rankBack{width: 100%;height:100%;background: #000;opacity:0.7}	
+.ranking .rankText{width: 100%;position: absolute;top:12%;left: 0;}		
+.ranking .rankText .title{width: 880px;left: 50%;margin-left: -440px;top:0;z-index:21;position: absolute;height: 143px;}	
+.ranking .rankText .rankTextBack{width: 600px;background:#261103;border:2px solid #9e572a;border-radius:20px;position:relative; margin: 0 auto;margin-top: 100px;z-index:20;}	
+.ranking .rankText .rankTextBack .time{text-align: center;margin-top: 24px;margin-bottom: 20px;}
+.ranking .rankText .rankTextBack .time a{border-radius: 24px;border: 2px solid #f7d92b;color:#f7d92b;padding: 8px 24px;width: 400px;font-size: 28px;}
+.ranking .rankText .rankTextBack .scoresItem{width:80%;margin:0 auto;height:84px;line-height:84px;font-size:32px;position: relative; }
+.ranking .rankText .rankTextBack .scoresItemWhite{color:#fff; }
+.ranking .rankText .rankTextBack .scoresItemWhite a{color:#fff; }
+.ranking .rankText .rankTextBack .scoresItemYellow{color:#f7d92b;}
+.ranking .rankText .rankTextBack .scoresItemYellow a{color:#f7d92b;}
+.ranking .rankText .rankTextBack .scoresItem .name{width: 50%;height:84px;overflow: hidden;word-break:break-all;position: absolute;left: 0;top:0;}
+.ranking .rankText .rankTextBack .scoresItem .currentScores{width:32%;text-align: left;position: absolute;right: 0;top:0;}
+.ranking  .button{width:100%;position: absolute;bottom:12%; }
+.ranking  .button img{width:33%;}
+
+/* 玩家消息 
+.message{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 110;}	
+.message .messageBack{width: 100%;height:100%;}	
+.message .textPart{width: 100%;position: absolute;left: 0;bottom:0;height:0; }	
+.message .textPart .head{width: 100%;}	
+.message .textPart .head img{width: 100%;height: 30px;}	
+.message .textPart .textItem{width: 80%;height: 40px;line-height: 40px;font-size: 14px;background: #150e2d;border-bottom:1px solid #322b4c;color:#bbb;padding:0 10%; }
+*/
+
+.message{position: fixed;width: 100%;height:100%;z-index: 110;top:0;left:0;}	
+.message .messageBack{width: 100%;height:100%;position: absolute;top:0;left:0;}	
+.message .textPart{position: absolute;width: 240px;height:260px;bottom:53px;right:10px;padding:10px; }	
+.message .textPart .outline{position: absolute;background: #9799b1;opacity: 0.85;width: 98%;height:100%;border:2px solid #c6d3de;border-radius:10px;top:-4px;left: .5%;}
+.message .textPart .textList {border:1px solid #c6d3de;position: relative;height:260px;overflow: auto;}
+.message .textPart .textList .textItem{width: 90%;height: 38px;line-height: 38px;font-size: 14px;background: #232627;border-bottom:1px solid #666;color:#fff;padding:0 5%;position: relative;font-family: simHei;}
+
+.erweima{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;}
+.erweima .inviteBack{width: 100%;height:100%;background: #000;opacity:0.8;position: absolute;}
+.erweima .inviteText{margin: 0 auto;margin-top:30%;width:300px;line-height: 40px;font-size: 18px;color: #fff;font-family: simHei;position: relative;}
+.erweima .inviteText .invite1{width: 60px;position: absolute; top:240px;left: 140px;}

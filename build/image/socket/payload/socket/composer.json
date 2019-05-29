@@ -1,0 +1,6 @@
+{
+    "require": {
+        "workerman/gateway-worker": "^3.0",
+        "predis/predis": "^1.1"
+    }
+}

@@ -1,0 +1,431 @@
+/* 这是牛牛规则页面的样式 */
+
+/* 0.5透明度的黑色遮蔽层 */
+.bullP-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #0000007F;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+
+/* 0.5透明度的白色区域 */
+.bullP-area{
+    width: 90vw;
+    height: 80vh;
+    background: rgba(255, 255, 255, 0.5);
+    position: fixed;
+    top: 5vh;
+    left: 5vw;
+    border-radius: 5px;
+    position: relative;
+    padding-top: 5px;
+}
+
+/* 关闭按钮 */
+.bullP-close {
+    position: absolute;
+    width: 8vw;
+    height: 8vw;
+    right: -2vw;
+    top: -2vw;
+}
+
+/* 房间设置 */
+.bullP-title {
+    width: 50%;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    line-height: 3.2;
+    font-size: 4vw;
+    letter-spacing: 3px;
+}
+.bullP-title > img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.bullP-title > span {
+    position: relative;
+    color:#7D2F00;
+}
+
+/* 整个房间设置的展示区域 */
+.bullP-show {
+    width: calc(100% - 10px);
+    height: calc(100% - 35px);
+    margin: 0 auto;
+    background: #FFF4DC;
+    padding-top: 30px;
+}
+
+/* 房间设置的提示区域 */
+.bullP-tips {
+    width: 100%;
+    position: relative;
+}
+.bullP-tips-before {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+    height: 3px;
+    background: linear-gradient(to right,rgba(160, 74, 25, 0), rgba(160, 74, 25,1));
+}
+.bullP-tips-after{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+    height: 3px;
+    background: linear-gradient(to right,rgba(160, 74, 25, 1), rgba(160, 74, 25, 0));
+}
+.bullP-tips-text {
+    width: 200px;
+    height: 30px;
+    font-size: 12px;
+    color: #A04A19;
+    margin: 0 auto;
+    line-height: 30px;
+    text-align: center;
+}
+/* 牛牛模式区域 */
+.bullP-mode {
+    height: 8vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 5vw;
+}
+.bullP-mode-index {
+    flex: 1;
+    height: 6vh;
+    margin-right: 1vw;
+    position: relative;
+}
+.bullP-mode-index:last-child {
+    margin-right: 0;
+}
+.bullP-mode-index > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.mode_name{
+    width: 100%;
+    text-align: center;
+    font-size: 3vw;
+    color:#653604;
+    position: relative;
+}
+/* 背景框部分 */
+.bullP-control {
+    width: calc(100% - 10px);
+    height: calc(100% - 40px - 18vh);
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    padding-top: 10px;
+}
+.bullP-control > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* 真正存放内容的区域 */
+.bullP-property {
+    position: relative;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    margin: 0 auto;
+    overflow: scroll;
+}
+
+/* 底分区域 */
+.bullP-score {
+    width: 100%;
+    overflow: hidden;
+}
+
+/* 标题和配置区的统一样式 */
+.bullP-property-title {
+    float: left;
+    width: 15%;
+    color:#714D29;
+    text-align: right;
+    font-size: 3vw;
+    height: 3.6vh;
+    line-height: 3.6vh;
+}
+.bullP-property-area {
+    width: 85%;
+    float: left;
+}
+/* 底分单选框区域 */
+.bullP-score-item {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.bullP-score-item:last-child {
+    width: auto;
+}
+.bullP-score-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.bullP-score-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.bullP-score-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+.bullP-score-text > select {
+    background: linear-gradient(to bottom, #CDAD6F, #E9D4A1);
+    border: 1px #B4822C solid;
+    color: #633201;
+    width: 15vw;
+}
+/* 时间区域的样式 */
+.bullP-time {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.bullP-time-select {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.bullP-time-select:last-child {
+    width: auto;
+}
+.bullP-time-select > span {
+    float: left;
+    font-size: 3vw;
+    color:#633201;
+    margin-right: 2vw;
+}
+.bullP-time-select > select {
+    float: left;
+    background: linear-gradient(to bottom, #CDAD6F, #E9D4A1);
+    border: 1px #B4822C solid;
+    color: #633201;
+    width: 15vw;
+}
+/* 规则区域 */
+.bullP-rule {
+    overflow: hidden;
+    width: 100%;
+    margin-top: 10px;
+}
+.bullP-rule-item {
+    width: auto;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+    overflow: hidden;
+}
+
+.bullP-rule-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.bullP-rule-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.bullP-rule-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+
+/* 牌型区域 */
+.bullP-porker {
+    margin-top: 10px;
+    overflow: hidden;
+    width: 100%;
+}
+.bullP-porker-item {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.bullP-porker-item:last-child {
+    width: auto;
+}
+.bullP-porker-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.bullP-porker-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.bullP-porker-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+
+/* 局数区域 */
+.bullP-num {
+    margin-top: 10px;
+    overflow: hidden;
+    width: 100%;
+}
+.bullP-num-item {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.bullP-porker-item:last-child {
+    width: auto;
+}
+.bullP-num-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.bullP-num-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.bullP-num-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+
+/* 倍数区域 */
+.bullP-multiple {
+    margin-top: 10px;
+    overflow: hidden;
+    width: 100%;
+}
+.bullP-multiple-item {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.bullP-multiple-item:last-child {
+    width: auto;
+}
+.bullP-multiple-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.bullP-multiple-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.bullP-multiple-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+
+/* 上庄区域 */
+.bullP-up {
+    margin-top: 10px;
+    overflow: hidden;
+    width: 100%;
+}
+.bullP-up-item {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.bullP-up-item:last-child {
+    width: auto;
+}
+.bullP-up-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.bullP-up-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.bullP-up-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+/* 保存按钮 */
+.bullP-save {
+    height: 10vh;
+    line-height: 10vh;
+    text-align: center;
+}
+.bullP-save > img {
+    height: 6vh;
+    width: 30vw;
+    vertical-align: middle;
+}

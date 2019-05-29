@@ -1,0 +1,415 @@
+.load4 .loader {
+    font-size: 20px;
+    top: 40%;
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    margin-left: -.5em;
+    margin-top: -.5em;
+    text-indent: -9999em;
+    -webkit-animation: load4 1.3s infinite linear;
+    animation: load4 1.3s infinite linear;
+    transform:scale(.7);
+}
+@-webkit-keyframes load4 {
+    0%,
+    100% {
+        box-shadow: 0em -3em 0em 0.2em #ffffff, 2em -2em 0 0em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 0em #ffffff;
+    }
+    12.5% {
+        box-shadow: 0em -3em 0em 0em #ffffff, 2em -2em 0 0.2em #ffffff, 3em 0em 0 0em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    25% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 0em #ffffff, 3em 0em 0 0.2em #ffffff, 2em 2em 0 0em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    37.5% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 0em #ffffff, 2em 2em 0 0.2em #ffffff, 0em 3em 0 0em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    50% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 0em #ffffff, 0em 3em 0 0.2em #ffffff, -2em 2em 0 0em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    62.5% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 0em #ffffff, -2em 2em 0 0.2em #ffffff, -3em 0em 0 0em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    75% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 0em #ffffff, -3em 0em 0 0.2em #ffffff, -2em -2em 0 0em #ffffff;
+    }
+    87.5% {
+        box-shadow: 0em -3em 0em 0em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 0em #ffffff, -3em 0em 0 0em #ffffff, -2em -2em 0 0.2em #ffffff;
+    }
+}
+@keyframes load4 {
+    0%,
+    100% {
+        box-shadow: 0em -3em 0em 0.2em #ffffff, 2em -2em 0 0em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 0em #ffffff;
+    }
+    12.5% {
+        box-shadow: 0em -3em 0em 0em #ffffff, 2em -2em 0 0.2em #ffffff, 3em 0em 0 0em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    25% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 0em #ffffff, 3em 0em 0 0.2em #ffffff, 2em 2em 0 0em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    37.5% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 0em #ffffff, 2em 2em 0 0.2em #ffffff, 0em 3em 0 0em #ffffff, -2em 2em 0 -0.5em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    50% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 0em #ffffff, 0em 3em 0 0.2em #ffffff, -2em 2em 0 0em #ffffff, -3em 0em 0 -0.5em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    62.5% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 0em #ffffff, -2em 2em 0 0.2em #ffffff, -3em 0em 0 0em #ffffff, -2em -2em 0 -0.5em #ffffff;
+    }
+    75% {
+        box-shadow: 0em -3em 0em -0.5em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 0em #ffffff, -3em 0em 0 0.2em #ffffff, -2em -2em 0 0em #ffffff;
+    }
+    87.5% {
+        box-shadow: 0em -3em 0em 0em #ffffff, 2em -2em 0 -0.5em #ffffff, 3em 0em 0 -0.5em #ffffff, 2em 2em 0 -0.5em #ffffff, 0em 3em 0 -0.5em #ffffff, -2em 2em 0 0em #ffffff, -3em 0em 0 0em #ffffff, -2em -2em 0 0.2em #ffffff;
+    }
+}
+
+.footPoint{position: absolute;top: 1.5%;left: 3%;width: 26%;z-index:91;color: #fff;height: 3.2vh;line-height: 3.2vh;border-radius: 1.8vh;font-size: 2vh;text-align: center; background: rgba(0,0,0,0.5);}
+.footPoint .footImg{ vertical-align: middle; height: 3.2vh;}
+.footPoint .baseScore{ vertical-align: middle; }
+*{padding: 0;margin:0;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-backface-visibility: hidden;}a {text-decoration: none;color: #fff;}ul {list-style: none;}input{border: none;outline:none}body{font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', 微软雅黑, Arial, sans-serif;cursor: default;}
+img{border: none;}
+
+.main-bg{position: absolute;left: 0;top: 0;width: 100vw;height: 100vh;}
+.main-bg img{position: fixed;width: 100vh;height: 100vh;}
+/*顶部和底部start*/
+.bottom{position: fixed;bottom:0;left: 0;width: 100%;z-index:90; height: 8vh;}
+.bottomGameRule{position: absolute;bottom:0.75vh;left: 2vh;width: 6vh; height: 6vh;z-index:90;}
+.bottomGameHistory{position: absolute;bottom:0.75vh;left: 10vh;width: 6vh; height: 6vh;z-index:90;}
+.bottomBackIndex{position: absolute; top: 1.2%; right:25%;  height: 3.6vh;z-index:91; line-height: 3.2vh;}
+.bottomGameMessage{position: absolute;bottom:0.75vh;right: 2vh;width: 6vh; height: 6vh;z-index:90;}
+.audienceLook{ position: absolute; z-index: 91; top: 1.5%; right: 3%; text-align: center; width: 20%; height: 3.2vh; color: #fff; background: rgba(0, 0, 0, 0.5); border-radius: 1.8vh; font-size: 2vh; height: 3.2vh; line-height: 3.2vh;}
+.audienceLook .lookImg{ vertical-align: middle; height: 3.2vh; }
+.audienceLook .lookFont{ vertical-align: middle; }
+/*顶部和底部 end*/
+
+/*信息弹框start*/
+.message{position: fixed;width: 100%;height:100%;z-index: 110;top:0;left:0;}
+.message .messageBack{width: 100%;height:100%;position: absolute;top:0;left:0;}
+.message .textPartOuter{position: absolute;width: 36vh;height:40vh;bottom:10vh;right:2vh;padding: 1vh 1vh 1vh 1vh;background:rgba(255,255,255,0.3);border-radius: 1vh;}
+.message .textPart{position: absolute;width: 34vh;height:38vh !important;bottom:11vh;right:3.2vh;overflow: hidden; border:4px solid #DAB674; background:rgba(59, 37, 27, 0.9); border-radius:5px;}
+.message .textPart .outline{position: absolute;background: #634fa6;opacity: 1;width: 98%;height:100%;border:0.2vh solid #a684f2;border-radius:10px;top:-0.5vh;left: .5%;}
+.message .textPart .textList {position: relative;}
+.message .textPart .textList .textItem{width: 80%;height: 6vh;line-height: 6vh;font-size: 2.1vh;border-bottom:1px solid #666;color:#fff;padding:0 5%;position: relative;font-family: simHei; margin-left:10px;}
+/*信息弹框end*/
+
+/*声音弹框start*/
+.audioRoom{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;}
+.audioRoom .audioRoomBack{width: 100%;height:100%;background: #000;opacity:0.6;}
+.audioRoom .mainPart{width:42vh;height:27vh;top:44%;left:50%;margin-top:-16vh;margin-left: -21vh;position: absolute; border-radius: 3px; background:#FFF4DC;}
+.audioRoom .createB{width: calc(42vh + 10px);height:calc(27vh + 10px);top:calc(44% - 5px);left:calc(50% - 5px);margin-top:-16vh;margin-left: -21vh;position: absolute; background:rgba(255,255,255,0.3);border-radius: 3px; }
+.audioRoom .mainPart .createTitle{position:relative;height:5vh;text-align: center;}
+.audioRoom .mainPart .createTitle img{position:relative;height:2.6vh;margin-top: 1.2vh;}
+.audioRoom .mainPart .cancelCreate{width: 5vh;height:5vh;top:-2.5vh;right:-2.5vh;position: absolute;}
+.audioRoom .mainPart .createCommit{position: absolute;line-height: 5.5vh;height: 6vh;font-size: 2.5vh;width: 17vh;left:50%;margin-left:-8.5vh;bottom:-7vh;text-align: center;background:url("../images/common/button2.png");background-size:100%;color: #fff;}
+.audioRoom .mainPart .blueBack{width: 40vh;height: 15vh;margin:0 auto;position: relative; background:url("../images/common/backImg.png") no-repeat;background-size:contain;}
+.audioRoom .mainPart .blueBack .selectPart{width:100%;margin-top:4px;line-height:36px;font-size:2.2vh;position: relative;color:#111431;border-radius:0px;font-family:simHei; }
+.audioRoom .mainPart .blueBack .selectPart .selectTitle{float: left;width:13vh;text-align: right; color:#714D29; margin-left:5vh; }
+.audioRoom .mainPart .blueBack .selectPart .selectList{float: right; width: 20vh}
+.audioRoom .mainPart .blueBack .selectPart .selectList .selectItem{float: left;position:relative;margin-left:25px; }
+.audioRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectBox{float: left;height:3.4vh;width:3.4vh;border-radius:2px;border:1px solid #B4822C; background:linear-gradient(to bottom, #C8A766, #F1DFB0);position: relative; }
+.audioRoom .mainPart .blueBack .selectPart .selectList .selectItem img{position: absolute;width: 2.7vh;height:2.7vh;left: 0.4vh;top:0.4vh;}
+.audioRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectText{float: left;margin-left: 0.8vh; color:#714D29;}
+/*声音弹框end*/
+
+/*规则弹框start*/
+.createRoom{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;}
+.createRoom .createRoomBack{width: 100%;height:100%;background: #000;opacity:0.6;}
+.createRoom .mainPart{width: 300px;height:410px;top:44%;left:50%;margin-top:-165px;margin-left: -150px;position: absolute; background:#FFF4DC; border-radius: 5px;}
+.createRoom .createB{width: 310px;height:420px;top:calc(44% - 5px);left:calc(50% - 5px);margin-top:-165px;margin-left: -150px;position: absolute; background: rgba(255,255,255,0.3); border-radius: 5px; }
+.createRoom .mainPart .createTitle{padding-top:5px; text-align: center; background:url("../images/common/storetitle.png") no-repeat; background-size:contain; width:50vw; height:40px; margin: 0 auto; margin-top:-5px;}
+.createRoom .mainPart  .createTitle span{ color:#7D2F00; text-shadow: 2px 2px 2px white; font-weight:bold; font-size:20px; }
+.createRoom .mainPart .cancelCreate{width: 36px;height:36px;top:-16px;right:-16px;position: absolute;}
+.createRoom .mainPart .createCommit{position: absolute;line-height: 40px;height: 38px;font-size: 18px;width: 118px;left:50%;margin-left:-59px;bottom:-48px;text-align: center;background:url("../images/common/button2.png");background-size:100%;color: #fff;}
+.createRoom .mainPart .blueBack{width: 280px;height: 300px;margin:0 auto;overflow: scroll; background:url(../images/common/innerRuleborder.png) no-repeat; background-size: contain;padding-left:10px;  margin-left:10px;}
+.createRoom .mainPart .blueBack .selectPart{width:90%;margin-top:4px;line-height:36px;font-size:14px;position: relative;border-radius:0px;font-family:simHei; border-bottom: 1px solid #DAB674;}
+.createRoom .mainPart .blueBack .selectPart .selectTitle{float: left;width:55px; color:#714D29; font-weight: bold;  }
+.createRoom .mainPart .blueBack .selectPart .selectList{float: left; width: 220px; margin-left:-30px;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem{float: left;position:relative;margin-left:25px; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectBox{float: left;height:14px;width:14px;border:1px solid #1d1045;border-radius:2px;background:#78899d;margin-top:9px;position: relative; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem img{position: absolute;width: 20px;height:20px;left: 0;top:2px;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectText{float: left;margin-left: 5px; color:#714D29;}
+/*规则弹框end*/
+
+/*观战弹框start*/
+.watchList{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;}
+.watchList .watchClose{width: 100%;height:100%;background: #000;opacity:0.6;}
+.watchList .mainPart{width: 280px;top:44%;height: 380px;left:50%;margin-top:-200px;margin-left: -140px;position: absolute;border-radius: 5px;background:#FFF4DC;}
+.watchList  .createB{width: 290px;top:calc(44% - 5px);height: 390px;left:calc(50% - 5px);margin-top:-200px;margin-left: -140px;position: absolute; background:rgba(255,255,255,0.3); border-radius:5px;}
+.watchList .mainPart .createTitle{position:relative;height:36px;text-align: center;}
+.watchList .mainPart .createTitle{padding-top:5px; text-align: center; background:url("../images/common/storetitle.png") no-repeat; background-size:contain; width:50vw; height:40px; margin: 0 auto; margin-top:-5px;}
+.watchList .mainPart  .createTitle span{ color:#7D2F00; text-shadow: 2px 2px 2px white; font-weight:bold; font-size:20px; }
+.watchList .mainPart .cancelCreate{width: 36px;height:36px;top:-16px;right:-16px;position: absolute;}
+.watchList .mainPart .blueBack{width: 260px;height: 280px;margin:0 auto;position: relative;overflow: scroll; background:url("../images/common/innerRuleborder.png") no-repeat; background-size: contain; padding-left: 10px; margin-left: 10px;}
+.watchList .mainPart .blueBack div{ height: 36px;padding-left:20px;margin-top:4px;line-height:36px;font-size:14px;position: relative;border-radius:0px;font-family:simHei;overflow: hidden; border-bottom: 1px solid #DAB674; width:calc(100% - 40px);}
+.watchList .mainPart .blueBack div img{ display: block; width: 30px; height: 30px; margin: 3px 0;}
+.watchList .mainPart .blueBack div span{ display: block; width: 180px; float: right; overflow: hidden}
+.watchList .mainPart .watchOperate{position:absolute;bottom: 4px; left: 0; height: 40px; width: 100%;}
+.watchList .mainPart .watchOperate img{ display: block; margin: 2px auto 0; width:120px; height: 42px;}
+/*观战弹框end*/
+
+/*下注列表弹框start*/
+.ShowChipsList{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;}
+.ShowChipsList .ChipsClose{width: 100%;height:100%;background: #000;opacity:0.1;}
+.ShowChipsList .mainPart{bottom: 40vh;left: 12vw;position: absolute;border-radius: 5px;background: #FFF4DC;padding: 4vw 2vw;box-sizing: border-box;}
+.ShowChipsList  .createB{width: 78vw;bottom: calc(40vh - 2vw);height: 77vw;left: 10vw;position: absolute;background: rgba(255,255,255,0.3);border-radius: 5px;}
+/* .ShowChipsList .mainPart .blueBack{width: 260px;height: 280px;margin:0 auto;position: relative;overflow: scroll; background:url("../images/common/innerRuleborder.png") no-repeat; background-size: contain; padding-left: 10px; margin-left: 10px;} */
+/* .ShowChipsList .mainPart .blueBack div{ height: 36px;padding-left:20px;margin-top:4px;line-height:36px;font-size:14px;position: relative;border-radius:0px;font-family:simHei;overflow: hidden; border-bottom: 1px solid #DAB674; width:calc(100% - 40px);} */
+.ShowChipsList .mainPart .blueBack .blueBack-bg{width: 70vw;}
+.ShowChipsList .chips-area{position: absolute;left: 0;top: 0;height: 100%;width: 100%;overflow: hidden;box-sizing: border-box;padding: 5vw;}
+.ShowChipsList .chips-list{position: relative;width: 100%;height: 100%;box-sizing: border-box;padding: 5vw 1vw;overflow: auto;}
+.ShowChipsList .chips-list .list-item{width: 100%;height: 40px;line-height: 40px;border-bottom: 1px solid #DAB674;padding: 0 10px;box-sizing: border-box;}
+.ShowChipsList .list-item-left{float: left;color: #714D29;}
+.ShowChipsList .list-item-right{float: right;color: #FF8A00;}
+/*下注列表弹框end*/
+
+/*进入房间选择观战或游戏start*/
+.joinOrWatch{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;}
+.joinOrWatch .mainPart{width: 280px;top:44%;height: 375px;left:50%;margin-top:-150px;margin-left: -140px;position: absolute; background:#FFF4DC; border-radius:5px;}
+.joinOrWatch .createB{width: 290px;top:calc(44% - 5px);height: 385px;left:calc(50% - 5px);margin-top:-150px;margin-left: -140px;position: absolute; background:rgba(255,255,255,0.3); border-radius:5px;}
+.joinOrWatch .mainPart .cancelCreate{width: 36px;height:36px;top:-16px;right:-16px;position: absolute;}
+.joinOrWatch .mainPart .blueBack{width: 260px;height: 280px;margin:20px auto 0;position: relative;overflow: scroll; background:url("../images/common/innerRuleborder.png") no-repeat; background-size: contain; padding-left:10px; margin-left:10px;  }
+.joinOrWatch .mainPart .blueBack .selectPart{width:90%;margin-top:4px;line-height:36px;font-size:14px;position: relative;border-radius:0px;font-family:simHei; border-bottom: 1px solid #DAB674; }
+.joinOrWatch .mainPart .blueBack .selectPart .selectTitle{float: left;width:55px;color:#714D29; font-weight: bold; }
+.joinOrWatch .mainPart .blueBack .selectPart .selectList{float: left; width: 200px; margin-left: -30px;}
+.joinOrWatch .mainPart .blueBack .selectPart .selectList .selectItem{float: left;position:relative;margin-left:25px; }
+.joinOrWatch .mainPart .blueBack .selectPart .selectList .selectItem .selectBox{float: left;height:14px;width:14px;margin-top:9px;position: relative; }
+.joinOrWatch .mainPart .blueBack .selectPart .selectList .selectItem img{position: absolute;width: 20px;height:20px;left: 0;top:2px;}
+.joinOrWatch .mainPart .blueBack .selectPart .selectList .selectItem .selectText{float: left;margin-left: 5px; color:#714D29}
+.joinOrWatch .mainPart .operate{position:absolute;bottom: 4px; left: 0; height: 40px; width: 100%; display: flex; align-items: center; justify-content: space-around}
+.joinOrWatch .mainPart .operate img{ display: block; width:120px; height: 45px;}
+/*进入房间选择观战或游戏end*/
+
+/*玩家占位star*/
+.user-list{position: absolute;z-index: 100;}
+.user-list .no-user img,.user-list .user-avatar .avatar-img{border-radius: 50% 50%;height: 7vh;}
+.user-list .user-avatar .avatar-img-banker{box-shadow: 0px 0px 10px #f9ce13;border: 2px solid #c1bb29;box-sizing: border-box;}
+.user-list .user-avatar .banker-img{position: absolute;right: 0;top:0;height: 3vh;}
+.user-list .user-avatar .banker-bg{position: absolute;width: 100%;height: 100%;left: 0;top: 0;display:none;}
+.user-list .user-avatar .audience-bg{position: absolute;height: 2.8vh;left: 0;top: 2vh;}
+.user-list .user-msg {position: absolute;left: 0;bottom: -3vh;background-color: rgba(0,0,0,0.5);font-size: 9px;border-radius: 4px;text-align: center;}
+.user-list .user-msg p{width: 7vh;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+.user-list .user-msg .user-name{color:#D2D2CB;}
+.user-list .user-msg .user-score{color:#F29708;font-size: 10px;}
+.user-list .user-status{position: absolute;top: 0;height: 7vh;width: 8vh;line-height: 7vh;font-size: 9px;font-weight: 700;}
+.user-list .user-status .user-type{color: #40ebd4;}
+.user-list .user-status .score-win{color: #4af806;}
+.user-list .user-status .score-lose{color: #e71809;}
+.user-list .user-speak{position: absolute;background: rgba(6, 4, 8,0.5);border-radius: 9px;height: 18px;padding: 2px 9px;text-align: center;font-size: 10px;width: 22vh;color: #ffffff;}
+.user-speak1,.user-speak2,.user-speak3,.user-speak4,.user-speak5{right: -20vh;top: -4vh;}
+.user-speak6,.user-speak7,.user-speak8,.user-speak9,.user-speak10{left: -20vh;top: -4vh;}
+.user-speak1 .triangle,.user-speak2 .triangle,.user-speak3 .triangle,.user-speak4 .triangle,.user-speak5 .triangle{position: absolute;bottom:-6px;left:12px;width:0;height:0;border-top: 6px solid rgba(6, 4, 8,0.5);border-right: 12px solid transparent;}
+.user-speak6 .triangle,.user-speak7 .triangle,.user-speak8 .triangle,.user-speak9 .triangle,.user-speak10 .triangle{position: absolute;bottom:-6px;right:12px;width:0;height:0;border-top: 6px solid rgba(6, 4, 8,0.5);border-left: 12px solid transparent;}
+.user-list1{left: 2vw;bottom:11vh;}
+.user-list2{left: 2vw;bottom:29vh;}
+.user-list3{left: 2vw;top:44vh;}
+.user-list4{left: 2vw;top:26vh;}
+.user-list5{left: 2vw;top:11vh;}
+.user-list6{right: 2vw;top:11vh;}
+.user-list7{right: 2vw;top:26vh;}
+.user-list8{right: 2vw;top:44vh;}
+.user-list9{right: 2vw;bottom:29vh;}
+.user-list10{right: 2vw;bottom:11vh;}
+.user-list1 .user-status,.user-list2 .user-status,.user-list3 .user-status,.user-list4 .user-status,.user-list5 .user-status{right: -9vh;}
+.user-list6 .user-status,.user-list7 .user-status,.user-list8 .user-status,.user-list9 .user-status,.user-list10 .user-status{left: -9vh;text-align: right;}
+/*玩家占位end*/
+.user-audience{position: absolute;bottom: 23vh;left: 0;height: 6vh;width: 100vw;text-align: center;}
+.user-audience img {height: 100%;}
+
+/*玩家操作*/
+.user-action{position: absolute;bottom: 18vh;left: 0;height: 20.5vh;width: 100vw;}
+.user-action>div{position: absolute;width: 100vw;left: 0;text-align: center;}
+.user-action .action-top{top: 0;}
+.user-clock img{height: 36px;}
+.user-clock p {margin-top: -34px;height: 36px;line-height: 36px;font-size: 14px;}
+.user-action .action-center{top: 8vh;}
+.user-action .action-center img{height: 4.5vh;}
+.user-action .action-center p{color: #7D2F00;height: 4.5vh;line-height: 4.5vh;margin-top: -4.5vh;font-size: 14px;}
+.user-action .action-bottom{bottom: 0;}
+.user-action .action-two-img img{height: 4.5vh;}
+.user-action .action-two-img img:nth-child(2){margin-left: 3vw;}
+.user-action .action-bottom-tips{bottom: 3vh;color: #FCA01E;font-size: 14px;}
+.user-action .action-bottom-chip img{height: 6vh;margin-left: 1vw;}
+.user-action .action-bottom-chip img:first-child{margin: 0;}
+.user-action .action-bottom-chip img.chip-active{margin-bottom: 1vh;}
+.user-action .btn-area{display: inline-block;vertical-align: middle;}
+/*玩家操作*/
+
+/*棋盘start*/
+.checkerboard-area{position: absolute;top: 12vh;left: calc(2vw + 7vh);}
+.checkerboard-area .checkerboard-bet {position: absolute;left: 0;top: 0;width: 100%;height: 100%;z-index: 11;}
+.checkerboard-area .checkerboard-bg{width: calc(96vw - 14vh);}
+.checkerboard-put-prize{position: absolute;left: 0;top: 0;width: 100%;height: 100%;}
+.checkerboard-put-prize .put-prize-bg{width: 100%;height: auto;}
+.checkerboard-put-prize .put-prize-area{height: 100%;width: 100%;position: absolute;left: 0;top: 0;z-index: 1;overflow: hidden;}
+/* .checkerboard-put-prize .put-prize-area .prize-out{position: absolute;left: 0;top: 0;width: calc(19.2vw - 2.8vh);height: 0;border-top: calc(38.4vw - 5.6vh) solid blue;border-left: calc(38.4vw - 5.6vh) solid transparent;border-right: calc(38.4vw - 5.6vh) solid transparent;}
+.checkerboard-put-prize .put-prize-area .prize-in{position: absolute;left: 0;bottom: 0;width: calc(19.2vw - 2.8vh);height: 0;border-bottom: calc(38.4vw - 5.6vh) solid red;border-left: calc(38.4vw - 5.6vh) solid transparent;border-right: calc(38.4vw - 5.6vh) solid transparent;}
+.checkerboard-put-prize .put-prize-area .prize-serpent{position: absolute;left: 0;top: 0;width: 0;height: calc(19.2vw - 2.8vh);border-left: calc(38.4vw - 5.6vh) solid greenyellow;border-top: calc(38.4vw - 5.6vh) solid transparent;border-bottom: calc(38.4vw - 5.6vh) solid transparent;}
+.checkerboard-put-prize .put-prize-area .prize-tiger{position: absolute;right: 0;top: 0;width: 0;height: calc(19.2vw - 2.8vh);border-right: calc(38.4vw - 5.6vh) solid yellow;border-top: calc(38.4vw - 5.6vh) solid transparent;border-bottom: calc(38.4vw - 5.6vh) solid transparent;} */
+/* .checkerboard-put-prize .put-prize-area .prize-out{width:100%;height:100%;position: absolute;left: 0;top: 0;transform: rotate(45deg); background: rgba(0,0,255,0.5);;}
+.checkerboard-put-prize .put-prize-area .prize-in{width:100%;height:100%;position: absolute;left: 0;bottom: 0;transform: rotate(45deg);background: rgba(255,0,0,0.5);;}
+.checkerboard-put-prize .put-prize-area .prize-serpent{width:100%;height:100%;position: absolute;left: 0;top: 0;transform: rotate(45deg);background: rgba(173,255,47,0.5);}
+.checkerboard-put-prize .put-prize-area .prize-tiger{width:100%;height:100%;position: absolute;right: 0;top: 0;transform: rotate(45deg);background: rgba(255,255,0,0.5);;} */
+.checkerboard-put-prize .put-prize-area .prize-out{width:100%;height:100%;position: absolute;left: 0;top: 0;transform: rotate(45deg);z-index: 10;}
+.checkerboard-put-prize .put-prize-area .prize-in{width:100%;height:100%;position: absolute;left: 0;bottom: 0;transform: rotate(45deg);z-index: 10;}
+.checkerboard-put-prize .put-prize-area .prize-serpent{width:100%;height:100%;position: absolute;left: 0;top: 0;transform: rotate(45deg);z-index: 10;}
+.checkerboard-put-prize .put-prize-area .prize-tiger{width:100%;height:100%;position: absolute;right: 0;top: 0;transform: rotate(45deg);z-index: 10;}
+.checkerboard-put-prize .put-prize-area .prize-bright{position: absolute;left: 0;top: 0;width: 100%;height: 100%;}
+.checkerboard-put-prize .prize-area0 .prize-bright{transform: rotate(180deg);}
+.checkerboard-put-prize .prize-area1 .prize-bright{transform: rotate(270deg);}
+.checkerboard-put-prize .prize-area2 .prize-bright{transform: rotate(0deg);}
+.checkerboard-put-prize .prize-area3 .prize-bright{transform: rotate(90deg);}
+.checkerboard-put-prize .prize-area4 .prize-bright{transform: rotate(0deg);}
+
+.checkerboard-area .prize-center{width: 21%;height: 21%;position: absolute;left: 39.5%;top:39.5%; background: rgba(0, 0, 0,0.5);z-index: 11;background-size: 100% 100%;text-align: center;}
+.checkerboard-area .prize-center .prize-prize{width: 70%;margin-top: 15%;}
+.checkerboard-area .prize-center .prize-prize-hide{width: 100%;width: 94%;position: absolute;left: 3%;top: 3%;}
+.checkerboard-area .prize-center0 .prize-prize{transform: rotate(180deg);transition: transform 40ms linear;}
+.checkerboard-area .prize-center1 .prize-prize{transform: rotate(270deg);transition: transform 40ms linear;}
+.checkerboard-area .prize-center2 .prize-prize{transform: rotate(0deg);transition: transform 40ms linear;}
+.checkerboard-area .prize-center3 .prize-prize{transform: rotate(90deg);transition: transform 40ms linear;}
+.checkerboard-area .prize-center4 .prize-prize{transform: rotate(0deg);transition: transform 40ms linear;}
+
+.checkerboard-area .open-prize{position: absolute;left: 0;top: 0;width: 100%;}
+.checkerboard-area .open-prize0{transform: rotate(270deg);}
+.checkerboard-area .open-prize1{transform: rotate(0deg);}
+.checkerboard-area .open-prize2{transform: rotate(90deg);}
+.checkerboard-area .open-prize3{transform: rotate(180deg);}
+
+/*棋盘end*/
+
+/*筹码下注start*/
+.chipBet {position: absolute;z-index: 10;}
+.chipBet img{width: 20px;height: 20px;}
+.chipBet1 {top: 84vh; left:calc(2vw + 2.5vh)}
+.chipBet2 {top: 66vh; left:calc(2vw + 2.5vh)}
+.chipBet3 {top: 46vh; left:calc(2vw + 2.5vh)}
+.chipBet4 {top: 28vh; left:calc(2vw + 2.5vh)}
+.chipBet5 {top: 13vh; left:calc(2vw + 2.5vh)}
+.chipBet6 {top: 13vh; left:calc(98vw - 5vh)}
+.chipBet7 {top: 28vh; left:calc(98vw - 5vh)}
+.chipBet8 {top: 46vh; left:calc(98vw - 5vh)}
+.chipBet9 {top: 66vh; left:calc(98vw - 5vh)}
+.chipBet10 {top: 84vh; left:calc(98vw - 5vh)}
+/*筹码下注end*/
+
+/* 玩家金币start */
+.memberCoin{position: absolute;width: 2.5vh;height: 2.5vh; z-index: 100}
+.memberCoin10{top: 84vh; left:calc(2vw + 2.5vh)}
+.memberCoin11{top: 84vh; left:calc(2vw + 2.5vh)}
+.memberCoin12{top: 84vh; left:calc(2vw + 2.5vh)}
+.memberCoin13{top: 84vh; left:calc(2vw + 2.5vh)}
+.memberCoin14{top: 84vh; left:calc(2vw + 2.5vh)}
+.memberCoin15{top: 84vh; left:calc(2vw + 2.5vh)}
+.memberCoin16{top: 84vh; left:calc(2vw + 2.5vh)}
+.memberCoin17{top: 84vh; left:calc(2vw + 2.5vh)}
+
+.memberCoin20{top: 66vh; left:calc(2vw + 2.5vh)}
+.memberCoin21{top: 66vh; left:calc(2vw + 2.5vh)}
+.memberCoin22{top: 66vh; left:calc(2vw + 2.5vh)}
+.memberCoin23{top: 66vh; left:calc(2vw + 2.5vh)}
+.memberCoin24{top: 66vh; left:calc(2vw + 2.5vh)}
+.memberCoin25{top: 66vh; left:calc(2vw + 2.5vh)}
+.memberCoin26{top: 66vh; left:calc(2vw + 2.5vh)}
+.memberCoin27{top: 66vh; left:calc(2vw + 2.5vh)}
+
+.memberCoin30{top: 46vh; left:calc(2vw + 2.5vh)}
+.memberCoin31{top: 46vh; left:calc(2vw + 2.5vh)}
+.memberCoin32{top: 46vh; left:calc(2vw + 2.5vh)}
+.memberCoin33{top: 46vh; left:calc(2vw + 2.5vh)}
+.memberCoin34{top: 46vh; left:calc(2vw + 2.5vh)}
+.memberCoin35{top: 46vh; left:calc(2vw + 2.5vh)}
+.memberCoin36{top: 46vh; left:calc(2vw + 2.5vh)}
+.memberCoin37{top: 46vh; left:calc(2vw + 2.5vh)}
+
+.memberCoin40{top: 28vh; left:calc(2vw + 2.5vh)}
+.memberCoin41{top: 28vh; left:calc(2vw + 2.5vh)}
+.memberCoin42{top: 28vh; left:calc(2vw + 2.5vh)}
+.memberCoin43{top: 28vh; left:calc(2vw + 2.5vh)}
+.memberCoin44{top: 28vh; left:calc(2vw + 2.5vh)}
+.memberCoin45{top: 28vh; left:calc(2vw + 2.5vh)}
+.memberCoin46{top: 28vh; left:calc(2vw + 2.5vh)}
+.memberCoin47{top: 28vh; left:calc(2vw + 2.5vh)}
+
+.memberCoin50{top: 13vh; left:calc(2vw + 2.5vh)}
+.memberCoin51{top: 13vh; left:calc(2vw + 2.5vh)}
+.memberCoin52{top: 13vh; left:calc(2vw + 2.5vh)}
+.memberCoin53{top: 13vh; left:calc(2vw + 2.5vh)}
+.memberCoin54{top: 13vh; left:calc(2vw + 2.5vh)}
+.memberCoin55{top: 13vh; left:calc(2vw + 2.5vh)}
+.memberCoin56{top: 13vh; left:calc(2vw + 2.5vh)}
+.memberCoin57{top: 13vh; left:calc(2vw + 2.5vh)}
+
+.memberCoin60{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin61{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin62{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin63{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin64{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin65{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin66{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin69{top: 13vh; left: calc(98vw - 5vh)}
+.memberCoin67{top: 13vh; left: calc(98vw - 5vh)}
+
+.memberCoin70{top: 28vh; left: calc(98vw - 5vh)}
+.memberCoin71{top: 28vh; left: calc(98vw - 5vh)}
+.memberCoin72{top: 28vh; left: calc(98vw - 5vh)}
+.memberCoin73{top: 28vh; left: calc(98vw - 5vh)}
+.memberCoin74{top: 28vh; left: calc(98vw - 5vh)}
+.memberCoin75{top: 28vh; left: calc(98vw - 5vh)}
+.memberCoin76{top: 28vh; left: calc(98vw - 5vh)}
+.memberCoin77{top: 28vh; left: calc(98vw - 5vh)}
+
+.memberCoin80{top: 46vh; left: calc(98vw - 5vh)}
+.memberCoin81{top: 46vh; left: calc(98vw - 5vh)}
+.memberCoin82{top: 46vh; left: calc(98vw - 5vh)}
+.memberCoin83{top: 46vh; left: calc(98vw - 5vh)}
+.memberCoin84{top: 46vh; left: calc(98vw - 5vh)}
+.memberCoin85{top: 46vh; left: calc(98vw - 5vh)}
+.memberCoin86{top: 46vh; left: calc(98vw - 5vh)}
+.memberCoin87{top: 46vh; left: calc(98vw - 5vh)}
+
+.memberCoin90{top: 66vh; left: calc(98vw - 5vh)}
+.memberCoin91{top: 66vh; left: calc(98vw - 5vh)}
+.memberCoin92{top: 66vh; left: calc(98vw - 5vh)}
+.memberCoin93{top: 66vh; left: calc(98vw - 5vh)}
+.memberCoin94{top: 66vh; left: calc(98vw - 5vh)}
+.memberCoin95{top: 66vh; left: calc(98vw - 5vh)}
+.memberCoin96{top: 66vh; left: calc(98vw - 5vh)}
+.memberCoin97{top: 66vh; left: calc(98vw - 5vh)}
+
+.memberCoin100{top: 84vh; left: calc(98vw - 5vh)}
+.memberCoin101{top: 84vh; left: calc(98vw - 5vh)}
+.memberCoin102{top: 84vh; left: calc(98vw - 5vh)}
+.memberCoin103{top: 84vh; left: calc(98vw - 5vh)}
+.memberCoin104{top: 84vh; left: calc(98vw - 5vh)}
+.memberCoin105{top: 84vh; left: calc(98vw - 5vh)}
+.memberCoin106{top: 84vh; left: calc(98vw - 5vh)}
+.memberCoin107{top: 84vh; left: calc(98vw - 5vh)}
+/*金币end*/
+
+/*积分榜start*/
+.ranking{position: absolute;width: 200%;height:200%;top:0;left:0;z-index: 110;display: none;}
+.ranking .roundEndShow{display: none;}
+.ranking .rankBack{width: 100%;height:100%;background: #000;opacity:1.0}
+.ranking .rankBack .bg{position: absolute;width: 100%;height:100%;background: #000;opacity:1.0}
+.ranking .rankText{width: 100%;position: absolute;top:3%;left: 0;}
+.ranking .rankText .title{width: 100%;}
+.ranking .rankText .time{text-align: center;margin-top: 24px;margin-bottom: 20px;}
+.ranking .rankText .time a{border-radius: 8px;padding: 1vw 4vw;width: 400px;font-size: 6vw;}
+.ranking .rankText .scoresItemWhite{color:#5F4838; }
+.ranking .rankText .scoresItemWhite a{color:#5F4838; }
+.ranking .rankText .scoresItemYellow{color:#E07C21;}
+.ranking .rankText .scoresItemYellow a{color:#E07C21;}
+.ranking .rankText .scoresHeader{width: 143vw;margin:0 auto; margin-top: 2px;height:14.5vw;line-height:15vw;font-size:7vw;position: relative; background:-webkit-linear-gradient(top,#DBB272,#F6DFB3); color:white;border-radius: 8px 8px 0 0;}
+.ranking .rankText .scoresHeader .headName{left: 10%;width: 42%;height: 15vw;overflow: hidden;word-break:break-all;position: absolute;top:0;}
+.ranking .rankText .scoresHeader .headScores{width:40%;text-align: left;position: absolute;right: 0;top:0; }
+.ranking .rankText .scoresItem{width:139vw;margin:0 auto; margin-top: 2px;height:13vw;line-height:15vw;font-size:7vw;position: relative;border-bottom: 1px solid #CB9564; }
+.ranking .rankText .scoresItem .name{left: 10%;width: 42%;height: 13.5vw;overflow: hidden;word-break:break-all;position: absolute;top:0;}
+.ranking .rankText .scoresItem .currentScores{width:40%;text-align: left;position: absolute;right: 0;top:0;}
+.ranking  .button{width:100%;position: absolute;bottom:4%; }
+.ranking  .button img{width:33%;}
+/*积分榜end*/

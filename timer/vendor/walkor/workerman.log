@@ -1,0 +1,2539 @@
+2018-04-29 18:04:25 pid:56059 Workerman[T20059/start.php] start in DEBUG mode
+2018-04-29 18:04:54 pid:59598 Workerman[T20059/start.php] start in DEBUG mode
+2018-04-29 18:13:30 pid:59598 Workerman[start.php] stopping ...
+2018-04-29 18:13:30 pid:59598 Workerman[start.php] has been stopped
+2018-04-29 18:25:54 pid:20377 Workerman[T20059/start.php] start in DEBUG mode
+2018-04-29 20:22:35 pid:20377 Workerman[start.php] stopping ...
+2018-04-29 20:22:35 pid:20377 Workerman[start.php] has been stopped
+2018-04-30 20:42:55 pid:27013 Workerman[timer/T20059/start.php] status 
+2018-04-30 20:42:55 pid:27013 Workerman[timer/T20059/start.php] not run
+2018-04-30 20:43:00 pid:27150 Workerman[timer/T20039/start.php] status 
+2018-04-30 20:43:00 pid:27150 Workerman[timer/T20039/start.php] not run
+2018-05-15 23:36:28 pid:431 Workerman[timer/T20059/start.php] start in DEBUG mode
+2018-05-19 00:40:13 pid:54366 Workerman[timer/T50019/start.php] start in DEBUG mode
+2018-05-19 00:41:12 pid:54457 Workerman[timer/T50019/start.php] start in DEBUG mode
+2018-05-19 01:31:01 pid:55480 Workerman[timer/T50019/start.php] stop 
+2018-05-19 01:31:01 pid:55480 Workerman[timer/T50019/start.php] not run
+2018-06-07 00:39:41 pid:99385 Workerman[timer/T50019/start.php] start in DEBUG mode
+2018-06-07 19:10:14 pid:99385 Workerman[start.php] stopping ...
+2018-06-07 19:10:14 pid:99385 Workerman[start.php] has been stopped
+2018-06-07 19:10:22 pid:22495 Workerman[timer/T50029/start.php] start in DEBUG mode
+2018-06-07 19:27:21 pid:22495 Workerman[start.php] stopping ...
+2018-06-07 19:27:21 pid:22495 Workerman[start.php] has been stopped
+2018-06-07 19:27:45 pid:23351 Workerman[timer/T20049/start.php] start in DAEMON mode
+2018-06-07 19:28:29 pid:23454 Workerman[timer/T20049/start.php] start in DAEMON mode
+2018-06-08 00:31:02 pid:28554 Workerman[timer/T20079/start.php] start in DAEMON mode
+2018-06-08 11:34:28 pid:28556 Workerman[start.php] stopping ...
+2018-06-08 11:34:28 pid:23456 Workerman[start.php] stopping ...
+2018-06-08 11:34:28 pid:28556 Workerman[start.php] has been stopped
+2018-06-08 11:34:28 pid:23456 Workerman[start.php] has been stopped
+2018-09-16 09:04:53 pid:30450 Workerman[./T20019/start.php] start in DAEMON mode
+2018-09-16 09:04:53 pid:30453 Workerman[./T20029/start.php] start in DAEMON mode
+2018-09-16 09:04:53 pid:30458 Workerman[./T20039/start.php] start in DAEMON mode
+2018-09-16 09:04:54 pid:30463 Workerman[./T20049/start.php] start in DAEMON mode
+2018-09-16 09:04:54 pid:30468 Workerman[./T20059/start.php] start in DAEMON mode
+2018-09-16 09:04:54 pid:30473 Workerman[./T20069/start.php] start in DAEMON mode
+2018-09-16 09:04:54 pid:30478 Workerman[./T20089/start.php] start in DAEMON mode
+2018-09-16 09:04:54 pid:30483 Workerman[./T20099/start.php] start in DAEMON mode
+2018-09-16 09:04:55 pid:30488 Workerman[./T30019/start.php] start in DAEMON mode
+2018-09-16 09:04:55 pid:30493 Workerman[./T30029/start.php] start in DAEMON mode
+2018-09-16 09:04:55 pid:30498 Workerman[./T50019/start.php] start in DAEMON mode
+2018-09-16 09:04:55 pid:30503 Workerman[./T50029/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17625 Workerman[./T20019/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17628 Workerman[./T20029/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17633 Workerman[./T20039/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17638 Workerman[./T20049/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17643 Workerman[./T20059/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17648 Workerman[./T20069/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17653 Workerman[./T20089/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17658 Workerman[./T20099/start.php] start in DAEMON mode
+2018-09-16 22:44:08 pid:17663 Workerman[./T30019/start.php] start in DAEMON mode
+2018-09-16 22:44:09 pid:17668 Workerman[./T30029/start.php] start in DAEMON mode
+2018-09-16 22:44:09 pid:17673 Workerman[./T50019/start.php] start in DAEMON mode
+2018-09-16 22:44:09 pid:17678 Workerman[./T50029/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1384 Workerman[./T20019/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1387 Workerman[./T20029/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1394 Workerman[./T20039/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1399 Workerman[./T20049/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1403 Workerman[./T20059/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1409 Workerman[./T20069/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1414 Workerman[./T20089/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1419 Workerman[./T20099/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1424 Workerman[./T30019/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1429 Workerman[./T30029/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1434 Workerman[./T50019/start.php] start in DAEMON mode
+2018-09-21 11:34:28 pid:1439 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-16 15:03:22 pid:28589 Workerman[start.php] start in DEBUG mode
+2018-10-16 15:03:25 pid:28589 Workerman[start.php] stopping ...
+2018-10-16 15:03:25 pid:28589 Workerman[start.php] has been stopped
+2018-10-16 15:04:17 pid:28602 Workerman[start.php] start in DAEMON mode
+2018-10-16 15:05:07 pid:28616 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-16 15:07:00 pid:28663 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-16 15:07:00 pid:28663 Workerman[./T20019/start.php] already running
+2018-10-16 15:07:00 pid:28664 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-16 15:07:01 pid:28667 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-16 15:07:01 pid:28672 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-16 15:07:01 pid:28677 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-16 15:07:02 pid:28682 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-16 15:07:03 pid:28687 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-16 15:07:03 pid:28692 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-16 15:07:03 pid:28697 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-16 15:07:03 pid:28701 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-16 15:07:04 pid:28707 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-16 15:07:04 pid:28707 Workerman[./T50019/start.php] already running
+2018-10-16 15:07:04 pid:28710 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-16 20:09:14 pid:30235 Workerman[./T20019/start.php] restart 
+2018-10-16 20:09:14 pid:30235 Workerman[./T20019/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28618 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28618 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30235 Workerman[./T20019/start.php] stop success
+2018-10-16 20:09:14 pid:30238 Workerman[./T20029/start.php] restart 
+2018-10-16 20:09:14 pid:30238 Workerman[./T20029/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28666 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28666 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30238 Workerman[./T20029/start.php] stop success
+2018-10-16 20:09:14 pid:30243 Workerman[./T20039/start.php] restart 
+2018-10-16 20:09:14 pid:30243 Workerman[./T20039/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28671 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28671 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30243 Workerman[./T20039/start.php] stop success
+2018-10-16 20:09:14 pid:30248 Workerman[./T20049/start.php] restart 
+2018-10-16 20:09:14 pid:30248 Workerman[./T20049/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28676 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28676 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30248 Workerman[./T20049/start.php] stop success
+2018-10-16 20:09:14 pid:30253 Workerman[./T20059/start.php] restart 
+2018-10-16 20:09:14 pid:30253 Workerman[./T20059/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28681 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28681 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30253 Workerman[./T20059/start.php] stop success
+2018-10-16 20:09:14 pid:30258 Workerman[./T20069/start.php] restart 
+2018-10-16 20:09:14 pid:30258 Workerman[./T20069/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28686 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28686 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30258 Workerman[./T20069/start.php] stop success
+2018-10-16 20:09:14 pid:30263 Workerman[./T20089/start.php] restart 
+2018-10-16 20:09:14 pid:30263 Workerman[./T20089/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28691 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28691 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30263 Workerman[./T20089/start.php] stop success
+2018-10-16 20:09:14 pid:30268 Workerman[./T20099/start.php] restart 
+2018-10-16 20:09:14 pid:30268 Workerman[./T20099/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28696 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28696 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30268 Workerman[./T20099/start.php] stop success
+2018-10-16 20:09:14 pid:30273 Workerman[./T30019/start.php] restart 
+2018-10-16 20:09:14 pid:30273 Workerman[./T30019/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28702 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28702 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30273 Workerman[./T30019/start.php] stop success
+2018-10-16 20:09:14 pid:30277 Workerman[./T30029/start.php] restart 
+2018-10-16 20:09:14 pid:30277 Workerman[./T30029/start.php] is stopping ...
+2018-10-16 20:09:14 pid:28706 Workerman[start.php] stopping ...
+2018-10-16 20:09:14 pid:28706 Workerman[start.php] has been stopped
+2018-10-16 20:09:14 pid:30277 Workerman[./T30029/start.php] stop success
+2018-10-16 20:09:15 pid:30283 Workerman[./T50019/start.php] restart 
+2018-10-16 20:09:15 pid:30283 Workerman[./T50019/start.php] is stopping ...
+2018-10-16 20:09:15 pid:28604 Workerman[start.php] stopping ...
+2018-10-16 20:09:15 pid:28604 Workerman[start.php] has been stopped
+2018-10-16 20:09:15 pid:30283 Workerman[./T50019/start.php] stop success
+2018-10-16 20:09:15 pid:30288 Workerman[./T50029/start.php] restart 
+2018-10-16 20:09:15 pid:30288 Workerman[./T50029/start.php] is stopping ...
+2018-10-16 20:09:15 pid:28712 Workerman[start.php] stopping ...
+2018-10-16 20:09:15 pid:28712 Workerman[start.php] has been stopped
+2018-10-16 20:09:15 pid:30288 Workerman[./T50029/start.php] stop success
+2018-10-17 11:04:49 pid:17398 Workerman[./T20019/start.php] reload 
+2018-10-17 11:04:49 pid:30237 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17400 Workerman[./T20029/start.php] reload 
+2018-10-17 11:04:49 pid:30242 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17402 Workerman[./T20039/start.php] reload 
+2018-10-17 11:04:49 pid:30247 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17405 Workerman[./T20049/start.php] reload 
+2018-10-17 11:04:49 pid:30252 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17409 Workerman[./T20059/start.php] reload 
+2018-10-17 11:04:49 pid:30257 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17412 Workerman[./T20069/start.php] reload 
+2018-10-17 11:04:49 pid:30262 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17415 Workerman[./T20089/start.php] reload 
+2018-10-17 11:04:49 pid:30267 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17417 Workerman[./T20099/start.php] reload 
+2018-10-17 11:04:49 pid:30272 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17420 Workerman[./T30019/start.php] reload 
+2018-10-17 11:04:49 pid:30278 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17423 Workerman[./T30029/start.php] reload 
+2018-10-17 11:04:49 pid:30282 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17426 Workerman[./T50019/start.php] reload 
+2018-10-17 11:04:49 pid:30287 Workerman[start.php] reloading
+2018-10-17 11:04:49 pid:17429 Workerman[./T50029/start.php] reload 
+2018-10-17 11:04:49 pid:30292 Workerman[start.php] reloading
+2018-10-17 15:33:19 pid:18976 Workerman[./T20019/start.php] reload 
+2018-10-17 15:33:19 pid:30237 Workerman[start.php] reloading
+2018-10-17 15:33:19 pid:18977 Workerman[./T20029/start.php] reload 
+2018-10-17 15:33:19 pid:30242 Workerman[start.php] reloading
+2018-10-17 15:33:19 pid:18981 Workerman[./T20039/start.php] reload 
+2018-10-17 15:33:19 pid:30247 Workerman[start.php] reloading
+2018-10-17 15:33:19 pid:18984 Workerman[./T20049/start.php] reload 
+2018-10-17 15:33:19 pid:30252 Workerman[start.php] reloading
+2018-10-17 15:33:19 pid:18987 Workerman[./T20059/start.php] reload 
+2018-10-17 15:33:19 pid:30257 Workerman[start.php] reloading
+2018-10-17 15:33:19 pid:18989 Workerman[./T20069/start.php] reload 
+2018-10-17 15:33:19 pid:30262 Workerman[start.php] reloading
+2018-10-17 15:33:19 pid:18992 Workerman[./T20089/start.php] reload 
+2018-10-17 15:33:19 pid:30267 Workerman[start.php] reloading
+2018-10-17 15:33:20 pid:18996 Workerman[./T20099/start.php] reload 
+2018-10-17 15:33:20 pid:30272 Workerman[start.php] reloading
+2018-10-17 15:33:20 pid:18999 Workerman[./T30019/start.php] reload 
+2018-10-17 15:33:20 pid:30278 Workerman[start.php] reloading
+2018-10-17 15:33:20 pid:19002 Workerman[./T30029/start.php] reload 
+2018-10-17 15:33:20 pid:30282 Workerman[start.php] reloading
+2018-10-17 15:33:20 pid:19005 Workerman[./T50019/start.php] reload 
+2018-10-17 15:33:20 pid:30287 Workerman[start.php] reloading
+2018-10-17 15:33:20 pid:19007 Workerman[./T50029/start.php] reload 
+2018-10-17 15:33:20 pid:30292 Workerman[start.php] reloading
+2018-10-17 20:32:15 pid:22093 Workerman[./T20019/start.php] stop 
+2018-10-17 20:32:15 pid:22093 Workerman[./T20019/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30237 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30237 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22093 Workerman[./T20019/start.php] stop success
+2018-10-17 20:32:15 pid:22094 Workerman[./T20029/start.php] stop 
+2018-10-17 20:32:15 pid:22094 Workerman[./T20029/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30242 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30242 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22094 Workerman[./T20029/start.php] stop success
+2018-10-17 20:32:15 pid:22095 Workerman[./T20039/start.php] stop 
+2018-10-17 20:32:15 pid:22095 Workerman[./T20039/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30247 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30247 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22095 Workerman[./T20039/start.php] stop success
+2018-10-17 20:32:15 pid:22096 Workerman[./T20049/start.php] stop 
+2018-10-17 20:32:15 pid:22096 Workerman[./T20049/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30252 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30252 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22096 Workerman[./T20049/start.php] stop success
+2018-10-17 20:32:15 pid:22097 Workerman[./T20059/start.php] stop 
+2018-10-17 20:32:15 pid:22097 Workerman[./T20059/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30257 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30257 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22097 Workerman[./T20059/start.php] stop success
+2018-10-17 20:32:15 pid:22098 Workerman[./T20069/start.php] stop 
+2018-10-17 20:32:15 pid:22098 Workerman[./T20069/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30262 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30262 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22098 Workerman[./T20069/start.php] stop success
+2018-10-17 20:32:15 pid:22099 Workerman[./T20089/start.php] stop 
+2018-10-17 20:32:15 pid:22099 Workerman[./T20089/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30267 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30267 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22099 Workerman[./T20089/start.php] stop success
+2018-10-17 20:32:15 pid:22100 Workerman[./T20099/start.php] stop 
+2018-10-17 20:32:15 pid:22100 Workerman[./T20099/start.php] is stopping ...
+2018-10-17 20:32:15 pid:30272 Workerman[start.php] stopping ...
+2018-10-17 20:32:15 pid:30272 Workerman[start.php] has been stopped
+2018-10-17 20:32:15 pid:22100 Workerman[./T20099/start.php] stop success
+2018-10-17 20:32:16 pid:22101 Workerman[./T30019/start.php] stop 
+2018-10-17 20:32:16 pid:22101 Workerman[./T30019/start.php] is stopping ...
+2018-10-17 20:32:16 pid:30278 Workerman[start.php] stopping ...
+2018-10-17 20:32:16 pid:30278 Workerman[start.php] has been stopped
+2018-10-17 20:32:16 pid:22101 Workerman[./T30019/start.php] stop success
+2018-10-17 20:32:16 pid:22102 Workerman[./T30029/start.php] stop 
+2018-10-17 20:32:16 pid:22102 Workerman[./T30029/start.php] is stopping ...
+2018-10-17 20:32:16 pid:30282 Workerman[start.php] stopping ...
+2018-10-17 20:32:16 pid:30282 Workerman[start.php] has been stopped
+2018-10-17 20:32:16 pid:22102 Workerman[./T30029/start.php] stop success
+2018-10-17 20:32:16 pid:22103 Workerman[./T50019/start.php] stop 
+2018-10-17 20:32:16 pid:22103 Workerman[./T50019/start.php] is stopping ...
+2018-10-17 20:32:16 pid:30287 Workerman[start.php] stopping ...
+2018-10-17 20:32:16 pid:30287 Workerman[start.php] has been stopped
+2018-10-17 20:32:16 pid:22103 Workerman[./T50019/start.php] stop success
+2018-10-17 20:32:16 pid:22104 Workerman[./T50029/start.php] stop 
+2018-10-17 20:32:16 pid:22104 Workerman[./T50029/start.php] is stopping ...
+2018-10-17 20:32:16 pid:30292 Workerman[start.php] stopping ...
+2018-10-17 20:32:16 pid:30292 Workerman[start.php] has been stopped
+2018-10-17 20:32:16 pid:22104 Workerman[./T50029/start.php] stop success
+2018-10-17 20:45:02 pid:25075 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-17 20:45:02 pid:25078 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-17 20:45:02 pid:25083 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25088 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25093 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25098 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25102 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25107 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25113 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25118 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25123 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-17 20:45:03 pid:25130 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-17 20:50:37 pid:25625 Workerman[./T20019/start.php] stop 
+2018-10-17 20:50:37 pid:25625 Workerman[./T20019/start.php] is stopping ...
+2018-10-17 20:50:37 pid:25077 Workerman[start.php] stopping ...
+2018-10-17 20:50:37 pid:25077 Workerman[start.php] has been stopped
+2018-10-17 20:50:37 pid:25625 Workerman[./T20019/start.php] stop success
+2018-10-17 20:50:37 pid:25626 Workerman[./T20029/start.php] stop 
+2018-10-17 20:50:37 pid:25626 Workerman[./T20029/start.php] is stopping ...
+2018-10-17 20:50:37 pid:25082 Workerman[start.php] stopping ...
+2018-10-17 20:50:37 pid:25082 Workerman[start.php] has been stopped
+2018-10-17 20:50:37 pid:25626 Workerman[./T20029/start.php] stop success
+2018-10-17 20:50:37 pid:25627 Workerman[./T20039/start.php] stop 
+2018-10-17 20:50:37 pid:25627 Workerman[./T20039/start.php] is stopping ...
+2018-10-17 20:50:37 pid:25087 Workerman[start.php] stopping ...
+2018-10-17 20:50:37 pid:25087 Workerman[start.php] has been stopped
+2018-10-17 20:50:37 pid:25627 Workerman[./T20039/start.php] stop success
+2018-10-17 20:50:37 pid:25628 Workerman[./T20049/start.php] stop 
+2018-10-17 20:50:37 pid:25628 Workerman[./T20049/start.php] is stopping ...
+2018-10-17 20:50:37 pid:25092 Workerman[start.php] stopping ...
+2018-10-17 20:50:37 pid:25092 Workerman[start.php] has been stopped
+2018-10-17 20:50:37 pid:25628 Workerman[./T20049/start.php] stop success
+2018-10-17 20:50:37 pid:25629 Workerman[./T20059/start.php] stop 
+2018-10-17 20:50:37 pid:25629 Workerman[./T20059/start.php] is stopping ...
+2018-10-17 20:50:37 pid:25097 Workerman[start.php] stopping ...
+2018-10-17 20:50:37 pid:25097 Workerman[start.php] has been stopped
+2018-10-17 20:50:37 pid:25629 Workerman[./T20059/start.php] stop success
+2018-10-17 20:50:37 pid:25630 Workerman[./T20069/start.php] stop 
+2018-10-17 20:50:37 pid:25630 Workerman[./T20069/start.php] is stopping ...
+2018-10-17 20:50:37 pid:25103 Workerman[start.php] stopping ...
+2018-10-17 20:50:37 pid:25103 Workerman[start.php] has been stopped
+2018-10-17 20:50:37 pid:25630 Workerman[./T20069/start.php] stop success
+2018-10-17 20:50:37 pid:25631 Workerman[./T20089/start.php] stop 
+2018-10-17 20:50:37 pid:25631 Workerman[./T20089/start.php] is stopping ...
+2018-10-17 20:50:37 pid:25108 Workerman[start.php] stopping ...
+2018-10-17 20:50:37 pid:25108 Workerman[start.php] has been stopped
+2018-10-17 20:50:37 pid:25631 Workerman[./T20089/start.php] stop success
+2018-10-17 20:50:38 pid:25632 Workerman[./T20099/start.php] stop 
+2018-10-17 20:50:38 pid:25632 Workerman[./T20099/start.php] is stopping ...
+2018-10-17 20:50:38 pid:25112 Workerman[start.php] stopping ...
+2018-10-17 20:50:38 pid:25112 Workerman[start.php] has been stopped
+2018-10-17 20:50:38 pid:25632 Workerman[./T20099/start.php] stop success
+2018-10-17 20:50:38 pid:25633 Workerman[./T30019/start.php] stop 
+2018-10-17 20:50:38 pid:25633 Workerman[./T30019/start.php] is stopping ...
+2018-10-17 20:50:38 pid:25117 Workerman[start.php] stopping ...
+2018-10-17 20:50:38 pid:25117 Workerman[start.php] has been stopped
+2018-10-17 20:50:38 pid:25633 Workerman[./T30019/start.php] stop success
+2018-10-17 20:50:38 pid:25634 Workerman[./T30029/start.php] stop 
+2018-10-17 20:50:38 pid:25634 Workerman[./T30029/start.php] is stopping ...
+2018-10-17 20:50:38 pid:25122 Workerman[start.php] stopping ...
+2018-10-17 20:50:38 pid:25122 Workerman[start.php] has been stopped
+2018-10-17 20:50:38 pid:25634 Workerman[./T30029/start.php] stop success
+2018-10-17 20:50:38 pid:25635 Workerman[./T50019/start.php] stop 
+2018-10-17 20:50:38 pid:25635 Workerman[./T50019/start.php] is stopping ...
+2018-10-17 20:50:38 pid:25127 Workerman[start.php] stopping ...
+2018-10-17 20:50:38 pid:25127 Workerman[start.php] has been stopped
+2018-10-17 20:50:38 pid:25635 Workerman[./T50019/start.php] stop success
+2018-10-17 20:50:38 pid:25636 Workerman[./T50029/start.php] stop 
+2018-10-17 20:50:38 pid:25636 Workerman[./T50029/start.php] is stopping ...
+2018-10-17 20:50:38 pid:25132 Workerman[start.php] stopping ...
+2018-10-17 20:50:38 pid:25132 Workerman[start.php] has been stopped
+2018-10-17 20:50:38 pid:25636 Workerman[./T50029/start.php] stop success
+2018-10-18 15:12:05 pid:2353 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2434 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2434 Workerman[./T20019/start.php] already running
+2018-10-18 15:21:03 pid:2435 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2438 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2443 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2448 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2452 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2458 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-18 15:21:03 pid:2463 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-18 15:21:04 pid:2468 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-18 15:21:04 pid:2472 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-18 15:21:04 pid:2477 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-18 15:21:04 pid:2483 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-18 16:19:34 pid:3671 Workerman[./T20019/start.php] stop 
+2018-10-18 16:19:34 pid:3671 Workerman[./T20019/start.php] is stopping ...
+2018-10-18 16:19:34 pid:2355 Workerman[start.php] stopping ...
+2018-10-18 16:19:34 pid:2355 Workerman[start.php] has been stopped
+2018-10-18 16:19:34 pid:3671 Workerman[./T20019/start.php] stop success
+2018-10-18 16:19:34 pid:3672 Workerman[./T20029/start.php] stop 
+2018-10-18 16:19:34 pid:3672 Workerman[./T20029/start.php] is stopping ...
+2018-10-18 16:19:34 pid:2437 Workerman[start.php] stopping ...
+2018-10-18 16:19:34 pid:2437 Workerman[start.php] has been stopped
+2018-10-18 16:19:34 pid:3672 Workerman[./T20029/start.php] stop success
+2018-10-18 16:19:35 pid:3673 Workerman[./T20039/start.php] stop 
+2018-10-18 16:19:35 pid:3673 Workerman[./T20039/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2442 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2442 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3673 Workerman[./T20039/start.php] stop success
+2018-10-18 16:19:35 pid:3674 Workerman[./T20049/start.php] stop 
+2018-10-18 16:19:35 pid:3674 Workerman[./T20049/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2447 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2447 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3674 Workerman[./T20049/start.php] stop success
+2018-10-18 16:19:35 pid:3675 Workerman[./T20059/start.php] stop 
+2018-10-18 16:19:35 pid:3675 Workerman[./T20059/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2453 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2453 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3675 Workerman[./T20059/start.php] stop success
+2018-10-18 16:19:35 pid:3676 Workerman[./T20069/start.php] stop 
+2018-10-18 16:19:35 pid:3676 Workerman[./T20069/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2457 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2457 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3676 Workerman[./T20069/start.php] stop success
+2018-10-18 16:19:35 pid:3677 Workerman[./T20089/start.php] stop 
+2018-10-18 16:19:35 pid:3677 Workerman[./T20089/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2462 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2462 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3677 Workerman[./T20089/start.php] stop success
+2018-10-18 16:19:35 pid:3678 Workerman[./T20099/start.php] stop 
+2018-10-18 16:19:35 pid:3678 Workerman[./T20099/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2467 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2467 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3678 Workerman[./T20099/start.php] stop success
+2018-10-18 16:19:35 pid:3679 Workerman[./T30019/start.php] stop 
+2018-10-18 16:19:35 pid:3679 Workerman[./T30019/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2473 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2473 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3679 Workerman[./T30019/start.php] stop success
+2018-10-18 16:19:35 pid:3680 Workerman[./T30029/start.php] stop 
+2018-10-18 16:19:35 pid:3680 Workerman[./T30029/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2478 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2478 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3680 Workerman[./T30029/start.php] stop success
+2018-10-18 16:19:35 pid:3681 Workerman[./T50019/start.php] stop 
+2018-10-18 16:19:35 pid:3681 Workerman[./T50019/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2482 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2482 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3681 Workerman[./T50019/start.php] stop success
+2018-10-18 16:19:35 pid:3682 Workerman[./T50029/start.php] stop 
+2018-10-18 16:19:35 pid:3682 Workerman[./T50029/start.php] is stopping ...
+2018-10-18 16:19:35 pid:2487 Workerman[start.php] stopping ...
+2018-10-18 16:19:35 pid:2487 Workerman[start.php] has been stopped
+2018-10-18 16:19:35 pid:3682 Workerman[./T50029/start.php] stop success
+2018-10-18 16:22:59 pid:4095 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-18 16:22:59 pid:4098 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-18 16:22:59 pid:4103 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4109 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4113 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4118 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4123 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4128 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4133 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4138 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4142 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-18 16:23:00 pid:4148 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-18 16:45:26 pid:4464 Workerman[./T20019/start.php] stop 
+2018-10-18 16:45:26 pid:4464 Workerman[./T20019/start.php] is stopping ...
+2018-10-18 16:45:26 pid:4097 Workerman[start.php] stopping ...
+2018-10-18 16:45:26 pid:4097 Workerman[start.php] has been stopped
+2018-10-18 16:45:26 pid:4464 Workerman[./T20019/start.php] stop success
+2018-10-18 16:45:26 pid:4465 Workerman[./T20029/start.php] stop 
+2018-10-18 16:45:26 pid:4465 Workerman[./T20029/start.php] is stopping ...
+2018-10-18 16:45:26 pid:4102 Workerman[start.php] stopping ...
+2018-10-18 16:45:26 pid:4102 Workerman[start.php] has been stopped
+2018-10-18 16:45:26 pid:4465 Workerman[./T20029/start.php] stop success
+2018-10-18 16:45:26 pid:4466 Workerman[./T20039/start.php] stop 
+2018-10-18 16:45:26 pid:4466 Workerman[./T20039/start.php] is stopping ...
+2018-10-18 16:45:26 pid:4107 Workerman[start.php] stopping ...
+2018-10-18 16:45:26 pid:4107 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4466 Workerman[./T20039/start.php] stop success
+2018-10-18 16:45:27 pid:4467 Workerman[./T20049/start.php] stop 
+2018-10-18 16:45:27 pid:4467 Workerman[./T20049/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4112 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4112 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4467 Workerman[./T20049/start.php] stop success
+2018-10-18 16:45:27 pid:4468 Workerman[./T20059/start.php] stop 
+2018-10-18 16:45:27 pid:4468 Workerman[./T20059/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4117 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4117 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4468 Workerman[./T20059/start.php] stop success
+2018-10-18 16:45:27 pid:4469 Workerman[./T20069/start.php] stop 
+2018-10-18 16:45:27 pid:4469 Workerman[./T20069/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4122 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4122 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4469 Workerman[./T20069/start.php] stop success
+2018-10-18 16:45:27 pid:4470 Workerman[./T20089/start.php] stop 
+2018-10-18 16:45:27 pid:4470 Workerman[./T20089/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4127 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4127 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4470 Workerman[./T20089/start.php] stop success
+2018-10-18 16:45:27 pid:4471 Workerman[./T20099/start.php] stop 
+2018-10-18 16:45:27 pid:4471 Workerman[./T20099/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4132 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4132 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4471 Workerman[./T20099/start.php] stop success
+2018-10-18 16:45:27 pid:4472 Workerman[./T30019/start.php] stop 
+2018-10-18 16:45:27 pid:4472 Workerman[./T30019/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4137 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4137 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4472 Workerman[./T30019/start.php] stop success
+2018-10-18 16:45:27 pid:4473 Workerman[./T30029/start.php] stop 
+2018-10-18 16:45:27 pid:4473 Workerman[./T30029/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4143 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4143 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4473 Workerman[./T30029/start.php] stop success
+2018-10-18 16:45:27 pid:4474 Workerman[./T50019/start.php] stop 
+2018-10-18 16:45:27 pid:4474 Workerman[./T50019/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4147 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4147 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4474 Workerman[./T50019/start.php] stop success
+2018-10-18 16:45:27 pid:4475 Workerman[./T50029/start.php] stop 
+2018-10-18 16:45:27 pid:4475 Workerman[./T50029/start.php] is stopping ...
+2018-10-18 16:45:27 pid:4152 Workerman[start.php] stopping ...
+2018-10-18 16:45:27 pid:4152 Workerman[start.php] has been stopped
+2018-10-18 16:45:27 pid:4475 Workerman[./T50029/start.php] stop success
+2018-10-18 16:47:29 pid:4543 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4546 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4551 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4556 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4561 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4566 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4571 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4575 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4581 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4586 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4592 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-18 16:47:29 pid:4596 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-18 16:51:10 pid:4645 Workerman[./T20019/start.php] stop 
+2018-10-18 16:51:10 pid:4645 Workerman[./T20019/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4545 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4545 Workerman[start.php] has been stopped
+2018-10-18 16:51:10 pid:4645 Workerman[./T20019/start.php] stop success
+2018-10-18 16:51:10 pid:4646 Workerman[./T20029/start.php] stop 
+2018-10-18 16:51:10 pid:4646 Workerman[./T20029/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4550 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4550 Workerman[start.php] has been stopped
+2018-10-18 16:51:10 pid:4646 Workerman[./T20029/start.php] stop success
+2018-10-18 16:51:10 pid:4647 Workerman[./T20039/start.php] stop 
+2018-10-18 16:51:10 pid:4647 Workerman[./T20039/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4555 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4555 Workerman[start.php] has been stopped
+2018-10-18 16:51:10 pid:4647 Workerman[./T20039/start.php] stop success
+2018-10-18 16:51:10 pid:4648 Workerman[./T20049/start.php] stop 
+2018-10-18 16:51:10 pid:4648 Workerman[./T20049/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4560 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4560 Workerman[start.php] has been stopped
+2018-10-18 16:51:10 pid:4648 Workerman[./T20049/start.php] stop success
+2018-10-18 16:51:10 pid:4649 Workerman[./T20059/start.php] stop 
+2018-10-18 16:51:10 pid:4649 Workerman[./T20059/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4565 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4565 Workerman[start.php] has been stopped
+2018-10-18 16:51:10 pid:4649 Workerman[./T20059/start.php] stop success
+2018-10-18 16:51:10 pid:4650 Workerman[./T20069/start.php] stop 
+2018-10-18 16:51:10 pid:4650 Workerman[./T20069/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4570 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4570 Workerman[start.php] has been stopped
+2018-10-18 16:51:10 pid:4650 Workerman[./T20069/start.php] stop success
+2018-10-18 16:51:10 pid:4651 Workerman[./T20089/start.php] stop 
+2018-10-18 16:51:10 pid:4651 Workerman[./T20089/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4576 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4576 Workerman[start.php] has been stopped
+2018-10-18 16:51:10 pid:4651 Workerman[./T20089/start.php] stop success
+2018-10-18 16:51:10 pid:4652 Workerman[./T20099/start.php] stop 
+2018-10-18 16:51:10 pid:4652 Workerman[./T20099/start.php] is stopping ...
+2018-10-18 16:51:10 pid:4580 Workerman[start.php] stopping ...
+2018-10-18 16:51:10 pid:4580 Workerman[start.php] has been stopped
+2018-10-18 16:51:11 pid:4652 Workerman[./T20099/start.php] stop success
+2018-10-18 16:51:11 pid:4653 Workerman[./T30019/start.php] stop 
+2018-10-18 16:51:11 pid:4653 Workerman[./T30019/start.php] is stopping ...
+2018-10-18 16:51:11 pid:4585 Workerman[start.php] stopping ...
+2018-10-18 16:51:11 pid:4585 Workerman[start.php] has been stopped
+2018-10-18 16:51:11 pid:4653 Workerman[./T30019/start.php] stop success
+2018-10-18 16:51:11 pid:4654 Workerman[./T30029/start.php] stop 
+2018-10-18 16:51:11 pid:4654 Workerman[./T30029/start.php] is stopping ...
+2018-10-18 16:51:11 pid:4590 Workerman[start.php] stopping ...
+2018-10-18 16:51:11 pid:4590 Workerman[start.php] has been stopped
+2018-10-18 16:51:11 pid:4654 Workerman[./T30029/start.php] stop success
+2018-10-18 16:51:11 pid:4655 Workerman[./T50019/start.php] stop 
+2018-10-18 16:51:11 pid:4655 Workerman[./T50019/start.php] is stopping ...
+2018-10-18 16:51:11 pid:4595 Workerman[start.php] stopping ...
+2018-10-18 16:51:11 pid:4595 Workerman[start.php] has been stopped
+2018-10-18 16:51:11 pid:4655 Workerman[./T50019/start.php] stop success
+2018-10-18 16:51:11 pid:4656 Workerman[./T50029/start.php] stop 
+2018-10-18 16:51:11 pid:4656 Workerman[./T50029/start.php] is stopping ...
+2018-10-18 16:51:11 pid:4600 Workerman[start.php] stopping ...
+2018-10-18 16:51:11 pid:4600 Workerman[start.php] has been stopped
+2018-10-18 16:51:11 pid:4656 Workerman[./T50029/start.php] stop success
+2018-10-18 17:17:21 pid:4938 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4941 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4946 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4951 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4956 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4960 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4966 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4971 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-18 17:17:21 pid:4976 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-18 17:17:22 pid:4981 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-18 17:17:22 pid:4986 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-18 17:17:22 pid:4991 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:4999 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:4999 Workerman[./T20019/start.php] already running
+2018-10-18 17:17:26 pid:5000 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5000 Workerman[./T20029/start.php] already running
+2018-10-18 17:17:26 pid:5001 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5001 Workerman[./T20039/start.php] already running
+2018-10-18 17:17:26 pid:5002 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5002 Workerman[./T20049/start.php] already running
+2018-10-18 17:17:26 pid:5003 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5003 Workerman[./T20059/start.php] already running
+2018-10-18 17:17:26 pid:5004 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5004 Workerman[./T20069/start.php] already running
+2018-10-18 17:17:26 pid:5005 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5005 Workerman[./T20089/start.php] already running
+2018-10-18 17:17:26 pid:5006 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5006 Workerman[./T20099/start.php] already running
+2018-10-18 17:17:26 pid:5007 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5007 Workerman[./T30019/start.php] already running
+2018-10-18 17:17:26 pid:5008 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5008 Workerman[./T30029/start.php] already running
+2018-10-18 17:17:26 pid:5009 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5009 Workerman[./T50019/start.php] already running
+2018-10-18 17:17:26 pid:5010 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-18 17:17:26 pid:5010 Workerman[./T50029/start.php] already running
+2018-10-18 19:49:30 pid:5794 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5794 Workerman[./T20019/start.php] already running
+2018-10-18 19:49:30 pid:5795 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5795 Workerman[./T20029/start.php] already running
+2018-10-18 19:49:30 pid:5796 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5796 Workerman[./T20039/start.php] already running
+2018-10-18 19:49:30 pid:5797 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5797 Workerman[./T20049/start.php] already running
+2018-10-18 19:49:30 pid:5798 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5798 Workerman[./T20059/start.php] already running
+2018-10-18 19:49:30 pid:5799 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5799 Workerman[./T20069/start.php] already running
+2018-10-18 19:49:30 pid:5800 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5800 Workerman[./T20089/start.php] already running
+2018-10-18 19:49:30 pid:5801 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5801 Workerman[./T20099/start.php] already running
+2018-10-18 19:49:30 pid:5802 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5802 Workerman[./T30019/start.php] already running
+2018-10-18 19:49:30 pid:5803 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5803 Workerman[./T30029/start.php] already running
+2018-10-18 19:49:30 pid:5804 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5804 Workerman[./T50019/start.php] already running
+2018-10-18 19:49:30 pid:5805 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-18 19:49:30 pid:5805 Workerman[./T50029/start.php] already running
+2018-10-19 16:16:30 pid:11205 Workerman[./T20019/start.php] stop 
+2018-10-19 16:16:30 pid:11205 Workerman[./T20019/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4940 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4940 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11205 Workerman[./T20019/start.php] stop success
+2018-10-19 16:16:30 pid:11206 Workerman[./T20029/start.php] stop 
+2018-10-19 16:16:30 pid:11206 Workerman[./T20029/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4945 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4945 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11206 Workerman[./T20029/start.php] stop success
+2018-10-19 16:16:30 pid:11207 Workerman[./T20039/start.php] stop 
+2018-10-19 16:16:30 pid:11207 Workerman[./T20039/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4950 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4950 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11207 Workerman[./T20039/start.php] stop success
+2018-10-19 16:16:30 pid:11208 Workerman[./T20049/start.php] stop 
+2018-10-19 16:16:30 pid:11208 Workerman[./T20049/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4955 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4955 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11208 Workerman[./T20049/start.php] stop success
+2018-10-19 16:16:30 pid:11209 Workerman[./T20059/start.php] stop 
+2018-10-19 16:16:30 pid:11209 Workerman[./T20059/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4961 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4961 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11209 Workerman[./T20059/start.php] stop success
+2018-10-19 16:16:30 pid:11210 Workerman[./T20069/start.php] stop 
+2018-10-19 16:16:30 pid:11210 Workerman[./T20069/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4965 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4965 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11210 Workerman[./T20069/start.php] stop success
+2018-10-19 16:16:30 pid:11211 Workerman[./T20089/start.php] stop 
+2018-10-19 16:16:30 pid:11211 Workerman[./T20089/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4970 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4970 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11211 Workerman[./T20089/start.php] stop success
+2018-10-19 16:16:30 pid:11212 Workerman[./T20099/start.php] stop 
+2018-10-19 16:16:30 pid:11212 Workerman[./T20099/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4975 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4975 Workerman[start.php] has been stopped
+2018-10-19 16:16:30 pid:11212 Workerman[./T20099/start.php] stop success
+2018-10-19 16:16:30 pid:11213 Workerman[./T30019/start.php] stop 
+2018-10-19 16:16:30 pid:11213 Workerman[./T30019/start.php] is stopping ...
+2018-10-19 16:16:30 pid:4980 Workerman[start.php] stopping ...
+2018-10-19 16:16:30 pid:4980 Workerman[start.php] has been stopped
+2018-10-19 16:16:31 pid:11213 Workerman[./T30019/start.php] stop success
+2018-10-19 16:16:31 pid:11214 Workerman[./T30029/start.php] stop 
+2018-10-19 16:16:31 pid:11214 Workerman[./T30029/start.php] is stopping ...
+2018-10-19 16:16:31 pid:4985 Workerman[start.php] stopping ...
+2018-10-19 16:16:31 pid:4985 Workerman[start.php] has been stopped
+2018-10-19 16:16:31 pid:11214 Workerman[./T30029/start.php] stop success
+2018-10-19 16:16:31 pid:11215 Workerman[./T50019/start.php] stop 
+2018-10-19 16:16:31 pid:11215 Workerman[./T50019/start.php] is stopping ...
+2018-10-19 16:16:31 pid:4990 Workerman[start.php] stopping ...
+2018-10-19 16:16:31 pid:4990 Workerman[start.php] has been stopped
+2018-10-19 16:16:31 pid:11215 Workerman[./T50019/start.php] stop success
+2018-10-19 16:16:31 pid:11216 Workerman[./T50029/start.php] stop 
+2018-10-19 16:16:31 pid:11216 Workerman[./T50029/start.php] is stopping ...
+2018-10-19 16:16:31 pid:4995 Workerman[start.php] stopping ...
+2018-10-19 16:16:31 pid:4995 Workerman[start.php] has been stopped
+2018-10-19 16:16:31 pid:11216 Workerman[./T50029/start.php] stop success
+2018-10-19 16:17:23 pid:11615 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11618 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11624 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11628 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11633 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11638 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11643 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11648 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11653 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11658 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-19 16:17:23 pid:11663 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-19 16:17:24 pid:11668 Workerman[./T50029/start.php] start in DAEMON mode
+2018-10-23 15:20:37 pid:28436 Workerman[./T20019/start.php] stop 
+2018-10-23 15:20:37 pid:28436 Workerman[./T20019/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11617 Workerman[start.php] stopping ...
+2018-10-23 15:20:37 pid:11617 Workerman[start.php] has been stopped
+2018-10-23 15:20:37 pid:28436 Workerman[./T20019/start.php] stop success
+2018-10-23 15:20:37 pid:28437 Workerman[./T20029/start.php] stop 
+2018-10-23 15:20:37 pid:28437 Workerman[./T20029/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11622 Workerman[start.php] stopping ...
+2018-10-23 15:20:37 pid:11622 Workerman[start.php] has been stopped
+2018-10-23 15:20:37 pid:28437 Workerman[./T20029/start.php] stop success
+2018-10-23 15:20:37 pid:28438 Workerman[./T20039/start.php] stop 
+2018-10-23 15:20:37 pid:28438 Workerman[./T20039/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11627 Workerman[start.php] stopping ...
+2018-10-23 15:20:37 pid:11627 Workerman[start.php] has been stopped
+2018-10-23 15:20:37 pid:28438 Workerman[./T20039/start.php] stop success
+2018-10-23 15:20:37 pid:28439 Workerman[./T20049/start.php] stop 
+2018-10-23 15:20:37 pid:28439 Workerman[./T20049/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11632 Workerman[start.php] stopping ...
+2018-10-23 15:20:37 pid:11632 Workerman[start.php] has been stopped
+2018-10-23 15:20:37 pid:28439 Workerman[./T20049/start.php] stop success
+2018-10-23 15:20:37 pid:28440 Workerman[./T20059/start.php] stop 
+2018-10-23 15:20:37 pid:28440 Workerman[./T20059/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11637 Workerman[start.php] stopping ...
+2018-10-23 15:20:37 pid:11637 Workerman[start.php] has been stopped
+2018-10-23 15:20:37 pid:28440 Workerman[./T20059/start.php] stop success
+2018-10-23 15:20:37 pid:28441 Workerman[./T20069/start.php] stop 
+2018-10-23 15:20:37 pid:28441 Workerman[./T20069/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11642 Workerman[start.php] stopping ...
+2018-10-23 15:20:37 pid:11642 Workerman[start.php] has been stopped
+2018-10-23 15:20:37 pid:28441 Workerman[./T20069/start.php] stop success
+2018-10-23 15:20:37 pid:28442 Workerman[./T20089/start.php] stop 
+2018-10-23 15:20:37 pid:28442 Workerman[./T20089/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11647 Workerman[start.php] stopping ...
+2018-10-23 15:20:37 pid:11647 Workerman[start.php] has been stopped
+2018-10-23 15:20:37 pid:28442 Workerman[./T20089/start.php] stop success
+2018-10-23 15:20:37 pid:28443 Workerman[./T20099/start.php] stop 
+2018-10-23 15:20:37 pid:28443 Workerman[./T20099/start.php] is stopping ...
+2018-10-23 15:20:37 pid:11652 Workerman[start.php] stopping ...
+2018-10-23 15:20:38 pid:11652 Workerman[start.php] has been stopped
+2018-10-23 15:20:38 pid:28443 Workerman[./T20099/start.php] stop success
+2018-10-23 15:20:38 pid:28444 Workerman[./T30019/start.php] stop 
+2018-10-23 15:20:38 pid:28444 Workerman[./T30019/start.php] is stopping ...
+2018-10-23 15:20:38 pid:11657 Workerman[start.php] stopping ...
+2018-10-23 15:20:38 pid:11657 Workerman[start.php] has been stopped
+2018-10-23 15:20:38 pid:28444 Workerman[./T30019/start.php] stop success
+2018-10-23 15:20:38 pid:28445 Workerman[./T30029/start.php] stop 
+2018-10-23 15:20:38 pid:28445 Workerman[./T30029/start.php] is stopping ...
+2018-10-23 15:20:38 pid:11662 Workerman[start.php] stopping ...
+2018-10-23 15:20:38 pid:11662 Workerman[start.php] has been stopped
+2018-10-23 15:20:38 pid:28445 Workerman[./T30029/start.php] stop success
+2018-10-23 15:20:38 pid:28446 Workerman[./T50019/start.php] stop 
+2018-10-23 15:20:38 pid:28446 Workerman[./T50019/start.php] is stopping ...
+2018-10-23 15:20:38 pid:11667 Workerman[start.php] stopping ...
+2018-10-23 15:20:38 pid:11667 Workerman[start.php] has been stopped
+2018-10-23 15:20:38 pid:28446 Workerman[./T50019/start.php] stop success
+2018-10-23 15:20:38 pid:28447 Workerman[./T50029/start.php] stop 
+2018-10-23 15:20:38 pid:28447 Workerman[./T50029/start.php] is stopping ...
+2018-10-23 15:20:38 pid:11672 Workerman[start.php] stopping ...
+2018-10-23 15:20:38 pid:11672 Workerman[start.php] has been stopped
+2018-10-23 15:20:38 pid:28447 Workerman[./T50029/start.php] stop success
+2018-10-29 17:09:00 pid:23476 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-29 17:21:39 pid:24176 Workerman[./T20019/start.php] stop 
+2018-10-29 17:21:39 pid:24176 Workerman[./T20019/start.php] is stopping ...
+2018-10-29 17:21:39 pid:23478 Workerman[start.php] stopping ...
+2018-10-29 17:21:39 pid:23478 Workerman[start.php] has been stopped
+2018-10-29 17:21:39 pid:24176 Workerman[./T20019/start.php] stop success
+2018-10-29 17:21:39 pid:24177 Workerman[./T20029/start.php] stop 
+2018-10-29 17:21:39 pid:24177 Workerman[./T20029/start.php] not run
+2018-10-29 17:21:39 pid:24178 Workerman[./T20039/start.php] stop 
+2018-10-29 17:21:39 pid:24178 Workerman[./T20039/start.php] not run
+2018-10-29 17:21:39 pid:24179 Workerman[./T20049/start.php] stop 
+2018-10-29 17:21:39 pid:24179 Workerman[./T20049/start.php] not run
+2018-10-29 17:21:39 pid:24180 Workerman[./T20059/start.php] stop 
+2018-10-29 17:21:39 pid:24180 Workerman[./T20059/start.php] not run
+2018-10-29 17:21:39 pid:24181 Workerman[./T20069/start.php] stop 
+2018-10-29 17:21:39 pid:24181 Workerman[./T20069/start.php] not run
+2018-10-29 17:21:39 pid:24182 Workerman[./T20089/start.php] stop 
+2018-10-29 17:21:39 pid:24182 Workerman[./T20089/start.php] not run
+2018-10-29 17:21:39 pid:24192 Workerman[./T20099/start.php] stop 
+2018-10-29 17:21:39 pid:24192 Workerman[./T20099/start.php] not run
+2018-10-29 17:21:39 pid:24193 Workerman[./T30019/start.php] stop 
+2018-10-29 17:21:39 pid:24193 Workerman[./T30019/start.php] not run
+2018-10-29 17:21:39 pid:24194 Workerman[./T30029/start.php] stop 
+2018-10-29 17:21:39 pid:24194 Workerman[./T30029/start.php] not run
+2018-10-29 17:21:39 pid:24195 Workerman[./T50019/start.php] stop 
+2018-10-29 17:21:39 pid:24195 Workerman[./T50019/start.php] not run
+2018-10-29 17:21:39 pid:24196 Workerman[./T50029/start.php] stop 
+2018-10-29 17:21:39 pid:24196 Workerman[./T50029/start.php] not run
+2018-10-30 16:55:41 pid:29925 Workerman[T20019/start.php] restart 
+2018-10-30 16:55:41 pid:29925 Workerman[T20019/start.php] is stopping ...
+2018-10-30 16:55:41 pid:29925 Workerman[T20019/start.php] stop success
+2018-10-30 16:56:10 pid:29930 Workerman[T20019/start.php] restart 
+2018-10-30 16:56:10 pid:29930 Workerman[T20019/start.php] is stopping ...
+2018-10-30 16:56:10 pid:29927 Workerman[start.php] stopping ...
+2018-10-30 16:56:10 pid:29927 Workerman[start.php] has been stopped
+2018-10-30 16:56:10 pid:29930 Workerman[T20019/start.php] stop success
+2018-10-30 16:56:20 pid:29936 Workerman[T20029/start.php] restart 
+2018-10-30 16:56:20 pid:29936 Workerman[T20029/start.php] is stopping ...
+2018-10-30 16:56:20 pid:29936 Workerman[T20029/start.php] stop success
+2018-10-30 16:56:30 pid:29941 Workerman[T20039/start.php] restart 
+2018-10-30 16:56:30 pid:29941 Workerman[T20039/start.php] is stopping ...
+2018-10-30 16:56:30 pid:29941 Workerman[T20039/start.php] stop success
+2018-10-30 16:56:37 pid:29946 Workerman[T20049/start.php] restart 
+2018-10-30 16:56:37 pid:29946 Workerman[T20049/start.php] is stopping ...
+2018-10-30 16:56:37 pid:29946 Workerman[T20049/start.php] stop success
+2018-10-31 16:26:32 pid:6214 Workerman[./T20019/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6214 Workerman[./T20019/start.php] already running
+2018-10-31 16:26:32 pid:6215 Workerman[./T20029/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6215 Workerman[./T20029/start.php] already running
+2018-10-31 16:26:32 pid:6216 Workerman[./T20039/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6216 Workerman[./T20039/start.php] already running
+2018-10-31 16:26:32 pid:6217 Workerman[./T20049/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6217 Workerman[./T20049/start.php] already running
+2018-10-31 16:26:32 pid:6218 Workerman[./T20059/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6220 Workerman[./T20069/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6225 Workerman[./T20089/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6231 Workerman[./T20099/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6235 Workerman[./T30019/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6241 Workerman[./T30029/start.php] start in DAEMON mode
+2018-10-31 16:26:32 pid:6246 Workerman[./T50019/start.php] start in DAEMON mode
+2018-10-31 16:26:33 pid:6251 Workerman[./T50029/start.php] start in DAEMON mode
+2018-11-01 09:51:24 pid:29948 Workerman[start.php] stopping ...
+2018-11-01 09:51:32 pid:29943 Workerman[start.php] stopping ...
+2018-11-01 09:51:32 pid:29948 Workerman[start.php] has been stopped
+2018-11-01 09:51:38 pid:29938 Workerman[start.php] stopping ...
+2018-11-01 09:51:44 pid:29932 Workerman[start.php] stopping ...
+2018-11-01 09:51:44 pid:29938 Workerman[start.php] has been stopped
+2018-11-01 09:51:47 pid:29932 Workerman[start.php] has been stopped
+2018-11-01 09:52:03 pid:29943 Workerman[start.php] stopping ...
+2018-11-01 09:52:21 pid:14813 Workerman[./T20019/start.php] stop 
+2018-11-01 09:52:21 pid:14813 Workerman[./T20019/start.php] not run
+2018-11-01 09:52:22 pid:14814 Workerman[./T20029/start.php] stop 
+2018-11-01 09:52:22 pid:14814 Workerman[./T20029/start.php] not run
+2018-11-01 09:52:23 pid:14815 Workerman[./T20039/start.php] stop 
+2018-11-01 09:52:23 pid:14815 Workerman[./T20039/start.php] is stopping ...
+2018-11-01 09:52:23 pid:29943 Workerman[start.php] stopping ...
+2018-11-01 09:52:23 pid:29943 Workerman[start.php] has been stopped
+2018-11-01 09:52:24 pid:14815 Workerman[./T20039/start.php] stop success
+2018-11-01 09:52:25 pid:14818 Workerman[./T20049/start.php] stop 
+2018-11-01 09:52:25 pid:14818 Workerman[./T20049/start.php] not run
+2018-11-01 09:52:25 pid:14819 Workerman[./T20059/start.php] stop 
+2018-11-01 09:52:25 pid:14819 Workerman[./T20059/start.php] is stopping ...
+2018-11-01 09:52:25 pid:6221 Workerman[start.php] stopping ...
+2018-11-01 09:52:25 pid:6221 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14819 Workerman[./T20059/start.php] stop success
+2018-11-01 09:52:26 pid:14820 Workerman[./T20069/start.php] stop 
+2018-11-01 09:52:26 pid:14820 Workerman[./T20069/start.php] is stopping ...
+2018-11-01 09:52:26 pid:6226 Workerman[start.php] stopping ...
+2018-11-01 09:52:26 pid:6226 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14820 Workerman[./T20069/start.php] stop success
+2018-11-01 09:52:26 pid:14821 Workerman[./T20089/start.php] stop 
+2018-11-01 09:52:26 pid:14821 Workerman[./T20089/start.php] is stopping ...
+2018-11-01 09:52:26 pid:6230 Workerman[start.php] stopping ...
+2018-11-01 09:52:26 pid:6230 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14821 Workerman[./T20089/start.php] stop success
+2018-11-01 09:52:26 pid:14822 Workerman[./T20099/start.php] stop 
+2018-11-01 09:52:26 pid:14822 Workerman[./T20099/start.php] is stopping ...
+2018-11-01 09:52:26 pid:6236 Workerman[start.php] stopping ...
+2018-11-01 09:52:26 pid:6236 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14822 Workerman[./T20099/start.php] stop success
+2018-11-01 09:52:26 pid:14823 Workerman[./T30019/start.php] stop 
+2018-11-01 09:52:26 pid:14823 Workerman[./T30019/start.php] is stopping ...
+2018-11-01 09:52:26 pid:6240 Workerman[start.php] stopping ...
+2018-11-01 09:52:26 pid:6240 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14823 Workerman[./T30019/start.php] stop success
+2018-11-01 09:52:26 pid:14824 Workerman[./T30029/start.php] stop 
+2018-11-01 09:52:26 pid:14824 Workerman[./T30029/start.php] is stopping ...
+2018-11-01 09:52:26 pid:6245 Workerman[start.php] stopping ...
+2018-11-01 09:52:26 pid:6245 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14824 Workerman[./T30029/start.php] stop success
+2018-11-01 09:52:26 pid:14825 Workerman[./T50019/start.php] stop 
+2018-11-01 09:52:26 pid:14825 Workerman[./T50019/start.php] is stopping ...
+2018-11-01 09:52:26 pid:6250 Workerman[start.php] stopping ...
+2018-11-01 09:52:26 pid:6250 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14825 Workerman[./T50019/start.php] stop success
+2018-11-01 09:52:26 pid:14826 Workerman[./T50029/start.php] stop 
+2018-11-01 09:52:26 pid:14826 Workerman[./T50029/start.php] is stopping ...
+2018-11-01 09:52:26 pid:6255 Workerman[start.php] stopping ...
+2018-11-01 09:52:26 pid:6255 Workerman[start.php] has been stopped
+2018-11-01 09:52:26 pid:14826 Workerman[./T50029/start.php] stop success
+2018-11-01 09:56:00 pid:15487 Workerman[./T20019/start.php] start in DAEMON mode
+2018-11-01 09:56:00 pid:15490 Workerman[./T20029/start.php] start in DAEMON mode
+2018-11-01 09:56:00 pid:15495 Workerman[./T20039/start.php] start in DAEMON mode
+2018-11-01 09:56:01 pid:15502 Workerman[./T20049/start.php] start in DAEMON mode
+2018-11-01 09:56:04 pid:15507 Workerman[./T20059/start.php] start in DAEMON mode
+2018-11-01 10:13:17 pid:15612 Workerman[./T20019/start.php] stop 
+2018-11-01 10:13:17 pid:15612 Workerman[./T20019/start.php] is stopping ...
+2018-11-01 10:13:17 pid:15489 Workerman[start.php] stopping ...
+2018-11-01 10:13:17 pid:15489 Workerman[start.php] has been stopped
+2018-11-01 10:13:17 pid:15612 Workerman[./T20019/start.php] stop success
+2018-11-01 10:13:17 pid:15651 Workerman[./T20029/start.php] stop 
+2018-11-01 10:13:17 pid:15651 Workerman[./T20029/start.php] is stopping ...
+2018-11-01 10:13:17 pid:15494 Workerman[start.php] stopping ...
+2018-11-01 10:13:17 pid:15494 Workerman[start.php] has been stopped
+2018-11-01 10:13:17 pid:15651 Workerman[./T20029/start.php] stop success
+2018-11-01 10:13:17 pid:15667 Workerman[./T20039/start.php] stop 
+2018-11-01 10:13:17 pid:15667 Workerman[./T20039/start.php] is stopping ...
+2018-11-01 10:13:17 pid:15499 Workerman[start.php] stopping ...
+2018-11-01 10:13:17 pid:15499 Workerman[start.php] has been stopped
+2018-11-01 10:13:17 pid:15667 Workerman[./T20039/start.php] stop success
+2018-11-01 10:13:17 pid:15674 Workerman[./T20049/start.php] stop 
+2018-11-01 10:13:17 pid:15674 Workerman[./T20049/start.php] is stopping ...
+2018-11-01 10:13:17 pid:15504 Workerman[start.php] stopping ...
+2018-11-01 10:13:17 pid:15504 Workerman[start.php] has been stopped
+2018-11-01 10:13:17 pid:15674 Workerman[./T20049/start.php] stop success
+2018-11-01 10:13:18 pid:15675 Workerman[./T20059/start.php] stop 
+2018-11-01 10:13:18 pid:15675 Workerman[./T20059/start.php] is stopping ...
+2018-11-01 10:13:18 pid:15509 Workerman[start.php] stopping ...
+2018-11-01 10:13:18 pid:15509 Workerman[start.php] has been stopped
+2018-11-01 10:13:18 pid:15675 Workerman[./T20059/start.php] stop success
+2018-11-01 10:13:18 pid:15676 Workerman[./T20069/start.php] stop 
+2018-11-01 10:13:18 pid:15676 Workerman[./T20069/start.php] not run
+2018-11-01 10:13:18 pid:15677 Workerman[./T20089/start.php] stop 
+2018-11-01 10:13:18 pid:15677 Workerman[./T20089/start.php] not run
+2018-11-01 10:13:18 pid:15678 Workerman[./T20099/start.php] stop 
+2018-11-01 10:13:18 pid:15678 Workerman[./T20099/start.php] not run
+2018-11-01 10:13:18 pid:15679 Workerman[./T30019/start.php] stop 
+2018-11-01 10:13:18 pid:15679 Workerman[./T30019/start.php] not run
+2018-11-01 10:13:18 pid:15680 Workerman[./T30029/start.php] stop 
+2018-11-01 10:13:18 pid:15680 Workerman[./T30029/start.php] not run
+2018-11-01 10:13:18 pid:15681 Workerman[./T50019/start.php] stop 
+2018-11-01 10:13:18 pid:15681 Workerman[./T50019/start.php] not run
+2018-11-01 10:13:18 pid:15682 Workerman[./T50029/start.php] stop 
+2018-11-01 10:13:18 pid:15682 Workerman[./T50029/start.php] not run
+2018-11-01 10:15:51 pid:16367 Workerman[./T20019/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16370 Workerman[./T20029/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16375 Workerman[./T20039/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16379 Workerman[./T20049/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16385 Workerman[./T20059/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16389 Workerman[./T20069/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16394 Workerman[./T20089/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16400 Workerman[./T20099/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16405 Workerman[./T30019/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16409 Workerman[./T30029/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16415 Workerman[./T50019/start.php] start in DAEMON mode
+2018-11-01 10:15:51 pid:16420 Workerman[./T50029/start.php] start in DAEMON mode
+2018-11-14 15:12:21 pid:1436 Workerman[./T20019/start.php] start in DAEMON mode
+2018-11-14 15:12:21 pid:1439 Workerman[./T20029/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1444 Workerman[./T20039/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1449 Workerman[./T20049/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1454 Workerman[./T20059/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1459 Workerman[./T20069/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1464 Workerman[./T20089/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1469 Workerman[./T20099/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1474 Workerman[./T30019/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1479 Workerman[./T30029/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1484 Workerman[./T50019/start.php] start in DAEMON mode
+2018-11-14 15:12:22 pid:1489 Workerman[./T50029/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2094 Workerman[./T20019/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2097 Workerman[./T20029/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2102 Workerman[./T20039/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2107 Workerman[./T20049/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2112 Workerman[./T20059/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2117 Workerman[./T20069/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2121 Workerman[./T20089/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2127 Workerman[./T20099/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2132 Workerman[./T30019/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2137 Workerman[./T30029/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2142 Workerman[./T50019/start.php] start in DAEMON mode
+2018-11-15 11:26:56 pid:2147 Workerman[./T50029/start.php] start in DAEMON mode
+2018-12-27 10:20:59 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./T50029/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-27 10:21:00 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2018-12-27 10:42:53 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-27 10:45:49 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2018-12-27 11:06:22 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-27 11:09:16 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2018-12-27 11:18:05 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-27 14:05:01 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 14:19:43 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 14:39:50 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 14:53:16 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 15:01:20 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 16:22:25 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-27 16:22:59 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:23:00 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:23:01 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:23:02 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:23:02 pid:10 Workerman[./T20089/start.php] already running
+2018-12-27 16:24:22 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:22 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:23 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:24 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:25 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:27 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:31 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:38 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:42 pid:32165 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:24:51 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:25:17 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:09 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:18 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:18 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:19 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:20 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:21 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:23 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:27 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:34 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:26:47 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:27:14 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:28:05 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:29:06 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:29:24 pid:17 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:31:28 pid:17 Workerman[start.php] stopping ...
+2018-12-27 16:31:28 pid:17 Workerman[start.php] has been stopped
+2018-12-27 16:32:36 pid:39 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 16:33:11 pid:39 Workerman[start.php] stopping ...
+2018-12-27 16:33:11 pid:39 Workerman[start.php] has been stopped
+2018-12-27 16:33:14 pid:42 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:33:19 pid:42 Workerman[start.php] stopping ...
+2018-12-27 16:33:19 pid:42 Workerman[start.php] has been stopped
+2018-12-27 16:33:30 pid:50 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:33:34 pid:50 Workerman[start.php] stopping ...
+2018-12-27 16:33:34 pid:50 Workerman[start.php] has been stopped
+2018-12-27 16:35:43 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 16:36:37 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-27 17:02:29 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 17:13:04 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-27 17:17:24 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 17:31:53 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 17:44:21 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 19:24:55 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 19:30:56 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 20:12:26 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 20:19:55 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 20:29:59 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 20:38:16 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-27 20:45:12 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-28 09:48:27 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-28 10:35:43 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./T50019/start.php] start in DEBUG mode
+2018-12-28 15:41:30 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-28 15:41:30 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2018-12-28 15:41:30 pid:9 Workerman[./T20049/start.php] already running
+2018-12-28 15:41:31 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-28 15:41:31 pid:9 Workerman[./T20089/start.php] already running
+2018-12-28 16:30:15 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2018-12-28 16:47:07 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-28 18:05:32 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-28 18:15:41 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-28 18:15:54 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-29 10:13:33 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2018-12-29 10:15:27 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-29 15:58:08 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-29 16:00:45 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-29 16:04:14 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-29 16:07:02 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-29 16:21:05 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-29 17:07:24 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-29 17:07:24 pid:9 Workerman[./T50019/start.php] start in DEBUG mode
+2018-12-29 17:07:25 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2018-12-29 17:07:26 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2018-12-29 17:07:26 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2018-12-29 17:07:26 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2018-12-29 17:07:28 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-29 17:07:28 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2018-12-29 17:07:29 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2018-12-29 17:07:29 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2018-12-29 17:07:29 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-29 17:07:30 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2018-12-29 17:07:30 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2018-12-29 17:07:30 pid:9 Workerman[./T20089/start.php] already running
+2018-12-29 17:07:31 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2018-12-29 17:07:31 pid:9 Workerman[./T20049/start.php] already running
+2019-01-02 11:59:15 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 10:32:59 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 10:44:37 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 10:58:11 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 11:05:11 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 11:13:36 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 11:18:01 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 11:21:59 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 11:23:56 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 11:25:10 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 11:48:25 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-03 14:28:04 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-04 10:32:37 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-04 10:39:44 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-04 11:13:55 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-04 11:35:52 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-04 11:35:52 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-04 11:40:53 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-04 11:53:58 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-04 11:53:59 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-04 17:43:33 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-04 17:49:44 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-05 16:36:49 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-05 16:36:51 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-05 16:36:52 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-05 16:36:53 pid:7 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-05 16:36:53 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-05 16:36:54 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2019-01-05 16:36:54 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-05 16:36:54 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2019-01-05 16:36:54 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 16:36:54 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-05 16:36:54 pid:8 Workerman[./T50029/start.php] start in DEBUG mode
+2019-01-05 16:36:54 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-01-05 16:36:56 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-05 16:36:56 pid:9 Workerman[./T20069/start.php] already running
+2019-01-05 16:36:56 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-01-05 17:10:30 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-05 17:10:45 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 17:17:53 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 17:17:53 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-05 17:21:37 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-05 17:21:37 pid:9 Workerman[./T20039/start.php] already running
+2019-01-05 17:25:13 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-05 17:25:13 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 17:25:14 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 17:25:14 pid:9 Workerman[./T20089/start.php] already running
+2019-01-05 17:27:44 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-05 17:27:44 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 17:27:45 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 17:27:46 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-05 17:27:46 pid:9 Workerman[./T20089/start.php] already running
+2019-01-05 17:29:35 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-05 17:52:00 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-05 18:48:43 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-07 10:27:21 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-07 10:32:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-07 11:38:58 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-07 14:53:04 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-07 14:53:05 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 14:55:51 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-07 15:01:50 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 15:05:07 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-07 15:16:22 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-07 15:35:31 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-07 15:38:49 pid:10 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-07 15:54:18 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-07 15:56:48 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-07 15:58:51 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 16:04:34 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 16:04:35 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 16:17:09 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-07 16:17:44 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 16:18:03 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 16:20:13 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 16:22:09 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-07 16:31:56 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 16:45:49 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 16:51:03 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 16:53:32 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 16:56:26 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 16:59:35 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 16:59:51 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 17:09:33 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 17:15:25 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 17:15:35 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 18:58:56 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 19:07:14 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-07 19:31:13 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 19:39:04 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-07 19:39:04 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-08 10:35:48 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-08 10:35:48 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-08 15:10:51 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-08 15:15:56 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-08 15:15:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-08 15:15:57 pid:9 Workerman[./T30039/start.php] already running
+2019-01-08 15:23:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-09 11:19:29 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-09 11:19:30 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-10 11:39:02 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-10 11:39:02 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 11:41:11 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:20:37 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:22:39 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 14:28:44 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:30:36 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:31:43 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:34:49 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:36:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 14:37:51 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:38:45 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 14:42:00 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 14:42:18 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-10 14:42:20 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-10 14:42:20 pid:9 Workerman[./T20089/start.php] already running
+2019-01-10 14:44:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 14:45:54 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 15:01:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 15:07:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 16:04:58 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 16:09:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 16:23:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 16:28:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 17:04:50 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-10 17:04:50 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-10 17:06:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 17:13:46 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 17:22:22 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 17:31:55 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 17:35:33 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 17:38:26 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 17:44:05 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 20:11:02 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-10 20:51:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 10:11:48 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 10:37:19 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 10:41:37 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 11:01:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 11:57:05 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 11:59:45 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 12:02:02 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 12:03:51 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 12:09:17 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 12:11:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 12:13:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 16:15:54 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 16:29:36 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 16:42:56 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-11 17:07:54 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-11 17:12:05 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-11 17:14:20 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-11 17:17:57 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 17:19:30 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 17:40:25 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 17:48:54 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 18:14:50 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-11 18:23:55 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 18:26:22 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 18:30:43 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-11 18:41:24 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-11 18:46:11 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-11 18:50:07 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-11 18:54:21 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-12 10:22:40 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 10:52:19 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 10:58:02 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:00:21 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:13:20 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:15:19 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:18:30 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:22:33 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:23:52 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:25:01 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:34:51 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 11:37:53 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 15:20:53 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-12 15:22:50 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-12 15:24:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-12 15:27:15 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-12 15:37:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-12 16:06:07 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-14 11:13:39 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 11:43:04 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 11:43:05 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-14 11:43:05 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-01-14 11:43:05 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:8 Workerman[./T50029/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:9 Workerman[./T50019/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-01-14 11:43:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-14 11:43:13 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 11:43:13 pid:9 Workerman[./T20069/start.php] already running
+2019-01-14 11:43:13 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 11:43:13 pid:9 Workerman[./T30039/start.php] already running
+2019-01-14 12:10:52 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 14:39:42 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 14:45:12 pid:10 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 14:47:38 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 14:52:46 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 14:55:05 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 15:00:52 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 15:01:45 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 15:02:07 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 15:09:17 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 15:13:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 15:14:57 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 15:17:43 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 15:28:27 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 15:44:01 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 15:44:11 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 15:50:27 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 15:50:27 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 15:50:27 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-14 15:50:27 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 15:50:29 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-14 15:50:29 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-14 15:50:29 pid:9 Workerman[./T20089/start.php] already running
+2019-01-14 15:51:34 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 15:53:41 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-14 15:53:41 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-14 15:53:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-14 15:53:41 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-14 16:09:55 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 16:59:37 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 17:00:27 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 17:01:29 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 17:12:13 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 17:20:35 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 17:22:05 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 17:25:41 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 17:51:34 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-14 17:56:30 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-14 19:12:17 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-14 19:16:04 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-14 20:02:18 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 20:08:45 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 20:27:23 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-14 20:27:43 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-14 20:33:37 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-15 10:28:45 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-15 10:49:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-15 10:55:19 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-15 11:33:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-15 15:07:31 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-15 15:10:13 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-15 15:10:14 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-15 15:10:14 pid:9 Workerman[./T20089/start.php] already running
+2019-01-15 15:10:36 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:16:54 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:21:06 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:23:26 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-15 15:24:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:25:29 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:26:35 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:27:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:29:47 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 15:47:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:02:52 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:05:23 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:08:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:12:29 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:36:37 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:49:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:51:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 16:56:08 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 17:35:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 19:22:37 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 19:53:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 20:00:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-15 20:17:00 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-16 10:45:11 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 10:45:20 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 10:45:21 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-16 10:45:21 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-16 10:45:21 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-16 10:45:22 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 10:45:22 pid:9 Workerman[./T20069/start.php] already running
+2019-01-16 10:45:22 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-16 10:45:22 pid:9 Workerman[./T30039/start.php] already running
+2019-01-16 11:26:47 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 11:26:47 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-16 11:26:47 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 11:26:47 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-16 11:26:47 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-16 11:26:48 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 11:26:48 pid:9 Workerman[./T20069/start.php] already running
+2019-01-16 11:26:48 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-16 11:26:48 pid:9 Workerman[./T30039/start.php] already running
+2019-01-16 11:29:21 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 11:29:21 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 11:29:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-16 11:29:21 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-16 11:29:21 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-16 11:32:02 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-16 11:32:02 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 11:32:03 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-16 11:32:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-16 11:32:11 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 11:37:31 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 14:26:25 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-16 14:26:25 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 18:10:00 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-16 19:24:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 19:24:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 19:25:23 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 19:27:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-16 19:41:09 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-17 11:05:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 11:22:15 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-17 11:25:09 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 11:36:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 16:42:25 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 17:21:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-17 17:21:23 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-01-17 17:21:24 pid:9 Workerman[./T50019/start.php] start in DEBUG mode
+2019-01-17 17:21:25 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-01-17 17:21:25 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-17 17:21:25 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-17 17:21:26 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:21:26 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-01-17 17:21:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-17 17:21:31 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-17 17:21:31 pid:9 Workerman[./T20069/start.php] already running
+2019-01-17 17:21:31 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 17:21:31 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-17 17:21:31 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-17 17:21:31 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-17 17:21:31 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-17 17:21:52 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:22:53 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:27:14 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:35:51 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:36:28 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:38:27 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:41:53 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 17:42:22 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 17:43:21 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-17 18:10:28 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-17 19:04:45 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-17 19:34:01 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-17 19:56:50 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-17 20:40:25 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 20:52:11 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-17 21:10:34 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 10:31:01 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 10:31:41 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 11:29:43 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-18 16:33:46 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 17:33:48 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 17:42:10 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 17:54:15 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 17:56:29 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 17:56:30 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 17:56:56 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 18:00:04 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 18:03:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 18:06:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 18:51:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 19:12:52 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-18 19:12:52 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-01-18 19:12:52 pid:8 Workerman[./T50029/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-18 19:12:57 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-18 19:12:59 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-01-18 19:12:59 pid:9 Workerman[./T20049/start.php] already running
+2019-01-18 19:12:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-18 19:12:59 pid:9 Workerman[./T30039/start.php] already running
+2019-01-21 10:35:55 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-21 10:35:56 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-21 14:13:10 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 14:29:48 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 14:48:55 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 14:55:02 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 16:02:25 pid:10 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 16:14:42 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 16:33:44 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 20:34:26 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 21:12:35 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-21 21:17:45 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-22 10:29:19 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-22 10:48:01 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-22 12:28:49 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-22 12:29:31 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 12:29:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-22 12:30:32 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-01-22 12:31:22 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-01-22 14:44:29 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 15:34:36 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-22 15:35:06 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-01-22 15:35:16 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 16:16:47 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 17:23:28 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 17:26:45 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 17:34:13 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 18:56:55 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 19:01:56 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 19:52:51 pid:10 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-22 19:52:51 pid:10 Workerman[./T20069/start.php] already running
+2019-01-22 19:52:52 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 10:57:37 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 15:13:52 pid:10 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 15:13:54 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 15:18:28 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 15:58:05 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 15:58:05 pid:8 Workerman[./T20069/start.php] already running
+2019-01-23 15:58:06 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 16:00:45 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-23 17:25:46 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:40:10 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-01-24 11:52:34 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:52:34 pid:9 Workerman[./T20069/start.php] already running
+2019-01-24 11:52:35 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:52:35 pid:9 Workerman[./T20069/start.php] already running
+2019-01-24 11:52:37 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:52:37 pid:9 Workerman[./T20069/start.php] already running
+2019-01-24 11:52:39 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:52:39 pid:9 Workerman[./T20069/start.php] already running
+2019-01-24 11:52:40 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:55:10 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:55:10 pid:9 Workerman[./T20069/start.php] already running
+2019-01-24 11:55:11 pid:10 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 11:55:11 pid:10 Workerman[./T20069/start.php] already running
+2019-01-24 14:07:18 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-24 14:07:18 pid:9 Workerman[./T20069/start.php] already running
+2019-01-29 11:21:38 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-01-29 11:22:19 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-29 11:22:20 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-01-29 11:22:20 pid:9 Workerman[./T30039/start.php] already running
+2019-01-29 11:45:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-02-11 10:41:45 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-13 18:13:11 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-13 18:37:20 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-13 18:40:29 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-13 18:45:22 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-13 18:45:23 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-13 18:45:23 pid:9 Workerman[./T20069/start.php] already running
+2019-02-14 15:10:47 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-14 16:36:16 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-02-14 16:36:54 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-02-14 16:37:23 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-14 16:37:44 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-02-14 16:38:17 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-14 16:38:37 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-02-14 16:39:14 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-14 16:39:35 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-02-25 17:03:00 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-25 17:04:57 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 15:19:39 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 15:36:22 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 15:38:24 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 15:48:54 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:48:54 pid:7 Workerman[./T20019/start.php] already running
+2019-02-26 15:57:08 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:16 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:19 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:24 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:24 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 15:57:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:57:46 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:58:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 15:59:06 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:00:08 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:01:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:02:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:03:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:04:15 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:05:16 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:05:16 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:06:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:07:19 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:08:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:09:22 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:10:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:11:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:12:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:13:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:14:30 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:15:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:16:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:17:34 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:18:35 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:19:37 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:20:38 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:20:38 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:21:40 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:21:40 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:22:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:23:43 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:24:44 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:25:46 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:26:47 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:27:49 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:27:49 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:28:50 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:28:50 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:29:52 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:30:53 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:31:55 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:31:55 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:32:56 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:33:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:34:59 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:36:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:37:02 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:38:03 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:39:05 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:40:07 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:41:08 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:42:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:43:11 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:44:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:45:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:46:15 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:47:17 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:48:19 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:48:19 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:49:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:50:22 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:50:22 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:51:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:52:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:53:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:54:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:55:30 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:56:31 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:56:31 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:57:33 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:57:33 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:58:34 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 16:58:34 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 16:59:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:00:37 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:01:39 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:02:40 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:03:42 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:04:43 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:04:43 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 17:05:45 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:05:45 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 17:06:47 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:07:49 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:08:50 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:09:52 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:10:54 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:11:56 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:12:57 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:12:57 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 17:13:59 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:15:00 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:15:00 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 17:16:02 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:17:04 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:17:04 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 17:18:05 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:19:07 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:20:08 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:20:08 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 17:21:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:22:11 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:23:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:24:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:25:16 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:26:17 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:26:17 pid:9 Workerman[./T20019/start.php] already running
+2019-02-26 17:27:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:28:21 pid:10 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-26 17:28:21 pid:10 Workerman[./T20019/start.php] already running
+2019-02-26 17:40:31 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:40:32 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:40:32 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:40:34 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:40:36 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:40:40 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:40:46 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:41:00 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:41:26 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:42:18 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:43:18 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:43:18 pid:10 Workerman[./T20039/start.php] already running
+2019-02-26 17:45:13 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-02-26 17:45:13 pid:10 Workerman[./T20039/start.php] already running
+2019-02-26 20:02:41 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-02-26 20:04:23 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-02-27 10:44:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 16:58:01 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 16:58:01 pid:7 Workerman[./T20019/start.php] already running
+2019-02-27 17:23:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:23:34 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:23:34 pid:9 Workerman[./T20019/start.php] already running
+2019-02-27 17:23:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:23:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:23:41 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:23:41 pid:7 Workerman[./T20019/start.php] already running
+2019-02-27 17:24:49 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:24:51 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:24:53 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:24:55 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:24:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:25:00 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:25:06 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:25:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:25:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:25:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:26:50 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:03 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:05 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:07 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:18 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:18 pid:9 Workerman[./T20019/start.php] already running
+2019-02-27 17:27:26 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:27:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:28:08 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:29:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:30:03 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:31:04 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:32:35 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-27 17:33:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:00:07 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:00:07 pid:9 Workerman[./T20019/start.php] already running
+2019-02-28 11:32:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:03 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:05 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:07 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:09 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:17 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:32:39 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:33:06 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:33:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:34:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 11:47:44 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:36:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:40:17 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:40:17 pid:9 Workerman[./T20019/start.php] already running
+2019-02-28 14:44:58 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:44:59 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:03 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:05 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:05 pid:9 Workerman[./T20019/start.php] already running
+2019-02-28 14:45:22 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:29 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:37 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:45 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:59 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:45:59 pid:9 Workerman[./T20019/start.php] already running
+2019-02-28 14:46:43 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:46:44 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:46:46 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:46:48 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:46:50 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:46:53 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:46:58 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:47:05 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 14:47:05 pid:9 Workerman[./T20019/start.php] already running
+2019-02-28 15:03:55 pid:11 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 15:05:39 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 15:14:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 15:20:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 15:25:23 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 16:01:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 16:03:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 16:05:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:21:08 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:21:08 pid:9 Workerman[./T20019/start.php] already running
+2019-02-28 17:49:10 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:12 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:16 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:22 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:26 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:29 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:34 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:46 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:54 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 17:49:54 pid:9 Workerman[./T20019/start.php] already running
+2019-02-28 19:14:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:14:34 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:14:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:14:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:14:40 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:14:44 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:14:48 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:14:56 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:11 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:14 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:16 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:18 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:23 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:15:51 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:16:18 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-02-28 19:16:18 pid:9 Workerman[./T20019/start.php] already running
+2019-03-01 14:17:15 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-03-01 14:17:15 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-03-01 14:17:15 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-01 14:17:16 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-03-01 14:17:16 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-01 14:17:18 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-01 14:17:18 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-01 14:17:18 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-03-01 14:17:18 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-01 14:17:18 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-01 14:17:18 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-01 14:17:19 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-01 14:17:19 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-03-01 14:17:20 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-01 14:17:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-01 14:17:21 pid:9 Workerman[./T30039/start.php] already running
+2019-03-01 15:51:17 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-01 15:55:59 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-05 17:48:50 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-05 18:07:41 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-05 18:07:42 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-03-05 18:07:42 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-05 18:07:43 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:9 Workerman[./T30039/start.php] already running
+2019-03-05 18:07:47 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:8 Workerman[./T50029/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2019-03-05 18:07:47 pid:8 Workerman[./T50029/start.php] already running
+2019-03-05 18:07:47 pid:8 Workerman[./T20049/start.php] already running
+2019-03-05 18:07:50 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-05 18:07:50 pid:8 Workerman[./T20019/start.php] already running
+2019-03-05 18:07:50 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-03-05 18:07:50 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-03-05 18:07:50 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-03-06 15:16:41 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20099/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20099/start.php] already running
+2019-03-07 14:34:07 pid:8 Workerman[./T20059/start.php] already running
+2019-03-07 14:34:07 pid:8 Workerman[./T20049/start.php] already running
+2019-03-07 14:34:07 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20029/start.php] already running
+2019-03-07 14:34:07 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20089/start.php] already running
+2019-03-07 14:34:07 pid:8 Workerman[./T20069/start.php] already running
+2019-03-07 14:34:07 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-07 14:34:07 pid:8 Workerman[./T20039/start.php] already running
+2019-03-07 14:34:08 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-03-07 14:34:08 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-03-07 14:34:11 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-03-07 14:34:11 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-03-07 14:34:11 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-03-07 14:34:12 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-07 14:34:12 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-07 14:34:12 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-07 14:34:12 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-07 14:34:13 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-07 14:34:13 pid:9 Workerman[./T30039/start.php] already running
+2019-03-08 15:06:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 15:13:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 15:29:42 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 15:40:55 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 15:43:00 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 16:43:45 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 16:56:45 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 17:23:34 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 17:43:02 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-08 18:16:23 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 11:46:22 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 15:02:39 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 15:40:55 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 15:59:15 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 16:08:18 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 16:37:58 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 19:04:26 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 20:16:33 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-11 20:16:33 pid:8 Workerman[./T20019/start.php] already running
+2019-03-11 21:44:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-11 21:52:31 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-11 21:57:23 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-11 22:01:44 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-03-11 22:01:45 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-11 22:01:45 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-03-11 22:01:45 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 22:01:45 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-11 22:01:45 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-03-11 22:01:47 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-11 22:01:47 pid:9 Workerman[./T30039/start.php] already running
+2019-03-12 11:17:09 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:11 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:16 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:19 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:22 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:51 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:17:51 pid:9 Workerman[./T20019/start.php] already running
+2019-03-12 11:18:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:29 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:35 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:43 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:52 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:18:52 pid:9 Workerman[./T20019/start.php] already running
+2019-03-12 11:19:06 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:19:35 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:20:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:21:30 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:22:33 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:22:55 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 11:23:35 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:23:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:27:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:28:58 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:42:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 11:45:04 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 14:48:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 15:05:52 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 15:10:07 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:25:07 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:25:08 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:25:51 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:26:14 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:26:14 pid:8 Workerman[./T20039/start.php] already running
+2019-03-12 15:27:40 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:27:41 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:27:42 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:27:43 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:27:45 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:27:47 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:27:50 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:27:57 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:28:11 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:28:11 pid:10 Workerman[./T20039/start.php] already running
+2019-03-12 15:28:31 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:31:52 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 15:32:21 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:35:36 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:35:36 pid:8 Workerman[./T20039/start.php] already running
+2019-03-12 15:35:38 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 15:39:49 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-12 15:40:55 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 15:40:55 pid:8 Workerman[./T20069/start.php] already running
+2019-03-12 15:40:57 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 15:50:14 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-12 15:53:46 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 15:58:47 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 16:26:33 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 17:00:52 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 18:57:55 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 19:11:35 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-12 19:12:04 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-12 19:12:19 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-12 19:12:43 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 19:13:45 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-12 19:13:45 pid:9 Workerman[./T20029/start.php] already running
+2019-03-12 19:13:46 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-12 19:14:02 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 19:15:00 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-12 19:40:41 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 19:54:24 pid:10 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 19:54:24 pid:10 Workerman[./T20069/start.php] already running
+2019-03-12 19:54:25 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 19:54:25 pid:8 Workerman[./T20069/start.php] already running
+2019-03-12 19:54:26 pid:10 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 19:54:26 pid:10 Workerman[./T20069/start.php] already running
+2019-03-12 19:54:27 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-12 20:00:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:04:08 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:08:30 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:08:30 pid:9 Workerman[./T30039/start.php] already running
+2019-03-12 20:17:18 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:17:18 pid:9 Workerman[./T30039/start.php] already running
+2019-03-12 20:17:46 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:25:34 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:28:53 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:41:40 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:54:12 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:54:12 pid:10 Workerman[./T30039/start.php] already running
+2019-03-12 20:54:14 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-12 20:54:14 pid:9 Workerman[./T30039/start.php] already running
+2019-03-12 20:55:31 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 10:02:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 10:29:24 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 10:42:54 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 11:14:32 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 11:31:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 11:43:39 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 12:27:36 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 14:36:33 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 14:51:18 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 15:02:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 15:11:46 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 15:17:39 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 15:26:04 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 15:33:31 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 16:34:01 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-13 16:34:01 pid:8 Workerman[./T20039/start.php] already running
+2019-03-13 16:34:02 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-13 16:34:02 pid:10 Workerman[./T20039/start.php] already running
+2019-03-13 16:34:03 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-13 16:42:38 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-13 16:42:59 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-13 17:54:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 18:14:22 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 19:04:43 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 19:26:25 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 19:43:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-13 19:47:11 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 19:49:31 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 19:56:14 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 20:03:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-13 20:14:00 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-14 14:26:55 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-14 14:26:55 pid:9 Workerman[./T20019/start.php] already running
+2019-03-14 14:32:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-14 14:32:38 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-14 14:32:38 pid:9 Workerman[./T20019/start.php] already running
+2019-03-14 17:26:27 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-14 17:34:42 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-14 19:47:28 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 11:19:18 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-15 11:19:19 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-15 11:19:19 pid:9 Workerman[./T20089/start.php] already running
+2019-03-15 11:19:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 11:21:51 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 11:22:09 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-15 11:22:09 pid:9 Workerman[./T20089/start.php] already running
+2019-03-15 11:32:17 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 11:32:17 pid:10 Workerman[./T20039/start.php] already running
+2019-03-15 11:32:19 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 14:54:10 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 14:55:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 14:55:04 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 14:55:06 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 14:55:06 pid:9 Workerman[./T20019/start.php] already running
+2019-03-15 15:04:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:04:38 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:04:40 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:04:43 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:04:46 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:04:46 pid:9 Workerman[./T20019/start.php] already running
+2019-03-15 15:11:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:11:05 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:11:07 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:11:10 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:11:10 pid:9 Workerman[./T20019/start.php] already running
+2019-03-15 15:54:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:54:58 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:55:01 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:55:03 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 15:55:03 pid:9 Workerman[./T20019/start.php] already running
+2019-03-15 15:55:29 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-15 15:55:29 pid:9 Workerman[./T20089/start.php] already running
+2019-03-15 15:55:44 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-15 15:56:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:56:21 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 15:56:36 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 15:56:36 pid:9 Workerman[./T20029/start.php] already running
+2019-03-15 15:56:37 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 15:56:37 pid:9 Workerman[./T20029/start.php] already running
+2019-03-15 15:56:38 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 15:56:38 pid:9 Workerman[./T20029/start.php] already running
+2019-03-15 15:56:39 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 15:56:39 pid:9 Workerman[./T20029/start.php] already running
+2019-03-15 15:56:41 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 15:56:51 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-15 15:57:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:05 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:06 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:07 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:07 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:08 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:08 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:09 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:09 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:11 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:11 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:15 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:15 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:19 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 15:57:21 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 15:57:41 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 16:28:47 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 16:39:51 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 16:39:53 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 16:39:53 pid:9 Workerman[./T20019/start.php] already running
+2019-03-15 17:15:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:15:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:15:29 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:15:32 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:15:36 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:15:36 pid:9 Workerman[./T20019/start.php] already running
+2019-03-15 17:25:47 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:25:49 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:25:53 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:25:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:02 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:09 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:13 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:18 pid:11 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:24 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:28 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:31 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:26:31 pid:9 Workerman[./T20019/start.php] already running
+2019-03-15 17:28:03 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:40:49 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:46:19 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:47:04 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-15 17:47:04 pid:9 Workerman[./T20089/start.php] already running
+2019-03-15 17:47:22 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-15 17:47:39 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:47:39 pid:10 Workerman[./T30039/start.php] already running
+2019-03-15 17:47:41 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:47:41 pid:10 Workerman[./T30039/start.php] already running
+2019-03-15 17:47:42 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:47:42 pid:8 Workerman[./T30039/start.php] already running
+2019-03-15 17:47:45 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:47:57 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 17:47:57 pid:8 Workerman[./T20039/start.php] already running
+2019-03-15 17:47:59 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 17:47:59 pid:10 Workerman[./T20039/start.php] already running
+2019-03-15 17:48:00 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 17:48:15 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 17:48:15 pid:9 Workerman[./T20029/start.php] already running
+2019-03-15 17:48:17 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 17:48:17 pid:9 Workerman[./T20029/start.php] already running
+2019-03-15 17:48:45 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-15 17:49:02 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:49:02 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 17:49:20 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:49:20 pid:8 Workerman[./T30039/start.php] already running
+2019-03-15 17:49:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:49:44 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 17:59:04 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 17:59:15 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-03-15 17:59:15 pid:9 Workerman[./T20089/start.php] already running
+2019-03-15 17:59:28 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-15 17:59:28 pid:8 Workerman[./T20069/start.php] already running
+2019-03-15 17:59:31 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-15 17:59:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 17:59:53 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-15 18:00:06 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 18:00:06 pid:9 Workerman[./T20029/start.php] already running
+2019-03-15 18:00:21 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-03-15 18:00:34 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 18:00:34 pid:9 Workerman[./T30039/start.php] already running
+2019-03-15 18:00:47 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 18:00:47 pid:8 Workerman[./T30039/start.php] already running
+2019-03-15 18:00:49 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-15 18:01:04 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-15 18:28:41 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 18:36:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-15 18:39:19 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-16 10:25:57 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-16 10:26:20 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-16 10:27:40 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-16 10:33:06 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-16 11:12:42 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-16 11:57:11 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:11:03 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:16:41 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:18:54 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:19:48 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:21:32 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:21:47 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:22:47 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:23:29 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:24:41 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:26:56 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:37:17 pid:10 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 14:40:41 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-03-16 16:28:53 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-16 16:48:02 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-16 17:18:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-18 11:03:37 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-18 11:21:30 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-18 11:49:37 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-18 14:44:16 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-18 14:57:01 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-18 15:17:48 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-18 17:48:20 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:48:20 pid:7 Workerman[./T20019/start.php] already running
+2019-03-18 17:52:25 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:30 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:33 pid:9 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:33 pid:9 Workerman[./T20019/start.php] already running
+2019-03-18 17:52:36 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:40 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:46 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:55 pid:10 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 17:52:55 pid:10 Workerman[./T20019/start.php] already running
+2019-03-18 19:11:22 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 19:16:30 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-18 19:44:16 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-19 19:14:28 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-20 10:15:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-20 11:08:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-20 11:25:52 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-20 11:35:27 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-20 15:09:16 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-20 15:23:52 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-20 15:26:34 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-22 15:52:51 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-25 10:38:46 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-03-25 16:04:11 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-25 16:12:24 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-25 17:19:20 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-25 17:23:00 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-25 19:40:48 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 11:00:12 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 12:53:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 13:02:02 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 14:22:40 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-03-26 14:35:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 14:52:24 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 17:45:51 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 18:08:13 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 19:34:44 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-26 19:41:39 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 11:43:43 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 12:58:24 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 14:14:48 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 14:20:28 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 14:34:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 14:59:58 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 15:07:29 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 15:12:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 15:31:56 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 15:51:58 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 16:08:39 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 16:24:27 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 16:39:50 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 16:44:56 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 17:38:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-27 17:50:53 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 10:50:53 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 11:00:25 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 11:08:01 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 11:25:50 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 11:48:27 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 15:14:46 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 16:17:31 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 16:28:44 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 16:38:39 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 17:40:20 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 17:44:51 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 17:59:25 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 18:49:49 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 18:57:00 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 18:59:13 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 19:07:41 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 19:24:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 19:33:27 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 19:36:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 19:40:14 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 20:05:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-28 20:30:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 10:31:34 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 10:45:55 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 11:49:07 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 11:59:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 12:05:35 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 12:40:51 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 12:46:51 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 12:51:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 12:58:55 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 13:04:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 13:06:48 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 13:53:19 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 14:21:11 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 14:23:54 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 14:24:14 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 14:30:26 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 14:54:39 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 14:59:45 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:12:36 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:16:17 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:34:45 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:38:05 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:42:49 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:46:23 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:51:46 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:55:10 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 15:59:54 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 16:05:26 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 16:09:12 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 16:13:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 16:16:41 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-29 16:20:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-03-30 17:59:42 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-02 20:36:37 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-03 17:19:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 10:27:14 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 10:37:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 10:58:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 10:59:50 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 11:15:15 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 11:31:58 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 12:36:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 13:11:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 15:00:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 15:14:53 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 15:20:12 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 16:53:22 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 18:08:35 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 18:46:15 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-12 19:27:51 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-13 14:43:32 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-13 15:24:57 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-13 15:27:58 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-13 16:00:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-13 16:14:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-13 16:18:00 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-13 16:30:23 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 10:15:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 10:51:57 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 11:01:36 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 11:24:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 11:45:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 11:52:14 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 11:57:59 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 12:03:38 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 12:55:55 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 14:46:11 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 15:28:16 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 15:37:24 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 15:47:35 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 15:59:37 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 16:53:14 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 19:39:49 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 20:34:00 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-15 20:47:28 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-16 09:44:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-16 10:06:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-16 11:11:36 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-17 10:27:23 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-17 10:51:41 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-17 15:42:33 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-17 16:12:45 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-17 16:25:28 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-17 16:29:00 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-17 16:46:07 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-04-30 11:53:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-06 21:30:21 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 11:12:29 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 11:21:22 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 11:37:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 11:52:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 12:00:29 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 12:06:07 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 14:21:14 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 14:35:56 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 14:55:54 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 15:07:04 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 15:12:06 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 15:17:20 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 15:28:04 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 15:36:07 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 16:19:53 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 16:48:56 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 17:50:07 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 18:05:08 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-10 18:52:15 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-13 11:36:18 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-13 11:50:22 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-13 12:06:33 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-13 14:26:42 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-13 14:45:14 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-13 14:49:19 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:19:43 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-14 17:20:05 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-05-14 17:21:46 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-14 17:21:48 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-14 17:21:48 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:21:48 pid:9 Workerman[./T50019/start.php] start in DEBUG mode
+2019-05-14 17:21:48 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-14 17:21:50 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-05-14 17:21:50 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2019-05-14 17:21:52 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-14 17:21:52 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:21:52 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-14 17:21:52 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:21:53 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:21:53 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-05-14 17:21:53 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-05-14 17:21:53 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-14 17:21:55 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-14 17:21:55 pid:9 Workerman[./T20069/start.php] already running
+2019-05-14 17:21:55 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-14 17:21:55 pid:9 Workerman[./T20049/start.php] already running
+2019-05-14 17:21:55 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-14 17:21:55 pid:9 Workerman[./T30039/start.php] already running
+2019-05-16 11:17:14 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 11:17:15 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 11:17:15 pid:9 Workerman[./T20089/start.php] already running
+2019-05-16 14:03:22 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:34:55 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:34:57 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:34:58 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:35:00 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:35:03 pid:11 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:35:03 pid:11 Workerman[./T20089/start.php] already running
+2019-05-16 14:35:06 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:35:10 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:35:18 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:35:33 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:36:00 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:36:53 pid:19 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:37:24 pid:11 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:37:57 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:37:59 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:38:00 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:38:02 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:38:04 pid:10 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:38:07 pid:11 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:38:07 pid:11 Workerman[./T20089/start.php] already running
+2019-05-16 14:40:45 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:40:46 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:40:48 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:40:50 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:40:50 pid:9 Workerman[./T20089/start.php] already running
+2019-05-16 14:40:52 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:40:55 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:40:59 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:41:07 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:41:07 pid:9 Workerman[./T20089/start.php] already running
+2019-05-16 14:41:22 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:41:49 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:42:41 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:42:41 pid:9 Workerman[./T20089/start.php] already running
+2019-05-16 14:43:43 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:44:45 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-16 14:44:45 pid:9 Workerman[./T20089/start.php] already running
+2019-05-16 14:47:33 pid:35 Workerman[timer/T20029/start.php] start in DEBUG mode
+2019-05-16 14:47:46 pid:35 Workerman[start.php] stopping ...
+2019-05-16 14:47:46 pid:35 Workerman[start.php] has been stopped
+2019-05-16 14:47:50 pid:38 Workerman[timer/T20029/start.php] start in DEBUG mode
+2019-05-16 16:20:18 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 10:28:25 pid:10 Workerman[./T50019/start.php] start in DEBUG mode
+2019-05-22 10:28:26 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 10:28:26 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-22 10:28:27 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 10:28:27 pid:9 Workerman[./T20039/start.php] start in DEBUG mode
+2019-05-22 10:28:27 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-22 10:28:27 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-05-22 10:28:27 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 10:28:28 pid:8 Workerman[./T50029/start.php] start in DEBUG mode
+2019-05-22 10:28:29 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 10:28:29 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-05-22 10:28:29 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-05-22 10:28:29 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 10:28:29 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 10:28:29 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 10:28:29 pid:8 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-22 10:28:30 pid:11 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-22 11:31:10 pid:10 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 11:31:11 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-05-22 11:31:12 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 11:31:12 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 11:31:12 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 11:31:12 pid:9 Workerman[./T50019/start.php] start in DEBUG mode
+2019-05-22 11:31:12 pid:7 Workerman[./T20019/start.php] start in DEBUG mode
+2019-05-22 11:31:12 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-22 11:31:13 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-22 11:31:13 pid:8 Workerman[./T20059/start.php] start in DEBUG mode
+2019-05-22 11:31:13 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 11:31:13 pid:10 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 11:31:14 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-05-22 11:31:14 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-22 11:31:14 pid:9 Workerman[./T20049/start.php] already running
+2019-05-22 11:31:14 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-05-22 11:31:14 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 15:06:01 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 15:06:02 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-05-22 15:06:03 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 15:06:03 pid:8 Workerman[./T50019/start.php] start in DEBUG mode
+2019-05-22 15:06:03 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-05-22 15:06:04 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 15:06:04 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 15:06:04 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 15:06:04 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-05-22 15:06:04 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-22 15:06:04 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-22 15:06:05 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-05-22 15:06:05 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 15:06:05 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-05-22 15:06:05 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 15:06:06 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 15:06:06 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 15:06:07 pid:8 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 15:06:09 pid:11 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 17:11:36 pid:9 Workerman[./T50019/start.php] start in DEBUG mode
+2019-05-22 17:11:38 pid:8 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 17:11:38 pid:9 Workerman[./T20099/start.php] start in DEBUG mode
+2019-05-22 17:11:38 pid:8 Workerman[./T20039/start.php] start in DEBUG mode
+2019-05-22 17:11:39 pid:8 Workerman[./T20019/start.php] start in DEBUG mode
+2019-05-22 17:11:39 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-22 17:11:39 pid:8 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 17:11:39 pid:8 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-22 17:11:40 pid:9 Workerman[./T20059/start.php] start in DEBUG mode
+2019-05-22 17:11:40 pid:9 Workerman[./T20089/start.php] start in DEBUG mode
+2019-05-22 17:11:40 pid:9 Workerman[./T50029/start.php] start in DEBUG mode
+2019-05-22 17:11:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 17:11:40 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 17:11:41 pid:9 Workerman[./T20069/start.php] start in DEBUG mode
+2019-05-22 17:11:41 pid:9 Workerman[./T30039/start.php] start in DEBUG mode
+2019-05-22 17:11:41 pid:9 Workerman[./T20049/start.php] start in DEBUG mode
+2019-05-22 17:11:41 pid:9 Workerman[./T20049/start.php] already running
+2019-05-23 21:47:29 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-23 21:47:30 pid:9 Workerman[./T20029/start.php] start in DEBUG mode
+2019-05-23 21:47:31 pid:12 Workerman[./T20029/start.php] start in DEBUG mode

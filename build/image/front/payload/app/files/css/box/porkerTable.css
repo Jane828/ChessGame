@@ -1,0 +1,77 @@
+/* 牌桌状况的容器 */
+.porkertable-wrap {
+    height: auto;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow: scroll;
+    border: 1px solid saddlebrown;
+}
+
+/* 单个牌桌 */
+.porkertable-index {
+    width: 60vw;
+    height: 25vh;
+    margin: 0 auto;
+    margin-top: 10vh;
+    position: relative;
+    box-sizing: border-box;
+    padding-top: 3vh;
+    overflow: hidden;
+}
+.porkertable-index > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.porkertable-progress {
+    width: 25vw;
+    height: 6vh;
+    margin: 0 auto;
+    border-radius: 5vw / 50%;
+    background: #155F40;
+    box-shadow: 0 1px 0 0 #802E0B;
+    position: relative;
+}
+.porkertable-progress > ul {
+    height: 100%;
+}
+.porkertable-progress > ul > li {
+    height: 50%;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 3vh;
+}
+.porkertable-progress > ul > li > img {
+    height: 60%;
+    width: auto;
+    vertical-align: middle;
+}
+.porkertable-progress > ul > li > span {
+    font-size: 3vw;
+    color: white;
+}
+.porkertable-do {
+    width: fit-content;
+    color: white;
+    font-size: 5vw;
+    margin: 0 auto;
+    margin-top: 2vh;
+    font-weight: bold;
+    letter-spacing: 1vw;
+    position: relative;
+    box-shadow: 0 2px 0 0 white;
+}
+.porkertable-time {
+    position: relative;
+    float: right;
+    padding-top: 1vh;
+    padding-right: 5vw;
+}
+.porkertable-time p {
+    padding: 0;
+    margin: 0;
+    color: white;
+    font-size: 3vw;
+}

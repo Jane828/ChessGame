@@ -1,0 +1,417 @@
+
+
+*{padding: 0;margin:0;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-backface-visibility: hidden;}a {text-decoration: none;}li,ul {list-style: none;}input{border: none;outline:none}
+body{font-family:"微软雅黑";cursor: default;font-size: 16px;}a,input,select{font-family:"微软雅黑";font-size: 16px;}
+img{border: none;}
+
+body{background: #e3e3e3;}	
+.head{position: relative;width: 100%;min-width: 1280px;height: 70px;box-shadow:0px 2px 8px #aaa;background: #fff;}	
+.head .center{position: relative;width: 1226px;margin: 0 auto;}	
+.head .center img{position: relative;height: 50px;float:left;margin-top:10px}	
+
+
+.body{position: relative;padding:30px 0 50px 0;}	
+.box{position: relative;width: 1226px;margin: 0 auto;background: #fff;box-shadow:0px 0px 8px 2px #aaa;min-height: 800px;}
+
+.paymentType{position: relative;height: 60px;line-height:60px;font-size: 20px;border-bottom:2px solid #397abe;}
+.paymentType .name{margin-left: 30px;}
+.paymentType .type{margin-left: 5px;padding:1px 4px;background:#397abe;border-radius:2px;font-size:14px;color:#fff; }
+
+.leftPart{position: absolute;left: 0;top:62px;width: 160px;text-align: center;}
+.leftPart .title{color: #999;font-size:14px;margin: 15px 0 20px 0;}
+.leftPart .item{line-height: 30px;margin: 5px 0;cursor: pointer;}
+.leftPart .itemSelect{color:#fff;background:#397abe;line-height: 30px;margin: 5px 0; }
+
+
+
+.rightPart{width: 1040px;min-height: 740px;border-left:1px solid #d9d9d9;margin-left: 160px;padding-left: 25px;}
+.rightPart .headTitle{font-size: 20px;font-weight: bold;line-height: 60px;}
+.rightPart .mainPart{padding-bottom: 50px;}
+.rightPart .mainPart .infoSelect{height:40px;line-height:40px; }
+.rightPart .allGame .games{margin-top: 20px;width:1010px;border:1px solid #d9d9d9;text-align: center;}
+.rightPart .allGame .games td{position: relative;width: 25%;height: 160px;border-right:1px solid #d9d9d9;}
+.rightPart .allGame .games td .gameName{position: absolute;bottom: -1px;left:0;width: 100%;height: 34px;;line-height: 34px;background: #f5f9fc;font-weight: bold;    border-bottom: 1px solid #d9d9d9;}
+.rightPart .allGame .games td .round{color: #397abe;font-size:30px;line-height: 40px;margin-top: -25px;}
+.rightPart .allGame .games td .title{color: #999;line-height: 24px;}
+
+.rightPart .allGame .roomInfo{margin-top: 50px;width:1010px;border:1px solid #d9d9d9;text-align: center;}
+.rightPart .allGame .roomInfo tr{height: 40px;line-height:40px;}
+.rightPart .allGame .roomInfo .title{background:#e7e8ec;}
+.rightPart .allGame .roomInfo .item td{border-top:1px solid #d9d9d9;}
+
+.rightPart .user .total{width:1010px;text-align: center;border-right:1px solid #d9d9d9;border-bottom:1px solid #d9d9d9}
+.rightPart .user .total td{position: relative;width: 25%;border-left:1px solid #d9d9d9;border-top:1px solid #d9d9d9}
+.rightPart .user .total .title{height: 40px;background:#e7e8ec; }
+.rightPart .user .total .num{height: 120px;color: #397abe;font-size: 30px;}
+
+.rightPart .user .search{height: 40px;margin-top: 40px;}
+.rightPart .user .search input{height: 34px;width: 250px;border:1px solid #e2e2e2;float: left;padding: 0 5px;}
+.rightPart .user .search .button{margin-left: 5px;border:1px solid #e2e2e2;height: 34px;line-height: 34px;text-align: center;width: 80px;float: left;background: #f5f5f5;color: #999;}
+.rightPart .user .search .button1{margin-left: 5px;border:1px solid #e2e2e2;height: 34px;line-height: 34px;text-align: center;width: 80px;float: left;background: #397abe;color: #fff;cursor: pointer;}
+
+.rightPart .user .result{width:1010px;border:1px solid #d9d9d9;margin-top: 20px;}
+.rightPart .user .result .title{height: 50px;}
+.rightPart .user .result .item td{height: 60px;border-top: 1px solid #d9d9d9;cursor: pointer;}
+
+.rightPart .eachGame .search{height: 40px;margin-top: 10px;line-height: 40px;}
+.rightPart .eachGame .search select{float:left;height: 36px;width: 170px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .eachGame .search input{float:left;margin-left: 8px;height: 36px;width: 170px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .eachGame .search .title{float:left;}
+.rightPart .eachGame .search .button{float:left;margin-left: 8px;border:1px solid #e2e2e2;text-align: center;height: 36px;line-height: 34px;color: #999;width: 80px;background:#f5f5f5;}
+.rightPart .eachGame .search .button1{color: #fff;background:#397abe;cursor: pointer;}
+.rightPart .eachGame .rule{color: #fff;background:#6095cb;width: 990px;padding:5px 0 5px 22px;line-height: 30px;margin-top: 20px;}
+
+.rightPart .eachGame .round{margin-top: 20px;}
+.rightPart .eachGame .eachRound{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}
+.rightPart .eachGame .eachRound .title{height: 50px;line-height: 50px;background:#e7e8ec; }
+.rightPart .eachGame .eachRound .item{height: 50px;line-height: 50px;}
+.rightPart .eachGame .eachRound .item td{border-top: 1px solid #d9d9d9;}
+.rightPart .eachGame .eachRound .item td .card{float: left;margin-right: 30px;}
+.rightPart .eachGame .eachRound .item td .card img{width: 20px;margin-right: 4px;float: left;margin-top: 15px;}
+
+.rightPart .eachGame .result{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}
+.rightPart .eachGame .result .title{height: 50px;line-height: 50px;background:#e7e8ec; }
+.rightPart .eachGame .result .item{height: 50px;line-height: 50px;}
+.rightPart .eachGame .result .item td{border-top: 1px solid #d9d9d9;}
+
+.rightPart .chairmanSet .search{height: 40px;margin-top: 10px;line-height: 40px;}
+
+.rightPart .chairmanSet .search input{float:left;height: 36px;width: 200px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .chairmanSet .search .button{float:left;margin-left: 8px;border:1px solid #e2e2e2;text-align: center;height: 36px;line-height: 34px;color: #999;width: 80px;background:#f5f5f5;cursor: pointer;}
+.rightPart .chairmanSet .search .return{margin-right: 15px;height: 36px;line-height: 34px;text-align: center;width: 80px;float: right;color: #397abe;cursor: pointer;}
+
+.rightPart .chairmanSet .chairmanList{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .chairmanSet .chairmanList tr{height: 60px;}
+.rightPart .chairmanSet .chairmanList .item td{border-top: 1px solid #d9d9d9;cursor: pointer;}
+.rightPart .chairmanSet .chairmanList .item:hover{background: #eee;}
+
+.rightPart .chairmanSet .chairmanCreate{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .chairmanSet .chairmanCreate tr{height: 60px;}
+.rightPart .chairmanSet .chairmanCreate .item td{border-top: 1px solid #d9d9d9;}
+.rightPart .chairmanSet .chairmanCreate .item td .createTeam{cursor: pointer;color:#397abe; }
+.rightPart .chairmanSet .chairmanCreate .item td .chairman{background:#397abe;color:#fff;border-radius:2px; float: left;height: 24px;width:50px;font-size: 14px;line-height:24px;text-align: center;}
+
+.rightPart .withdraw .withdrawList{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .withdraw .withdrawList tr{height: 60px;}
+.rightPart .withdraw .withdrawList .item td{border-top: 1px solid #d9d9d9;}
+.rightPart .withdraw .withdrawList .item td .withdrawAccount{font-size: 14px;}
+.rightPart .withdraw .withdrawList .item td .withdrawTime{font-size: 14px;color: #999;}
+.rightPart .withdraw .withdrawList .item td .click{color: #397abe;cursor: pointer;}
+
+
+.rightPart .channel .search{height: 40px;margin-top: 10px;line-height: 40px;}
+
+.rightPart .channel .search input{float:left;height: 36px;width: 200px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .channel .search .button{float:left;margin-left: 8px;border:1px solid #e2e2e2;text-align: center;height: 36px;line-height: 34px;color: #999;width: 80px;background:#f5f5f5;cursor: pointer;}
+.rightPart .channel .search .return{margin-right: 15px;height: 36px;line-height: 34px;text-align: center;width: 80px;float: right;color: #397abe;cursor: pointer;}
+
+.rightPart .channel .channelList{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .channel .channelList tr{height: 60px;}
+.rightPart .channel .channelList .item td{border-top: 1px solid #d9d9d9;cursor: pointer;}
+.rightPart .channel .channelList .item:hover{background: #eee;}
+
+.rightPart .channel .channelCreate{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .channel .channelCreate tr{height: 60px;}
+.rightPart .channel .channelCreate .item td{border-top: 1px solid #d9d9d9;}
+.rightPart .channel .channelCreate .item td .createTeam{cursor: pointer;color:#397abe; }
+.rightPart .channel .channelCreate .item td .chairman{background:#397abe;color:#fff;border-radius:2px; float: left;height: 24px;width:50px;font-size: 14px;line-height:24px;text-align: center;}
+
+
+.rightPart .channelUser .selectPart{height: 40px;margin-bottom: 20px;}
+.rightPart .channelUser .selectPart .text{float:left;height: 38px;line-height: 38px;padding:0 5px; }
+.rightPart .channelUser .selectPart select{float:left;height: 36px;width: 350px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .channelUser .selectPart input{float:left;margin-left: 8px;height: 36px;width: 80px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .channelUser .selectPart .button{float:left;margin-left: 20px;text-align: center;height: 38px;line-height: 38px;width: 80px;color: #fff;background:#397abe;cursor: pointer;}
+
+.rightPart .channelUser .total{width:1010px;text-align: center;border-right:1px solid #d9d9d9;border-bottom:1px solid #d9d9d9}
+.rightPart .channelUser .total td{position: relative;width: 25%;border-left:1px solid #d9d9d9;border-top:1px solid #d9d9d9}
+.rightPart .channelUser .total .title{height: 40px;background:#e7e8ec; }
+.rightPart .channelUser .total .num{height: 120px;color: #397abe;font-size: 30px;}
+
+.rightPart .channelUser .channelUserList{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .channelUser .channelUserList tr{height: 60px;}
+.rightPart .channelUser .channelUserList .item td{border-top: 1px solid #d9d9d9;cursor: pointer;}
+
+
+.rightPart .roomCard .search{height: 40px;margin-top: 10px;line-height: 40px;}
+.rightPart .roomCard .search input{float:left;height: 36px;width: 200px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .roomCard .search .button{float:left;margin-left: 8px;border:1px solid #e2e2e2;text-align: center;height: 36px;line-height: 34px;color: #999;width: 80px;background:#f5f5f5;cursor: pointer;}
+
+.rightPart .roomCard .roomCardList{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .roomCard .roomCardList tr{height: 60px;}
+.rightPart .roomCard .roomCardList .item td{border-top: 1px solid #d9d9d9;cursor: pointer;}
+.rightPart .roomCard .roomCardList .item td img{max-height: 40px;max-width: 40px;}
+.rightPart .roomCard .roomCardList .item td .cardFrom{cursor: pointer;color:#397abe; }
+.rightPart .roomCard .roomCardList .item td .cardCancel{cursor: pointer;color: #f15352;}
+.rightPart .roomCard .roomCardList .item td .noty{cursor: pointer;color: #f15352;}
+
+
+.rightPart .agent .search{height: 40px;margin-top: 10px;line-height: 40px;}
+.rightPart .agent .search input{float:left;height: 36px;width: 200px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .agent .search .button{float:left;margin-left: 8px;border:1px solid #e2e2e2;text-align: center;height: 36px;line-height: 34px;color: #999;width: 80px;background:#f5f5f5;cursor: pointer;}
+
+.rightPart .agent .roomCardList{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .agent .roomCardList tr{height: 60px;}
+.rightPart .agent .roomCardList .item td{border-top: 1px solid #d9d9d9;cursor: pointer;}
+.rightPart .agent .roomCardList .item td img{max-height: 40px;max-width: 40px;}
+.rightPart .agent .roomCardList .item td .operation{cursor: pointer;color:#397abe; }
+
+
+.rightPart .cardManage .search{height: 40px;margin-top: 10px;line-height: 40px;}
+.rightPart .cardManage .search input{float:left;height: 36px;width: 200px;border:1px solid #e2e2e2;padding:0 5px; }
+.rightPart .cardManage .search .button{float:left;margin-left: 8px;border:1px solid #e2e2e2;text-align: center;height: 36px;line-height: 34px;color: #999;width: 80px;background:#f5f5f5;cursor: pointer;}
+.rightPart .cardManage .search .createCode{height: 40px;line-height: 40px;text-align: center;color: #fff;background: #f09513;cursor: pointer;float: right;margin-right: 30px;width: 160px;}
+
+.rightPart .cardManage .games{margin-top: 20px;width:1010px;border:1px solid #d9d9d9;text-align: center;}
+.rightPart .cardManage .games td{position: relative;width: 25%;height: 160px;border-right:1px solid #d9d9d9;}
+.rightPart .cardManage .games td .upPart{position: absolute;top: 0;left:0;width: 100%;height: 34px;;line-height: 34px;background: #f5f5f5;font-weight: bold;}
+.rightPart .cardManage .games td .bottomPart{color: #397abe;font-size:30px;line-height: 40px;margin-top: 25px;}
+.rightPart .cardManage .games a{color: #397abe;font-size:16px;}
+
+
+.rightPart .cardManage .selectPart{width:1012px;margin-top: 15px;height: 40px;}
+.rightPart .cardManage .selectPart .selectButton{width: 504px;line-height: 38px;text-align: center;color: #999;height: 40px;border:1px solid #d9d9d9;cursor: pointer;float: left;}
+.rightPart .cardManage .selectPart .selected{background:#397abe;color:#fff;border:1px solid #397abe;cursor: default;}
+
+.rightPart .cardManage .roomCardList{width:1010px;border:1px solid #d9d9d9;margin-top: 15px;}	
+.rightPart .cardManage .roomCardList tr{height: 60px;}
+.rightPart .cardManage .roomCardList .item td{border-top: 1px solid #d9d9d9;cursor: pointer;}
+.rightPart .cardManage .roomCardList .item td img{max-height: 40px;max-width: 40px;}
+.rightPart .cardManage .roomCardList .item td .cardFrom{cursor: pointer;color:#397abe; }
+.rightPart .cardManage .roomCardList .item td .cardCancel{cursor: pointer;color: #f15352;}
+
+
+
+.rightPart .fruit .games{margin-top: 20px;width:1010px;border:1px solid #d9d9d9;text-align: center;}
+.rightPart .fruit .games td{position: relative;width: 25%;height: 160px;border-right:1px solid #d9d9d9;}
+.rightPart .fruit .games td .gameName{position: absolute;bottom: -1px;left:0;width: 100%;height: 34px;;line-height: 34px;background: #f5f9fc;font-weight: bold;    border-bottom: 1px solid #d9d9d9;}
+.rightPart .fruit .games td .round{color: #397abe;font-size:30px;line-height: 40px;margin-top: -25px;}
+.rightPart .fruit .games td .title{color: #999;line-height: 24px;}
+
+.rightPart .fruit .roomInfo{margin-top: 50px;width:1010px;border:1px solid #d9d9d9;text-align: center;}
+.rightPart .fruit .roomInfo tr{height: 40px;line-height:40px;}
+.rightPart .fruit .roomInfo .title{background:#e7e8ec;}
+.rightPart .fruit .roomInfo .item td{border-top:1px solid #d9d9d9;}
+
+
+
+.personDetail{position: fixed;width: 100%;height: 100%;top:0;left:0;z-index: 10;}
+.personDetail .back{position: fixed;width: 100%;height: 100%;top:0;left:0;z-index: 10;}
+.personDetail .mainPart{box-shadow:0px 0px 8px 2px #aaa;background: #fff;width: 260px;padding: 20px;position: fixed;top:50%;left:50%;margin-top:-200px;margin-left:-150px;}
+.personDetail .mainPart .name{text-align: center;height: 40px;line-height:40px;font-size: 22px;}
+.personDetail .mainPart .detail{width: 260px;}	
+.personDetail .mainPart .detail td{height: 36px;}	
+
+.alert{position: fixed;z-index: 11;width: 160px;height: 160px;top:50%;left: 50%;margin-top: -80px;margin-left: -80px;border-radius:5px;overflow:hidden;}
+.alert .alertBackground{filter:alpha(opacity=50);-moz-opacity:0.5;opacity:0.5;background: #000;height: 100%;width: 100%;}
+.alert img{position: absolute;top:15px;left: 29px;}
+.alert .alertText{position: absolute;top:115px;width:160px;text-align: center;font-size: 18px;color: #fff;filter:alpha(opacity=95);-moz-opacity:0.95;opacity:0.95;}
+
+.createTeamForm{width:100%;height:100%;position: fixed;top: 0; left: 0;z-index: 9;}
+.createTeamForm .back{width:100%;height:100%;position: fixed;top: 0; left: 0;background: #000;opacity:.3;}
+.createTeamForm .box1{width:600px;height:450px;background:#fff;position: fixed;top: 50%; left: 50%;margin: -225px 0 0 -300px;}
+.createTeamForm .box1 .title{line-height: 40px;height:40px;background: #f3f3f7;}
+.createTeamForm .box1 .title a{margin-left: 20px;}
+.createTeamForm .box1 .title img{float:right;margin-right:25px;width:20px;margin-top:10px;cursor:pointer;}
+.createTeamForm .box1 .main{margin: 0 auto;margin-top:20px;width: 400px;line-height: 40px;font-size: 14px;}
+.createTeamForm .box1 .main input{width: 300px;height: 34px;border: 1px solid #e2e2e2;padding:0 5px;font-size: 14px;}
+.createTeamForm .box1 .main textarea{width: 300px;border: 1px solid #e2e2e2;padding:6px 5px;font-size: 14px;height: 70px;position: absolute;font-family: "微软雅黑";}
+.createTeamForm .box1 .main .inputText{float: left;width:70px;text-align: center;border: 1px solid #e2e2e2;}
+
+.createTeamForm .box1 .bottom {position: absolute;bottom:0;height:60px;width:100%;line-height: 32px;background: #f3f3f7;}
+.createTeamForm .box1 .bottom .bottomButton1{background: #e54341;height: 32px;width:100px;margin-top:14px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;float: left;margin-left: 150px;}
+.createTeamForm .box1 .bottom .bottomButton2{background: #008cd7;height: 32px;width:100px;margin-top:14px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;float: right;margin-right: 150px;}
+.createTeamForm .box1 .bottom .bottomButton3{background: #008cd7;height: 32px;width:100px;margin: 0 auto;margin-top:14px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;}
+
+.createChannel{width:100%;height:100%;position: fixed;top: 0; left: 0;z-index: 9;}
+.createChannel .back{width:100%;height:100%;position: fixed;top: 0; left: 0;background: #000;opacity:.3;}
+.createChannel .box1{width:600px;height:400px;background:#fff;position: fixed;top: 50%; left: 50%;margin: -225px 0 0 -300px;}
+.createChannel .box1 .title{line-height: 40px;height:40px;background: #f3f3f7;}
+.createChannel .box1 .title a{margin-left: 20px;}
+.createChannel .box1 .title img{float:right;margin-right:25px;width:20px;margin-top:10px;cursor:pointer;}
+.createChannel .box1 .main{margin: 0 auto;margin-top:20px;width: 400px;line-height: 40px;font-size: 14px;}
+.createChannel .box1 .main input{width: 300px;height: 34px;border: 1px solid #e2e2e2;padding:0 5px;font-size: 14px;}
+.createChannel .box1 .main textarea{width: 300px;border: 1px solid #e2e2e2;padding:6px 5px;font-size: 14px;height: 70px;position: absolute;font-family: "微软雅黑";}
+.createChannel .box1 .main .inputText{float: left;width:70px;text-align: center;border: 1px solid #e2e2e2;}
+
+.createChannel .box1 .bottom {position: absolute;bottom:0;height:60px;width:100%;line-height: 32px;background: #f3f3f7;}
+.createChannel .box1 .bottom .bottomButton1{background: #e54341;height: 32px;width:100px;margin-top:14px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;float: left;margin-left: 150px;}
+.createChannel .box1 .bottom .bottomButton2{background: #008cd7;height: 32px;width:100px;margin-top:14px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;float: right;margin-right: 150px;}
+.createChannel .box1 .bottom .bottomButton3{background: #008cd7;height: 32px;width:100px;margin: 0 auto;margin-top:14px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;}
+
+
+.deleteAlert{position: fixed;width: 100%;height:100%;z-index: 10;}
+.deleteAlert .back{width:100%;height:100%;position: fixed;top: 0; left: 0;background: #000;opacity:.3;}
+.deleteAlert .buttonPart{position: relative;width: 300px;margin: 0 auto;margin-top: 30px;}
+.deleteAlert .buttonPart .button{color: #fff;line-height: 40px;width:120px;text-align:center;height:40px;border-radius:3px;cursor: pointer;}
+.deleteAlert .buttonPart .button1{float: left;background: #ccc;}
+.deleteAlert .buttonPart .button2{float: right;background:#e54341;}	
+.deleteAlert .box1{position: fixed;background: #fff;border:1px solid #e54341;top:50%;left:50%;width: 360px;height: 160px;margin-top:-80px;margin-left:-160px;}
+.deleteAlert .box1 .deleteText{margin: 0 auto;margin-top: 40px;width:300px;font-size: 22px;text-align: center;}
+
+
+.createSuccess{position: fixed;width: 100%;height:100%;z-index: 10;}
+.createSuccess .back{width:100%;height:100%;position: fixed;top: 0; left: 0;background: #000;opacity:.3;}
+.createSuccess .buttonPart{position: relative;width: 300px;margin: 0 auto;margin-top: 30px;}
+.createSuccess .buttonPart .button{color: #fff;line-height: 40px;width:120px;text-align:center;height:40px;border-radius:3px;cursor: pointer;}
+.createSuccess .buttonPart .button1{float: left;background: #ccc;}
+.createSuccess .buttonPart .button2{float: right;background:#e54341;}	
+.createSuccess .box1{position: fixed;background: #fff;border:1px solid #e54341;top:50%;left:50%;width: 360px;height: 160px;margin-top:-80px;margin-left:-160px;}
+.createSuccess .box1 .deleteText{margin: 0 auto;margin-top: 40px;width:300px;font-size: 22px;text-align: center;}
+
+.cancelCard{width:100%;height:100%;position: fixed;top: 0; left: 0;z-index: 9;}
+.cancelCard .back{width:100%;height:100%;position: fixed;top: 0; left: 0;background: #000;opacity:.3;}
+.cancelCard .box1{width:500px;height:300px;background:#fff;position: fixed;top: 50%; left: 50%;margin: -150px 0 0 -250px;}
+.cancelCard .box1 .title{line-height: 40px;height:40px;background: #f3f3f7;}
+.cancelCard .box1 .title a{margin-left: 20px;}
+.cancelCard .box1 .title img{float:right;margin-right:25px;width:20px;margin-top:10px;cursor:pointer;}
+.cancelCard .box1 .main{margin: 0 auto;margin-top:20px;width: 400px;line-height: 40px;font-size: 14px;}
+.cancelCard .box1 .main input{width: 300px;height: 34px;border: 1px solid #e2e2e2;padding:0 5px;font-size: 14px;}
+
+.cancelCard .box1 .text {position: relative;height:32px;line-height: 32px;color: #f15352;font-size: 14px;text-align: center;margin-top: 30px;}
+.cancelCard .box1 .bottomButton{background: #f15352;height: 32px;width:100px;margin:0 auto;margin-top:10px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;line-height: 32px;}
+
+.createCodeList{width:100%;height:100%;position: fixed;top: 0; left: 0;z-index: 9;}
+.createCodeList .back{width:100%;height:100%;position: fixed;top: 0; left: 0;background: #000;opacity:.3;}
+.createCodeList .box1{width:500px;height:300px;background:#fff;position: fixed;top: 50%; left: 50%;margin: -150px 0 0 -250px;}
+.createCodeList .box1 .title{line-height: 40px;height:40px;background: #f3f3f7;}
+.createCodeList .box1 .title a{margin-left: 20px;}
+.createCodeList .box1 .title img{float:right;margin-right:25px;width:20px;margin-top:10px;cursor:pointer;}
+.createCodeList .box1 .main{margin: 0 auto;margin-top:20px;width: 400px;line-height: 40px;font-size: 14px;}
+.createCodeList .box1 .main input{width: 300px;height: 34px;border: 1px solid #e2e2e2;padding:0 5px;font-size: 14px;}
+.createCodeList .box1 .main select{width: 312px;height: 36px;border: 1px solid #e2e2e2;padding:0 5px;font-size: 14px;}
+
+.createCodeList .box1 .text {position: relative;height:32px;line-height: 32px;color: #f15352;font-size: 14px;text-align: center;margin-top: 30px;}
+.createCodeList .box1 .bottomButton{background: #397abe;height: 32px;width:100px;margin:0 auto;margin-top:30px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;line-height: 32px;}
+
+.noteBox{width:100%;height:100%;position: fixed;top: 0; left: 0;z-index: 9;}
+.noteBox .back{width:100%;height:100%;position: fixed;top: 0; left: 0;background: #000;opacity:.3;}
+.noteBox .box1{width:500px;height:300px;background:#fff;position: fixed;top: 50%; left: 50%;margin: -150px 0 0 -250px;}
+.noteBox .box1 .title{line-height: 40px;height:40px;background: #f3f3f7;}
+.noteBox .box1 .title a{margin-left: 20px;}
+.noteBox .box1 .title img{float:right;margin-right:25px;width:20px;margin-top:10px;cursor:pointer;}
+.noteBox .box1 .main{margin: 0 auto;margin-top:20px;width: 400px;line-height: 40px;font-size: 14px;}
+.noteBox .box1 .main textarea{width: 390px;height: 100px;line-height: 30px;font-size: 14px;padding: 5px;border:1px solid #d9d9d9;}
+.noteBox .box1 .bottomButton{background: #f15352;height: 32px;width:100px;margin:0 auto;margin-top:10px;text-align: center;border-radius:3px;cursor:pointer;color:#fff;line-height: 32px;}
+
+
+
+.tcdPageCode{padding: 15px 20px;text-align: left;color: #ccc;text-align:center;}
+.tcdPageCode a{display: inline-block;color: #428bca;display: inline-block;height: 25px; line-height: 25px;  padding: 0 10px;border: 1px solid #ddd; margin: 0 2px;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode a:hover{text-decoration: none;border: 1px solid #428bca;}
+.tcdPageCode span.current{display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;color: #fff;background-color: #428bca; border: 1px solid #428bca;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode span.disabled{ display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px; color: #bfbfbf;background: #f2f2f2;border: 1px solid #bfbfbf;border-radius: 4px;vertical-align: middle;}
+
+.click{cursor: pointer;}
+.daterangepicker.dropdown-menu{z-index:10000;}
+
+.accountInput{margin-left: 25px;margin-top: 25px;margin-bottom: 20px; width: 182px;font-size: 15px;height:70px;}
+.accountInput .addDealerBtn{cursor: pointer;color: #ffffff;background-color: #509fe2; height: 30px;line-height:30px;}
+.accountInput .addBtnText{padding-left: 20px;}
+
+.accountInput .searchInput{margin-top: 0px;}
+.accountInput .searchInput input{border: 1px solid #e2e2e2;font-family: 微软雅黑;height: 30px;width: 130px;font-size: 15px;padding-left: 10px;}
+.accountInput .searchBtn{text-align: center; width: 40px;font-size: 15px; float: right;cursor: pointer;color: #509fe2;}
+
+
+.dealerListMenu{font-size: 15px; line-height:30px;}
+.dealerListMenu .unselectedDealer{cursor: pointer;color: #5b5b5b;background-color: #ffffff;}
+.dealerListMenu .selectedDealer{cursor: pointer;color: #ffffff;background-color: #509fe2; }
+.dealerListMenu .nameText{margin-left: 25px;}
+
+
+
+
+
+.dealerTitle{height: 90px;line-height: 90px;color: #5b5b5b;background: #fff;border-bottom:2px solid #8ac97a;}
+
+.dealerTitle .dealerName{width: 449px;float: left;}
+.dealerTitle .dealerName .dealerNameText{font-size: 20px;float: left;}
+.dealerTitle .dealerName .paymentType_1{text-align: center; font-size: 14px;float: left; margin-left: 10px; height: 20px; width: 54px; color: #fff;background-color: #4da328;line-height: 20px;margin-top: 35px;}
+.dealerTitle .dealerName .paymentType_2{text-align: center; font-size: 14px;float: left; margin-left: 10px; height: 20px; width: 54px; color: #fff;background-color: #5da4e2;line-height: 20px;margin-top: 35px;}
+
+.dealerTitle .ticketCount{width: 289px;font-size: 16px; float: right;}
+.dealerTitle .accountSetting{width: 109px;font-size: 16px; float: right;cursor: pointer;color:#4e7eff;}
+.rechargeBtn{color:#4e7eff;cursor: pointer;}
+
+
+
+.saleTable{width: 945px;height: 181px;order: 1px solid #d9d9d9;font-size: 16px;margin-top:40px;border:1px solid #d9d9d9;}
+
+.selectDate{ height: 42px;border-bottom:1px solid #d9d9d9;position: relative;width: 100%;line-height: 42px; background:#e7e8ec;}
+.selectDate .datePicker{height: 42px;}
+.selectDate .datePicker .form-horizontal{height: 42px;margin-left: 10px;}
+.selectDate .datePicker .form-horizontal fieldset {
+    display: block;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0em;
+    -webkit-padding-start: 00em;
+    -webkit-padding-end: 00em;
+    -webkit-padding-after: 0em;
+    min-width: -webkit-min-content;
+    border-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-style: groove;
+    border-color: threedface;
+    border-image: initial;
+}
+.selectDate .datePicker .form-horizontal .form-control{}
+
+.saleData {width: 472px;float:left;height: 100px;}
+.saleDataL{border-right:1px solid #8ac97a;}
+.saleDataR{}
+
+/*.saleData .saleDetail{float: center;}*/
+.saleDetail li{line-height: 50px;}
+.saleDetail .saleText{font-size: 25px;color: #5da4e2;}
+.saleDetail .saleCount{color: #999;font-size: 18px;}
+
+
+.saleList{width: 945px;font-size: 16px;margin-top:40px;  border:1px solid #d9d9d9;}
+.saleList .saleListTh{background:#e7e8ec;height:50px;border:0;}
+.saleList .saleListTh td{background:#e7e8ec;height:50px;border:0;padding-left: 4%;}
+
+.saleList .saleListTr{background:#ffffff;height:50px;}
+.saleList .saleListTr td{background:#ffffff;height:50px;padding-left: 4%;border-bottom:1px solid #d9d9d9;color: #5b5b5b;}
+
+
+
+
+
+.editDealerPart{position: absolute;top: 15%;left: 50%;width: 560px;background: #fff;margin-left: -280px;border: 1px solid #2ea0e9;font-size: 18px;z-index: 999;}
+.editDealerPart .titleText {line-height: 60px;width: 460px;margin: 0 auto;margin-top: 20px;}
+.editDealerPart .infoPart {width: 460px;margin: 0 auto;margin-top: 10px;}
+.editDealerPart .infoPart .infoItem {margin-bottom: 20px;line-height: 40px;}
+.editDealerPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editDealerPart .buttonPart {width: 460px;margin: 0 auto;margin-top: 45px;line-height: 50px;text-align: center;height: 100px;}
+.editDealerPart .buttonPart .left {float: left;width: 210px;color: #fff;background: #2ea0e9;}
+.editDealerPart .buttonPart .right {float: right;width: 210px;color: #333;background: #d9d9d9;}
+.editDealerPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editDealerPart .infoPart .infoItem select {border: 1px solid #e2e2e2;float: right;width: 342px;height: 40px;padding: 0 10px;}
+
+
+
+.editGoodsPart{position: absolute;top: 15%;left: 50%;width: 600px;background: #fff;margin-left: -300px;border: 1px solid #2ea0e9;font-size: 18px;z-index: 999;}
+.editGoodsPart .titleText {line-height: 60px;width: 520px;margin: 0 auto;margin-top: 20px;}
+.editGoodsPart .infoPart {width: 520px;margin: 0 auto;margin-top: 10px;}
+.editGoodsPart .infoPart .infoItem {margin-bottom: 20px;line-height: 40px;}
+.editGoodsPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editGoodsPart .buttonPart {width: 520px;margin: 0 auto;margin-top: 45px;line-height: 50px;text-align: center;height: 100px;}
+.editGoodsPart .buttonPart .left {float: left;width: 210px;color: #fff;background: #2ea0e9;}
+.editGoodsPart .buttonPart .right {float: right;width: 210px;color: #333;background: #d9d9d9;}
+.editGoodsPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editGoodsPart .infoPart .infoItem select {border: 1px solid #e2e2e2;float: right;width: 342px;height: 40px;padding: 0 10px;}
+
+.editGoodsPart .infoPart table{width: 520px;}
+.editGoodsPart .infoPart table tr{height: 35px;line-height: 35px; font-size: 16px; }
+.editGoodsPart .infoPart table tr td{height: 35px;line-height: 35px; }
+.editGoodsPart .infoPart table tr td input{width: 100%;border:1px solid #d9d9d9; height: 30px;padding-left: 0px;}
+
+
+
+
+

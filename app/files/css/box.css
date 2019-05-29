@@ -1,0 +1,247 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style: none;
+}
+body{
+    background: url(../images/box/body.png) no-repeat;
+    height: 100vh;
+    background-size: cover;
+    overflow: hidden;
+}
+#box {
+    height: 82vh;
+}
+.box-tips {
+    height: 20vh;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0));
+    margin-top: 5vh;
+    line-height: 20vh;
+    text-align: center;
+}
+.tips-img {
+    width: 55vw;
+    height: 15vh;
+    vertical-align: middle;
+}
+.box-create{
+    height: 20vh;
+    text-align: center;
+    line-height: 20vh;
+    margin-top: 5vh;
+}
+.box-img{
+    width: 40vw;
+    height: 20vh;
+    margin-right: 3vw;
+}
+.box-area{
+    height: 28vh;
+    margin-top: 8vh;
+    position: relative;
+
+}
+.boxarea-img{
+    position: absolute;
+    left: 5px;
+    top: 0;
+    width: calc(100% - 10px);
+    height: 100%;
+    z-index: -1;
+}
+.boxarea-setting {
+    width: 7vw;
+    height: 18vh;
+    position: absolute;
+    top: 5vh;
+    display: inline-block;
+}
+.boxsetting-img {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    width: 100%;
+    height: 100%;
+}
+.boxsetting-btn {
+    position: absolute;
+    top: 11.5vh;
+    left: 5px;
+    width: 6vw;
+    height: 6vw;
+}
+.freshen-link{
+    position: absolute;
+    top: 0;
+    right: 5px;
+    width: 20vw;
+    height: 5vh;
+}
+@keyframes linkChange {
+    0% {
+        width: 20vw;
+        height: 5vh;
+    }
+    50% {
+        width: 25vw;
+        height: 6vh;
+    }
+    100% {
+        width: 20vw;
+        height: 5vh;
+    }
+}
+.box-freshen {
+    width: 100%;
+    height: 100%;
+}
+.forbiden-float{
+    width: 85vw;
+    height: 26vh;
+    overflow-x:auto;
+    overflow-y: hidden;
+    margin-left: calc(5px + 8vw);
+}
+.zone-wrap {
+    width: 1000px;
+    min-width: 85vw;
+    float: left;
+}
+.zone-wrap::after{
+    content: ',';
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+.box-zone {
+    float: left;
+    width: 25vw;
+    height: 20vh;
+    background: red;
+    border-radius: 20px;
+    margin-top: 6vh;
+    margin-right: 2vw;
+}
+.bottom-menu {
+    height: 40vh;
+}
+.setting-mask{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background:rgba(0,0,0,0.5);
+    z-index: 10;
+}
+.setting-area {
+    position: fixed;
+    width: 80vw;
+    height: 60vh;
+    top: 10vh;
+    left:10vw;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 5px;
+}
+.setting {
+    background: #FFF4DC;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.setting-header{
+    width: 50%;
+    height: 40px;
+    margin-top:-5px;
+    position: relative; 
+    margin:0 auto;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color:#7D2F00;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+.setting-icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.setting-text{
+    position: relative;
+}
+.setting-tips {
+    width: 100%;
+    position: relative;
+}
+.tips-before {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform:translateY(-50%);
+    width: 30px;
+    height: 3px;
+    background: linear-gradient(to right,rgba(160, 74, 25, 0), rgba(160, 74, 25,1));
+}
+.tips-text {
+    width: 200px;
+    height: 30px;
+    font-size: 12px;
+    color: #A04A19;
+    margin: 0 auto;
+    line-height: 30px;
+    text-align: center;
+}
+.tips-after {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform:translateY(-50%);
+    width: 30px;
+    height: 3px;
+    background: linear-gradient(to right,rgba(160, 74, 25, 1), rgba(160, 74, 25, 0)); 
+}
+.setting-control {
+    height: 40vh;
+    width: calc(100% - 26px);
+    height: calc(100% - 100px);
+    margin: 0 auto;
+    position: relative;
+    padding-top: 20px;
+}
+.setting-backimg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.setting-show {
+    width: calc(100% - 30px);
+    margin:  0 auto;
+    height: calc(100% - 0px);
+    border: 1px solid red;
+    position: relative;
+}
+.setting-item {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    border-bottom: 1px solid #DAB674;
+}
+.setting-item img {
+    width: 60px;
+    height: 30px;
+    vertical-align: middle;
+    float: right;
+}

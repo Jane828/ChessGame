@@ -1,0 +1,12 @@
+./pinyin/composer.json:22:    "autoload-dev": {
+./wechat_model.php:441:            $this->load->model("pinyin_model", "pinyin");
+./wechat_model.php:459://        $this->load->pinyin("pinyin/src/Pinyin", "", true);
+./public_models.php:11:		$this->load->helper('url');
+./public_models.php:539:        return $this->load->database(Game_CONST::DBConst_Name, TRUE);
+./sms_model.php:11:		$this->load->helper('url');
+./db_models.php:36:        $db_obj = $this->load->database($database, TRUE);
+./db_models.php:71:		$db_obj = $this->load->database($database, TRUE);
+./db_models.php:98:		$db_obj = $this->load->database($database, TRUE);
+./db_models.php:135:		$db_obj = $this->load->database($database, TRUE);
+./db_models.php:170:    	$db_obj = $this->load->database($database, TRUE);
+./payment/wxpay_model.php:12:		$this->load->helper('url');

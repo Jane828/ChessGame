@@ -1,0 +1,350 @@
+2018-12-27 10:20:59 pid:7 Workerman[./Sg30022/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./VFlower20052/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./Sg30062/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./VBull50022/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:8 Workerman[./VBull20042/start.php] start in DEBUG mode
+2018-12-27 10:20:59 pid:9 Workerman[./NBull20022/start.php] start in DEBUG mode
+2018-12-27 10:21:00 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-27 10:21:00 pid:9 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 10:21:00 pid:10 Workerman[./Bull20012/start.php] start in DEBUG mode
+2018-12-27 10:21:00 pid:9 Workerman[./VBull50012/start.php] start in DEBUG mode
+2018-12-27 10:21:00 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 10:42:53 pid:8 Workerman[./NBull20022/start.php] start in DEBUG mode
+2018-12-27 10:45:50 pid:12 Workerman[./Bull20012/start.php] start in DEBUG mode
+2018-12-27 11:06:22 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-27 11:09:17 pid:12 Workerman[./Bull20012/start.php] start in DEBUG mode
+2018-12-27 11:18:05 pid:8 Workerman[./NBull20022/start.php] start in DEBUG mode
+2018-12-27 14:05:01 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 14:19:43 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 14:39:50 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 14:53:16 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 15:01:20 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 16:22:25 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-27 16:22:59 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:22:59 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:23:00 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:23:00 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:23:01 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:23:01 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:23:02 pid:9 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:22 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:22 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:22 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:22 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:23 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:23 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:24 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:24 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:25 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:25 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:27 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:27 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:31 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:31 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:38 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:38 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:24:42 pid:32164 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:51 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:24:51 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:25:17 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:25:17 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:09 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:09 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:18 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:18 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:18 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:18 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:19 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:19 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:20 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:20 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:21 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:21 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:23 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:23 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:27 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:27 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:34 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:34 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:26:47 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:26:47 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:27:14 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:27:14 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:28:05 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:28:05 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:29:06 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:29:06 pid:8 Workerman[./TFlower20082/start.php] already running
+2018-12-27 16:29:24 pid:16 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:31:28 pid:16 Workerman[start.php] Stopping ...
+2018-12-27 16:31:28 pid:16 Workerman[start.php] has been stopped
+2018-12-27 16:33:30 pid:49 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:33:34 pid:49 Workerman[start.php] Stopping ...
+2018-12-27 16:33:34 pid:49 Workerman[start.php] has been stopped
+2018-12-27 16:35:43 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 16:36:37 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-27 17:02:29 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 17:13:04 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-27 17:17:24 pid:9 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 17:31:53 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 17:44:21 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 19:24:55 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 19:30:56 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 20:12:26 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 20:19:55 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 20:29:59 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 20:38:16 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-27 20:45:12 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-28 09:48:27 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-28 10:35:43 pid:8 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./Sg30062/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./NBull20022/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:7 Workerman[./Sg30022/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./VBull20042/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./VFlower20052/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:9 Workerman[./TFlower20082/start.php] already running
+2018-12-28 15:41:28 pid:9 Workerman[./VBull20042/start.php] already running
+2018-12-28 15:41:28 pid:9 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./VBull50022/start.php] start in DEBUG mode
+2018-12-28 15:41:28 pid:8 Workerman[./VBull50012/start.php] start in DEBUG mode
+2018-12-28 15:41:29 pid:12 Workerman[./Bull20012/start.php] start in DEBUG mode
+2018-12-28 15:41:30 pid:8 Workerman[./VBull20042/start.php] start in DEBUG mode
+2018-12-28 15:41:30 pid:9 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-28 15:41:30 pid:9 Workerman[./TFlower20082/start.php] already running
+2018-12-28 15:41:31 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-28 16:30:16 pid:12 Workerman[./Bull20012/start.php] start in DEBUG mode
+2018-12-28 16:47:07 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-28 18:05:32 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-28 18:15:41 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-28 18:15:54 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-29 10:13:34 pid:12 Workerman[./Bull20012/start.php] start in DEBUG mode
+2018-12-29 10:15:27 pid:8 Workerman[./NBull20022/start.php] start in DEBUG mode
+2018-12-29 15:58:08 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-29 16:00:45 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-29 16:02:59 pid:18 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c8000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c8000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c8000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(431): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#15 {main}
+2018-12-29 16:02:59 pid:18 WORKER EXIT UNEXPECTED 
+2018-12-29 16:02:59 pid:8 worker[W:18] exit with status 64000
+2018-12-29 16:03:17 pid:17 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c9000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c9000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c9000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #70)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(431): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#15 {main}
+2018-12-29 16:03:17 pid:17 WORKER EXIT UNEXPECTED 
+2018-12-29 16:03:17 pid:8 worker[W:17] exit with status 64000
+2018-12-29 16:04:14 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-29 16:05:38 pid:12 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c9000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c9000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c9000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(431): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#15 {main}
+2018-12-29 16:05:38 pid:12 WORKER EXIT UNEXPECTED 
+2018-12-29 16:05:38 pid:8 worker[W:12] exit with status 64000
+2018-12-29 16:07:02 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-29 16:08:23 pid:13 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c8000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c8000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c8000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(431): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#15 {main}
+2018-12-29 16:08:23 pid:13 WORKER EXIT UNEXPECTED 
+2018-12-29 16:08:23 pid:8 worker[W:13] exit with status 64000
+2018-12-29 16:08:45 pid:17 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c8000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c8000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c8000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(431): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#15 {main}
+2018-12-29 16:08:45 pid:17 WORKER EXIT UNEXPECTED 
+2018-12-29 16:08:45 pid:8 worker[W:17] exit with status 64000
+2018-12-29 16:11:53 pid:14 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c8000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c8000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c8000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(431): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#15 {main}
+2018-12-29 16:11:53 pid:14 WORKER EXIT UNEXPECTED 
+2018-12-29 16:11:53 pid:8 worker[W:14] exit with status 64000
+2018-12-29 16:12:11 pid:26 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c8000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c8000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c8000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #70)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1052): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/vendor/workerman/workerman/Worker.php(434): Workerman\Worker::monitorWorkers()
+#15 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#16 {main}
+2018-12-29 16:12:11 pid:26 WORKER EXIT UNEXPECTED 
+2018-12-29 16:12:11 pid:8 worker[W:26] exit with status 64000
+2018-12-29 16:15:48 pid:15 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c8000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c8000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c8000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #69)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(431): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#15 {main}
+2018-12-29 16:15:48 pid:15 WORKER EXIT UNEXPECTED 
+2018-12-29 16:15:48 pid:8 worker[W:15] exit with status 64000
+2018-12-29 16:19:15 pid:29 Error: Call to undefined function log_message() in /wwwroot/socket/Flower20032/Applications/Game/Models/Client/play.class.model.php:366
+Stack trace:
+#0 /wwwroot/socket/Flower20032/Applications/Game/Models/Client/Dispatcher.class.model.php(88): Play_Model->pkCard(Array)
+#1 /wwwroot/socket/Flower20032/Applications/Game/Controllers/process.class.controller.php(66): Dispatcher_Client::dispatcherOpt(Array)
+#2 /wwwroot/socket/Flower20032/Applications/Game/Events.php(57): Process::processOnMessage('7f00000161c9000...', '{"operation":"P...', 20032)
+#3 [internal function]: Events::onMessage('7f00000161c9000...', '{"operation":"P...')
+#4 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(369): call_user_func('Events::onMessa...', '7f00000161c9000...', '{"operation":"P...')
+#5 [internal function]: GatewayWorker\BusinessWorker->onGatewayMessage(Object(Workerman\Connection\AsyncTcpConnection), Array)
+#6 /wwwroot/socket/vendor/workerman/workerman/Connection/TcpConnection.php(480): call_user_func(Array, Object(Workerman\Connection\AsyncTcpConnection), Array)
+#7 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #74)
+#8 /wwwroot/socket/vendor/workerman/workerman/Events/Select.php(250): call_user_func_array(Array, Array)
+#9 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1537): Workerman\Events\Select->loop()
+#10 /wwwroot/socket/vendor/workerman/gateway-worker/src/BusinessWorker.php(183): Workerman\Worker->run()
+#11 /wwwroot/socket/vendor/workerman/workerman/Worker.php(936): GatewayWorker\BusinessWorker->run()
+#12 /wwwroot/socket/vendor/workerman/workerman/Worker.php(899): Workerman\Worker::forkOneWorker(Object(GatewayWorker\BusinessWorker))
+#13 /wwwroot/socket/vendor/workerman/workerman/Worker.php(1052): Workerman\Worker::forkWorkers()
+#14 /wwwroot/socket/vendor/workerman/workerman/Worker.php(434): Workerman\Worker::monitorWorkers()
+#15 /wwwroot/socket/Flower20032/start.php(44): Workerman\Worker::runAll()
+#16 {main}
+2018-12-29 16:19:15 pid:29 WORKER EXIT UNEXPECTED 
+2018-12-29 16:19:15 pid:8 worker[W:29] exit with status 64000
+2018-12-29 16:21:05 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-29 17:07:24 pid:8 Workerman[./VBull50012/start.php] start in DEBUG mode
+2018-12-29 17:07:24 pid:8 Workerman[./Sg30062/start.php] start in DEBUG mode
+2018-12-29 17:07:25 pid:9 Workerman[./LBull20092/start.php] start in DEBUG mode
+2018-12-29 17:07:26 pid:8 Workerman[./VBull50022/start.php] start in DEBUG mode
+2018-12-29 17:07:26 pid:8 Workerman[./TBull20062/start.php] start in DEBUG mode
+2018-12-29 17:07:27 pid:12 Workerman[./Bull20012/start.php] start in DEBUG mode
+2018-12-29 17:07:28 pid:9 Workerman[./NBull20022/start.php] start in DEBUG mode
+2018-12-29 17:07:28 pid:9 Workerman[./VBull20042/start.php] start in DEBUG mode
+2018-12-29 17:07:28 pid:9 Workerman[./VBull20042/start.php] already running
+2018-12-29 17:07:29 pid:7 Workerman[./Sg30022/start.php] start in DEBUG mode
+2018-12-29 17:07:29 pid:9 Workerman[./VFlower20052/start.php] start in DEBUG mode
+2018-12-29 17:07:29 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2018-12-29 17:07:29 pid:9 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-29 17:07:29 pid:9 Workerman[./TFlower20082/start.php] already running
+2018-12-29 17:07:30 pid:9 Workerman[./VBull20042/start.php] start in DEBUG mode
+2018-12-29 17:07:30 pid:9 Workerman[./VBull20042/start.php] already running
+2018-12-29 17:07:30 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2018-12-29 17:07:31 pid:8 Workerman[./VBull20042/start.php] start in DEBUG mode
+2019-01-02 11:59:15 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 10:32:59 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 10:44:37 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 10:58:11 pid:9 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 11:05:11 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 11:13:36 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 11:18:01 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 11:21:59 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 11:23:56 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 11:25:10 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 11:48:25 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-03 14:28:04 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-04 10:32:37 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-04 10:39:44 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-04 11:13:55 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2019-01-04 11:35:52 pid:9 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2019-01-04 11:35:52 pid:9 Workerman[./TFlower20082/start.php] already running
+2019-01-04 11:35:52 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2019-01-04 11:40:53 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode
+2019-01-04 11:53:58 pid:8 Workerman[./Flower20032/start.php] start in DEBUG mode
+2019-01-04 11:53:58 pid:8 Workerman[./TFlower20082/start.php] start in DEBUG mode

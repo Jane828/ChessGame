@@ -1,0 +1,167 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+#app-main{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    background: #0D0127;
+}
+.headInfo{
+    box-sizing: border-box;
+    width: 100%;
+    height: 90px;
+    padding: 10px;
+    position: relative;
+    background: #291B4C;
+}
+.headImg{
+    display: block;
+    width: 70px;
+    height: 100%;
+    position: relative;
+    float: left;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.uid{
+    height: 20px;
+    width: 70px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 12px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.8);
+    color:#fff;
+}
+.headImg img{
+    display: block;
+    width: 100%;
+    min-height: 100%;
+}
+.headUser{
+    height: 70px;
+    max-width: 60vw;
+    margin-left: 10px;
+    float: left;
+    font-size: 16px;
+    line-height: 30px;
+    color: #fff;
+    overflow: hidden;
+    white-space: nowrap;
+    -ms-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+.roomCard{
+    height: 40px;
+    width: auto;
+    max-width: 50vw;
+    position: relative;
+    overflow: hidden;
+}
+.roomCard div{
+    padding: 0 10px 0 20px;
+    margin: 5px 0 0 30px;
+    border-radius: 15px;
+    text-align: left;
+    background: #06050C;
+    font-size: 14px;
+    color: #fff;
+}
+.roomCard img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: block;
+    height: 40px;
+}
+.backHall{
+    box-sizing: border-box;
+    width: 46px;
+    height: 46px;
+    border: 1px solid #EFC51F;
+    border-radius: 4px;
+    position: absolute;
+    top: 22px;
+    right: 12px;
+    color: #EFC51F;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.backHall div{
+    width: 22px;
+    text-align: center;
+}
+.mainItem{
+    height: 50px;
+    padding-left: 50px;
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 50px;
+    background: #291B4C;
+    color: #fff;
+    position: relative;
+}
+.mainItem img{
+    display: block;
+    height: 34px;
+    position: absolute;
+    top: 7px;
+    left: 10px;
+}
+.mainItem i{
+    display: block;
+    width: 50px;
+    height: 36px;
+    margin-top: 7px;
+    float: right;
+    background-image: url("/files/images/me/open_icon.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 100% 100%;
+}
+.mainItem .closeI{
+    background-image: url('/files/images/me/close_icon.png');
+}
+.doClick{
+    width: 40vw;
+    height: 50px;
+    padding-right: 10px;
+    float: right;
+    background: url('/files/images/me/right_arrow_icon.png') no-repeat 37vw center;
+    background-size: 10px 16px;
+}
+.manageItems{
+    box-sizing: border-box;
+    height: 70px;
+    padding: 10vw;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: #291B4C;
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+}
+.manageItems div{
+    box-sizing: border-box;
+    width: 70px;
+    height: 50px;
+    padding-top: 30px;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 30px 30px;
+}
+.inviteMember{
+    background-image: url("/files/images/me/add_icon.png");
+}
+.showMember{
+    background-image: url("/files/images/me/group_icon.png");
+}

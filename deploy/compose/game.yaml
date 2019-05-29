@@ -1,0 +1,184 @@
+version: '3'
+
+services:
+  game_nginx:
+    image: ${REGISTRY_URL}/game-nginx:${GAME_NGINX_VERSION}
+    container_name: game_nginx
+    hostname: game_nginx
+    restart: always
+    ports: ["80:80", "20032:20032"]
+    networks: {compose_game_net: {ipv4_address: 172.25.0.21}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+
+  game_front:
+    image: ${REGISTRY_URL}/game-front:${GAME_FRONT_VERSION}
+    container_name: game_front
+    hostname: game_front
+    restart: always
+    environment:
+      - DB_USERNAME=root
+      - DB_PASSWORD=${MYSQL_ROOT_PASSWORD}
+      - WX_ACCOUNT=${WX_ACCOUNT}
+      - WX_APPID=${WX_APPID}
+      - WX_APPSECRET=${WX_APPSECRET}
+      - GAME_FRONT_VERSION=${GAME_FRONT_VERSION}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.22}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    volumes:
+      - /data/game/front/data/:/data/
+
+  game_f6: # 炸金花 大牌炸金花
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_f6
+    hostname: game_f6
+    restart: always
+    environment:
+      - DEBUG_MODE=${DEBUG_MODE}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.30}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh f6
+
+  game_f10: # 十人炸金花
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_f10
+    hostname: game_f10
+    restart: always
+    environment:
+      - DEBUG_MODE=${DEBUG_MODE}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.37}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh f10
+
+  game_fb: # 十三人斗牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_fb
+    hostname: game_fb
+    restart: always
+    environment:
+      - GAME_NUM_REACH_ROUND=6 # default 6
+      - DEBUG_MODE=${DEBUG_MODE}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.42}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh fb
+
+  game_tb: # 十二人斗牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_tb
+    hostname: game_tb
+    restart: always
+    environment:
+      - GAME_NUM_REACH_ROUND=6 # default 6
+      - DEBUG_MODE=${DEBUG_MODE}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.36}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh tb
+
+  game_nb: # 九人斗牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_nb
+    hostname: game_nb
+    restart: always
+    environment:
+      - GAME_NUM_REACH_ROUND=6 # default 6
+      - DEBUG_MODE=${DEBUG_MODE}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.33}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh nb
+
+  game_bu: # 六人斗牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_bu
+    hostname: game_bu
+    restart: always
+    environment:
+      - DEBUG_MODE=${DEBUG_MODE}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.31}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh bu
+
+  game_lb: # 十人癞子牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_lb
+    hostname: game_lb
+    restart: always
+    environment:
+      - GAME_NUM_REACH_ROUND=6  # default 6
+      - DEBUG_MODE=${DEBUG_MODE}
+    networks: {compose_game_net: {ipv4_address: 172.25.0.32}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh lb
+
+  game_sg6: # 六人三公
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_sg6
+    hostname: game_sg6
+    restart: always
+    networks: {compose_game_net: {ipv4_address: 172.25.0.35}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh sg6
+
+  game_sg9: # 九人三公
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_sg9
+    hostname: game_sg9
+    restart: always
+    environment:
+      - GAME_NUM_REACH_ROUND=5  # default 5
+    networks: {compose_game_net: {ipv4_address: 172.25.0.34}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh sg9
+
+  game_vf6: # vip炸金花
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_vf6
+    hostname: game_vf6
+    restart: always
+    networks: {compose_game_net: {ipv4_address: 172.25.0.39}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh vf6
+
+  game_vbu: # vip六人斗牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_vbu
+    hostname: game_vbu
+    restart: always
+    networks: {compose_game_net: {ipv4_address: 172.25.0.38}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh vbu
+
+  game_vnb: # 九人斗牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_vnb
+    hostname: game_vnb
+    restart: always
+    environment:
+      - GAME_NUM_REACH_ROUND=6  # default 6
+    networks: {compose_game_net: {ipv4_address: 172.25.0.40}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh vnb
+
+  game_vtb: # 十二人斗牛
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_vtb
+    hostname: game_vtb
+    restart: always
+    environment:
+      - GAME_NUM_REACH_ROUND=6 # default 6
+    networks: {compose_game_net: {ipv4_address: 172.25.0.41}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    command: ./start_one.sh vtb
+
+  game_front_wsocket:
+    image: ${REGISTRY_URL}/game-socket:${GAME_SOCKET_VERSION}
+    container_name: game_front_wsocket
+    hostname: game_front_wsocket
+    restart: always
+    networks: {compose_game_net: {ipv4_address: 172.25.0.43}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    volumes:
+      - /root/docker/wwwroot/:/wwwroot/
+    command: ./start_one.sh front
+
+networks:
+  compose_game_net:
+    external: true

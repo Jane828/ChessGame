@@ -1,0 +1,3 @@
+.background{position: fixed;top:0;left: :0;width: 100%;height:100%;background: url("http://goss.fexteam.com/files/d_30/images/newhome/1home_1.jpg");background-size:100vw 100vh;}
+.black{position: fixed;top:0;left: 0;width: 100%;height:100%;background: #fff;opacity: .1;}
+.backcolor{background: #193751;opacity: .85;position: absolute;top:0;left: 0;width:100%;height: 100%}

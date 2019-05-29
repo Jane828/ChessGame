@@ -1,0 +1,118 @@
+*{padding: 0;margin:0;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-backface-visibility: hidden;}a {text-decoration: none;}li,ul {list-style: none;}input{border: none;outline:none}
+body{font-family:"微软雅黑";cursor: default;font-size: 16px;}a,input,select{font-family:"微软雅黑";font-size: 16px;}
+img{border: none;}
+
+tcdPageCode{padding: 15px 20px;text-align: left;color: #ccc;text-align:center;}
+.tcdPageCode a{display: inline-block;color: #428bca;display: inline-block;height: 25px; line-height: 25px;  padding: 0 10px;border: 1px solid #ddd; margin: 0 2px;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode a:hover{text-decoration: none;border: 1px solid #428bca;}
+.tcdPageCode span.current{display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px;color: #fff;background-color: #428bca; border: 1px solid #428bca;border-radius: 4px;vertical-align: middle;}
+.tcdPageCode span.disabled{ display: inline-block;height: 25px;line-height: 25px;padding: 0 10px;margin: 0 2px; color: #bfbfbf;background: #f2f2f2;border: 1px solid #bfbfbf;border-radius: 4px;vertical-align: middle;}
+
+.click{cursor: pointer;}
+.daterangepicker.dropdown-menu{z-index:10000;}
+
+.accountInput{margin-left: 25px;margin-top: 25px;margin-bottom: 20px; width: 182px;font-size: 15px;height:70px;}
+.accountInput .addDealerBtn{cursor: pointer;color: #ffffff;background-color: #509fe2; height: 30px;line-height:30px;}
+.accountInput .addBtnText{padding-left: 20px;}
+
+.accountInput .searchInput{margin-top: 0px;}
+.accountInput .searchInput input{border: 1px solid #e2e2e2;font-family: 微软雅黑;height: 30px;width: 130px;font-size: 15px;padding-left: 10px;}
+.accountInput .searchBtn{text-align: center; width: 40px;font-size: 15px; float: right;cursor: pointer;color: #509fe2;}
+
+
+.dealerListMenu{font-size: 15px; line-height:30px;}
+.dealerListMenu .unselectedDealer{cursor: pointer;color: #5b5b5b;background-color: #ffffff;}
+.dealerListMenu .selectedDealer{cursor: pointer;color: #ffffff;background-color: #509fe2; }
+.dealerListMenu .nameText{margin-left: 25px;}
+
+
+
+
+
+.dealerTitle{height: 90px;line-height: 90px;color: #5b5b5b;background: #fff;border-bottom:2px solid #8ac97a;}
+
+.dealerTitle .dealerName{width: 449px;float: left;}
+.dealerTitle .dealerName .dealerNameText{font-size: 20px;float: left;}
+.dealerTitle .dealerName .paymentType_1{text-align: center; font-size: 14px;float: left; margin-left: 10px; height: 20px; width: 54px; color: #fff;background-color: #4da328;line-height: 20px;margin-top: 35px;}
+.dealerTitle .dealerName .paymentType_2{text-align: center; font-size: 14px;float: left; margin-left: 10px; height: 20px; width: 54px; color: #fff;background-color: #5da4e2;line-height: 20px;margin-top: 35px;}
+
+.dealerTitle .ticketCount{width: 289px;font-size: 16px; float: right;}
+.dealerTitle .accountSetting{width: 109px;font-size: 16px; float: right;cursor: pointer;color:#4e7eff;}
+.rechargeBtn{color:#4e7eff;cursor: pointer;}
+
+
+
+.saleTable{width: 945px;height: 181px;order: 1px solid #d9d9d9;font-size: 16px;margin-top:40px;border:1px solid #d9d9d9;}
+
+.selectDate{ height: 42px;border-bottom:1px solid #d9d9d9;position: relative;width: 100%;line-height: 42px; background:#e7e8ec;}
+.selectDate .datePicker{height: 42px;}
+.selectDate .datePicker .form-horizontal{height: 42px;margin-left: 10px;}
+.selectDate .datePicker .form-horizontal fieldset {
+    display: block;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0em;
+    -webkit-padding-start: 00em;
+    -webkit-padding-end: 00em;
+    -webkit-padding-after: 0em;
+    min-width: -webkit-min-content;
+    border-width: 0px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-style: groove;
+    border-color: threedface;
+    border-image: initial;
+}
+.selectDate .datePicker .form-horizontal .form-control{}
+
+.saleData {width: 472px;float:left;height: 100px;}
+.saleDataL{border-right:1px solid #8ac97a;}
+.saleDataR{}
+
+/*.saleData .saleDetail{float: center;}*/
+.saleDetail li{line-height: 50px;}
+.saleDetail .saleText{font-size: 25px;color: #5da4e2;}
+.saleDetail .saleCount{color: #999;font-size: 18px;}
+
+
+.saleList{width: 945px;font-size: 16px;margin-top:40px;  border:1px solid #d9d9d9;}
+.saleList .saleListTh{background:#e7e8ec;height:50px;border:0;}
+.saleList .saleListTh td{background:#e7e8ec;height:50px;border:0;padding-left: 4%;}
+
+.saleList .saleListTr{background:#ffffff;height:50px;}
+.saleList .saleListTr td{background:#ffffff;height:50px;padding-left: 4%;border-bottom:1px solid #d9d9d9;color: #5b5b5b;}
+
+
+
+
+
+.editDealerPart{position: absolute;top: 15%;left: 50%;width: 560px;background: #fff;margin-left: -280px;border: 1px solid #2ea0e9;font-size: 18px;z-index: 999;}
+.editDealerPart .titleText {line-height: 60px;width: 460px;margin: 0 auto;margin-top: 20px;}
+.editDealerPart .infoPart {width: 460px;margin: 0 auto;margin-top: 10px;}
+.editDealerPart .infoPart .infoItem {margin-bottom: 20px;line-height: 40px;}
+.editDealerPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editDealerPart .buttonPart {width: 460px;margin: 0 auto;margin-top: 45px;line-height: 50px;text-align: center;height: 100px;}
+.editDealerPart .buttonPart .left {float: left;width: 210px;color: #fff;background: #2ea0e9;}
+.editDealerPart .buttonPart .right {float: right;width: 210px;color: #333;background: #d9d9d9;}
+.editDealerPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editDealerPart .infoPart .infoItem select {border: 1px solid #e2e2e2;float: right;width: 342px;height: 40px;padding: 0 10px;}
+
+
+
+.editGoodsPart{position: absolute;top: 15%;left: 50%;width: 600px;background: #fff;margin-left: -300px;border: 1px solid #2ea0e9;font-size: 18px;z-index: 999;}
+.editGoodsPart .titleText {line-height: 60px;width: 520px;margin: 0 auto;margin-top: 20px;}
+.editGoodsPart .infoPart {width: 520px;margin: 0 auto;margin-top: 10px;}
+.editGoodsPart .infoPart .infoItem {margin-bottom: 20px;line-height: 40px;}
+.editGoodsPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editGoodsPart .buttonPart {width: 520px;margin: 0 auto;margin-top: 45px;line-height: 50px;text-align: center;height: 100px;}
+.editGoodsPart .buttonPart .left {float: left;width: 210px;color: #fff;background: #2ea0e9;}
+.editGoodsPart .buttonPart .right {float: right;width: 210px;color: #333;background: #d9d9d9;}
+.editGoodsPart .infoPart .infoItem input {border: 1px solid #e2e2e2;float: right;width: 320px;height: 38px;padding: 0 10px;}
+.editGoodsPart .infoPart .infoItem select {border: 1px solid #e2e2e2;float: right;width: 342px;height: 40px;padding: 0 10px;}
+
+.editGoodsPart .infoPart table{width: 520px;}
+.editGoodsPart .infoPart table tr{height: 35px;line-height: 35px; font-size: 16px; }
+.editGoodsPart .infoPart table tr td{height: 35px;line-height: 35px; }
+.editGoodsPart .infoPart table tr td input{width: 100%;border:1px solid #d9d9d9; height: 30px;padding-left: 0px;}

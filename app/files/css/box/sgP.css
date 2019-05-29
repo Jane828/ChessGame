@@ -1,0 +1,316 @@
+/* 0.5透明度的黑色遮蔽层 */
+.sgP-wrap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+/* 0.5透明度的白色区域 */
+.sgP-area{
+    width: 90vw;
+    height: 80vh;
+    background: rgba(255, 255, 255, 0.5);
+    position: fixed;
+    top: 5vh;
+    left: 5vw;
+    border-radius: 5px;
+    position: relative;
+    padding-top: 5px;
+}
+
+/* 关闭按钮 */
+.sgP-close {
+    position: absolute;
+    width: 8vw;
+    height: 8vw;
+    right: -2vw;
+    top: -2vw;
+}
+
+/* 房间设置 */
+.sgP-title {
+    width: 50%;
+    height: 40px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    line-height: 3.2;
+    font-size: 4vw;
+    letter-spacing: 3px;
+}
+.sgP-title > img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+.sgP-title > span {
+    position: relative;
+    color:#7D2F00;
+}
+
+/* 整个房间设置的展示区域 */
+.sgP-show {
+    width: calc(100% - 10px);
+    height: calc(100% - 35px);
+    margin: 0 auto;
+    background: #FFF4DC;
+    padding-top: 30px;
+}
+
+/* 提示区域 */
+.sgP-tips {
+    width: 100%;
+    position: relative;
+}
+.sgP-tips-before {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+    height: 3px;
+    background: linear-gradient(to right,rgba(160, 74, 25, 0), rgba(160, 74, 25,1));
+}
+.sgP-tips-after{
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 30px;
+    height: 3px;
+    background: linear-gradient(to right,rgba(160, 74, 25, 1), rgba(160, 74, 25, 0));
+}
+.sgP-tips-text {
+    width: 200px;
+    height: 30px;
+    font-size: 12px;
+    color: #A04A19;
+    margin: 0 auto;
+    line-height: 30px;
+    text-align: center;
+}
+/* 三公模式区域 */
+.sgP-mode {
+    height: 8vh;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 0 5vw;
+}
+.sgP-mode-index {
+    width: 15vw;
+    height: 6vh;
+    margin-right: 1vw;
+    position: relative;
+}
+.sgP-mode-index:last-child {
+    margin-right: 0;
+}
+.sgP-mode-index > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.mode_name{
+    width: 100%;
+    text-align: center;
+    font-size: 3vw;
+    color:#653604;
+    position: relative;
+}
+
+/* 背景框部分 */
+.sgP-control {
+    width: calc(100% - 10px);
+    height: calc(100% - 40px - 18vh);
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    padding-top: 10px;
+}
+.sgP-control > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+/* 底分区域 */
+.sgP-score {
+    width: 100%;
+    overflow: hidden;
+}
+
+/* 标题和配置区的统一样式 */
+.sgP-property {
+    position: relative;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    margin: 0 auto;
+    overflow: scroll;
+}
+.sgP-property-title {
+    float: left;
+    width: 15%;
+    color:#714D29;
+    text-align: right;
+    font-size: 3vw;
+    height: 3.6vh;
+    line-height: 3.6vh;
+}
+.sgP-property-area {
+    width: 85%;
+    float: left;
+}
+
+/* 底分区域 */
+.sgP-score-item {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.sgP-score-item:last-child {
+    width: auto;
+}
+.sgP-score-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.sgP-score-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.sgP-score-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+/* 时间区域的样式 */
+.sgP-time {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.sgP-time-select {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.sgP-time-select:last-child {
+    width: auto;
+}
+.sgP-time-select > span {
+    float: left;
+    font-size: 3vw;
+    color:#633201;
+    margin-right: 2vw;
+}
+.sgP-time-select > select {
+    float: left;
+    background: linear-gradient(to bottom, #CDAD6F, #E9D4A1);
+    border: 1px #B4822C solid;
+    color: #633201;
+    width: 15vw;
+}
+
+/* 规则区域 */
+.sgP-rule {
+    overflow: hidden;
+    width: 100%;
+    margin-top: 10px;
+}
+.sgP-rule-item {
+    width: auto;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+    overflow: hidden;
+}
+
+.sgP-rule-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.sgP-rule-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.sgP-rule-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+
+/* 局数区域 */
+.sgP-num {
+    margin-top: 10px;
+    overflow: hidden;
+    width: 100%;
+}
+.sgP-num-item {
+    float: left;
+    width: 48%;
+    margin-bottom: 10px;
+    margin-left: 1vw;
+}
+.sgP-porker-item:last-child {
+    width: auto;
+}
+.sgP-num-check {
+    float: left;
+    height: 3vh;
+    width: 3vh;
+    border: 1px solid #B4822C;
+    border-radius: 2px;
+    background: linear-gradient(to bottom, #C8A766, #F1DFB0);
+    padding:0.3vh;
+    margin-right: 1vw;
+}
+.sgP-num-check > img{
+    width: 3vh;
+    height: 3vh;
+}
+.sgP-num-text {
+    float: left;
+    color:#633201;
+    line-height: 3.6vh;
+    font-size: 3vw;
+}
+
+/* 保存按钮 */
+.sgP-save {
+    height: 10vh;
+    line-height: 10vh;
+    text-align: center;
+}
+.sgP-save > img {
+    height: 6vh;
+    width: 30vw;
+    vertical-align: middle;
+}

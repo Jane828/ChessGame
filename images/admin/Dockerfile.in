@@ -1,0 +1,16 @@
+FROM nginx
+
+MAINTAINER maoxian0626@yeah.net
+
+ENV NGINX /etc/nginx
+ENV NGINX_CONF_DIR $NGINX/conf.d
+ENV NGINX_ADMIN_DIR /usr/share/nginx/admin
+
+RUN mkdir -p $NGINX
+RUN mkdir -p $NGINX_CONF_DIR
+RUN mkdir -p $NGINX_ADMIN_DIR
+
+COPY payload/config/nginx.conf $NGINX
+COPY payload/config/conf.d/* $NGINX_CONF_DIR
+ADD payload/dist/ $NGINX_ADMIN_DIR
+

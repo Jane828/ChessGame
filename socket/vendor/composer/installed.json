@@ -1,0 +1,138 @@
+[
+    {
+        "name": "workerman/workerman",
+        "version": "v3.5.6",
+        "version_normalized": "3.5.6.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/walkor/Workerman.git",
+            "reference": "46a77574a5ca39def6dec51ddf350cf50daab309"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/walkor/Workerman/46a77574a5ca39def6dec51ddf350cf50daab309.zip",
+            "reference": "46a77574a5ca39def6dec51ddf350cf50daab309",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3"
+        },
+        "suggest": {
+            "ext-event": "For better performance. "
+        },
+        "time": "2018-04-11T11:25:52+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Workerman\\": "./"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "walkor",
+                "email": "walkor@workerman.net",
+                "homepage": "http://www.workerman.net",
+                "role": "Developer"
+            }
+        ],
+        "description": "An asynchronous event driven PHP framework for easily building fast, scalable network applications.",
+        "homepage": "http://www.workerman.net",
+        "keywords": [
+            "asynchronous",
+            "event-loop"
+        ]
+    },
+    {
+        "name": "predis/predis",
+        "version": "v1.1.1",
+        "version_normalized": "1.1.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/nrk/predis.git",
+            "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/nrk/predis/f0210e38881631afeafb56ab43405a92cafd9fd1.zip",
+            "reference": "f0210e38881631afeafb56ab43405a92cafd9fd1",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.9"
+        },
+        "require-dev": {
+            "phpunit/phpunit": "~4.8"
+        },
+        "suggest": {
+            "ext-curl": "Allows access to Webdis when paired with phpiredis",
+            "ext-phpiredis": "Allows faster serialization and deserialization of the Redis protocol"
+        },
+        "time": "2016-06-16T16:22:20+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Predis\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Daniele Alessandri",
+                "email": "suppakilla@gmail.com",
+                "homepage": "http://clorophilla.net"
+            }
+        ],
+        "description": "Flexible and feature-complete Redis client for PHP and HHVM",
+        "homepage": "http://github.com/nrk/predis",
+        "keywords": [
+            "nosql",
+            "predis",
+            "redis"
+        ]
+    },
+    {
+        "name": "workerman/gateway-worker",
+        "version": "v3.0.5",
+        "version_normalized": "3.0.5.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/walkor/GatewayWorker.git",
+            "reference": "a4f6c8dc1b1e2ea360ce4c09b37f2db457f33faa"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://files.phpcomposer.com/files/walkor/GatewayWorker/a4f6c8dc1b1e2ea360ce4c09b37f2db457f33faa.zip",
+            "reference": "a4f6c8dc1b1e2ea360ce4c09b37f2db457f33faa",
+            "shasum": ""
+        },
+        "require": {
+            "workerman/workerman": ">=3.1.8"
+        },
+        "time": "2017-06-20T14:59:51+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "GatewayWorker\\": "./src"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "homepage": "http://www.workerman.net",
+        "keywords": [
+            "communication",
+            "distributed"
+        ]
+    }
+]

@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfc9317b-0c6c-4511-a4b0-0f784b9fc25d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Dispatcher.class.model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Applications/Game/Models/Client/Dispatcher.class.model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="room.class.model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Applications/Game/Models/Client/room.class.model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-6806">
+              <caret line="106" column="20" lean-forward="false" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+              <folding>
+                <marker date="1521879953000" expanded="true" signature="9428:9495" ph="select room_... ${Room}" />
+                <marker date="1521879953000" expanded="true" signature="19755:19810" ph="select room_... ${Room}" />
+                <marker date="1521879953000" expanded="true" signature="26039:26094" ph="select room_... ${Room}" />
+                <marker date="1521879953000" expanded="true" signature="44030:44083" ph="select nickn... ${WX_Account}" />
+                <marker date="1521879953000" expanded="true" signature="47568:47623" ph="select room_... ${Room}" />
+                <marker date="1521879953000" expanded="true" signature="50801:50854" ph="select accou... ${WX_Account}" />
+                <marker date="1521879953000" expanded="true" signature="53821:53876" ph="select room_... ${Room}" />
+                <marker date="1521879953000" expanded="true" signature="54629:54754" ph="select * fro... room_scoreboard" />
+                <marker date="1521879953000" expanded="true" signature="55191:55245" ph="select nickn... ${WX_Account}" />
+                <marker date="1521879953000" expanded="true" signature="56445:56500" ph="select room_... ${Room}" />
+                <marker date="1521879953000" expanded="true" signature="56949:57073" ph="select * fro... room_scoreboard" />
+                <marker date="1521879953000" expanded="true" signature="57842:57896" ph="select nickn... ${WX_Account}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbConfig.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Applications/Game/Module/DB/DbConfig.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbConnection.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Applications/Game/Module/DB/DbConnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1521860350000" expanded="true" signature="28286:28390" ph="insert into ${$tbName}... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process.class.controller.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Applications/Game/Controllers/process.class.controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Events.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Applications/Game/Events.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
+    <option name="y" value="58" />
+    <option name="width" value="1329" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Applications" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Applications" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Game" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Applications" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Game" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Applications" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Game" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Models" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Applications" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Game" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Models" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Client" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Applications" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Game" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Module" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Bull20012" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bull20012" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Applications" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Game" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Module" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="DB" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfc9317b-0c6c-4511-a4b0-0f784b9fc25d" name="Default" comment="" />
+      <created>1531986876530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531986876530</updated>
+      <workItem from="1531986877763" duration="1235000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1235000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="58" width="1329" height="875" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24941725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Applications/Game/Events.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="50" column="32" lean-forward="false" selection-start-line="50" selection-start-column="32" selection-end-line="50" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/Game/Controllers/process.class.controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/Game/Models/Client/Dispatcher.class.model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/Game/Models/Client/room.class.model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6806">
+          <caret line="106" column="20" lean-forward="false" selection-start-line="106" selection-start-column="20" selection-end-line="106" selection-end-column="20" />
+          <folding>
+            <marker date="1521879953000" expanded="true" signature="9428:9495" ph="select room_... ${Room}" />
+            <marker date="1521879953000" expanded="true" signature="19755:19810" ph="select room_... ${Room}" />
+            <marker date="1521879953000" expanded="true" signature="26039:26094" ph="select room_... ${Room}" />
+            <marker date="1521879953000" expanded="true" signature="44030:44083" ph="select nickn... ${WX_Account}" />
+            <marker date="1521879953000" expanded="true" signature="47568:47623" ph="select room_... ${Room}" />
+            <marker date="1521879953000" expanded="true" signature="50801:50854" ph="select accou... ${WX_Account}" />
+            <marker date="1521879953000" expanded="true" signature="53821:53876" ph="select room_... ${Room}" />
+            <marker date="1521879953000" expanded="true" signature="54629:54754" ph="select * fro... room_scoreboard" />
+            <marker date="1521879953000" expanded="true" signature="55191:55245" ph="select nickn... ${WX_Account}" />
+            <marker date="1521879953000" expanded="true" signature="56445:56500" ph="select room_... ${Room}" />
+            <marker date="1521879953000" expanded="true" signature="56949:57073" ph="select * fro... room_scoreboard" />
+            <marker date="1521879953000" expanded="true" signature="57842:57896" ph="select nickn... ${WX_Account}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/Game/Module/DB/DbConfig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Applications/Game/Module/DB/DbConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521860350000" expanded="true" signature="28286:28390" ph="insert into ${$tbName}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

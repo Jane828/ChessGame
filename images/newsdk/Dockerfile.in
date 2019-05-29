@@ -1,0 +1,20 @@
+FROM ubuntu:16.04
+
+MAINTAINER 329365307@qq.com
+
+ENV TZ=Asia/Shanghai
+ENV NEWSDK_CONFIG /etc/tcc/cfg.toml
+
+WORKDIR /data/persist/
+
+RUN apt-get update && \
+    apt-get -y -qq upgrade && \
+    apt-get install tzdata && \
+    apt-get -y -qq install mysql-client vim-tiny ca-certificates && \
+    ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+COPY payload/_APP_NAME_ /usr/local/bin
+COPY payload/conf/ /etc/tcc/
+
+CMD ["newsdk"]
+

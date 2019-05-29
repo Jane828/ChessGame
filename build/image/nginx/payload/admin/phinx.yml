@@ -1,0 +1,35 @@
+paths:
+    migrations: '%%PHINX_CONFIG_DIR%%/db/migrations'
+    seeds: '%%PHINX_CONFIG_DIR%%/db/seeds'
+
+environments:
+    default_migration_table: phinxlog
+    default_database: development
+    production:
+        adapter: mysql
+        host: game_mysql
+        name: poker
+        user: root
+        pass: jiulian666
+        port: 3306
+        charset: utf8
+
+    development:
+        adapter: mysql
+        host: game_mysql
+        name: poker
+        user: root
+        pass: jiulian666
+        port: 3306
+        charset: utf8
+
+    testing:
+        adapter: mysql
+        host: game_mysql
+        name: poker
+        user: root
+        pass: jiulian666
+        port: 3306
+        charset: utf8
+
+version_order: creation

@@ -1,0 +1,7 @@
+FROM ubuntu:16.04
+RUN apt-get update && apt-get install -y php7.0-fpm php7.0-curl php7.0-mysql php7.0-xml busybox
+COPY payload/php/swoole.so /usr/lib/php/20151012/
+RUN cd /etc/php/7.0/cli && sed -e 1a\extension=swoole.so php.ini > new.ini && mv new.ini php.ini
+
+LABEL org.tenbayblockchain.tcc.version=1.0.0 \
+      org.tenbayblockchain.tcc.base.version=0.0.1

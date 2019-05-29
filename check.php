@@ -1,0 +1,105 @@
+<?php
+
+$current = '';
+$degree = 0;
+$domains=array();
+$filemtime = filemtime("domains.txt");
+date_default_timezone_set("PRC");
+while (true) {
+    clearstatcache();
+    if (file_exists('stop.status')) {
+	echo "自动化关闭".PHP_EOL;
+        sleep(60);
+        continue;
+    }
+    $is_blacklist=false;
+    if ($current == ''|| $filemtime <> filemtime("domains.txt")) {
+        $content = trim(file_get_contents("domains.txt"), PHP_EOL);
+        $domains = explode(PHP_EOL, $content);
+        $current=trim(array_shift($domains));
+        $filemtime = filemtime("domains.txt");
+    }
+
+    $api_url = "http://wx.capf.club/check.php?domain=".$current;
+    $content = get_msg($api_url);
+    $data = json_decode($content, true);
+
+    if (strrpos($content, "参数错误")>0) {
+        echo "参数错误";
+    }
+
+    if (strrpos($content, "频率")>0) {
+        echo "频率过快";
+    }
+
+    if ($data['status']==2) {
+        file_put_contents("blacklist.txt", PHP_EOL."域名:".$current." 被封", FILE_APPEND);
+        echo "域名:".$current." 被封".PHP_EOL;
+
+        sc_send("域名被封提醒", "域名:".$current." 被封\n\n时间:".date('Y年m月d日 H时i分s秒'));
+        $degree=0;
+        $current='';
+        $is_blacklist=true;
+    } elseif ($data['status']==1) {
+        $degree=0;
+        file_put_contents("domain.txt", $current,LOCK_EX);
+        echo "域名:".$current." 正常".PHP_EOL;
+    } elseif ($data['status']==3) {
+        $degree++;
+        echo "域名:".$current." 失败".PHP_EOL;
+        if ($degree >4) {
+         sc_send("域名查询失败", "域名:".$current." 连续5次查询失败\n\n时间:".date('Y年m月d日 H时i分s秒'));
+            file_put_contents("blacklist.txt", PHP_EOL."域名:".$current." 连续5次查询失败", FILE_APPEND);
+            $degree=0;
+            $current='';
+            $is_blacklist = true;
+        }
+    }
+
+    if ($is_blacklist) {
+        file_put_contents('domains.txt', implode($domains, PHP_EOL));
+	}
+    sleep(3);
+}
+
+function get_msg($url)
+{
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_TIMEOUT, 5);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    $data = curl_exec($ch);
+    if ($data) {
+        curl_close($ch);
+        return $data;
+    } else {
+        $error = curl_errno($ch);
+        curl_close($ch);
+        return false;
+    }
+}
+
+
+function sc_send($text, $desp = '', $key = '1759-d6d8cd6d80710ed75dbfc7060b4dd4e8')
+{
+    $postdata = http_build_query(
+    array(
+	'sendkey' => $key,
+        'text' => $text,
+        'desp' => $desp
+    )
+);
+
+    $opts = array('http' =>
+    array(
+        'method'  => 'POST',
+        'header'  => 'Content-type: application/x-www-form-urlencoded',
+        'content' => $postdata
+    )
+);
+    $context  = stream_context_create($opts);
+    return $result = file_get_contents('https://pushbear.ftqq.com/sub', false, $context);
+}
+

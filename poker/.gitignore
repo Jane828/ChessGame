@@ -1,0 +1,4 @@
+*.log
+*.pid
+.DS_Store
+.idea

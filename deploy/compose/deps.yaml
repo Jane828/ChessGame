@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  game_redis:
+    container_name: game_redis
+    image: redis:5
+    restart: always
+    hostname: game_redis
+    networks: {game_net: {ipv4_address: 172.25.0.10}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+
+  game_mysql:
+    container_name: game_mysql
+    image: ${REGISTRY_URL}/game-mysql:${GAME_MYSQL_VERSION}
+    restart: always
+    hostname: game_mysql
+    networks: {game_net: {ipv4_address: 172.25.0.11}}
+    logging: {driver: "json-file", options: {max-size: "10m", max-file: "10"}}
+    environment:
+      - MYSQL_ROOT_PASSWORD=${MYSQL_ROOT_PASSWORD}
+    volumes:
+    - /data/game/mysql/:/var/lib/mysql
+
+networks:
+  game_net:
+    driver: bridge
+    ipam:
+      driver: default
+      config:
+      -
+        subnet: 172.25.0.0/24

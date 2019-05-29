@@ -1,0 +1,11 @@
+.alert{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 109;color: #fff;font-family: simHei;}
+.alert .alertBack{width: 100%;height:100%;background: #000;opacity:0.8;position: absolute;}
+.alert .mainPart{position: relative;top: 45%;left: 50%;margin-top:-19vh ;margin-left:-22.5vh ;width: 45vh;height:38vh; }
+.alert .mainPart .alertText{position: absolute;width:100%;font-size: 2.5vh;width: 36vh;left:50%;margin-left:-18vh;top:5.6vh;text-align: center; color:#714D29; margin-top:3vh;}
+.alert .mainPart .buttonMiddle{position: absolute;width:100%;line-height: 6vh;height: 5.6vh;font-size: 2.5vh;width: 18vh;left:50%;margin-left:-9vh;bottom:2.2vh;text-align: center;background:url("../images/common/button2.png");background-size:100%;}
+.alert .mainPart .buttonLeft{position: absolute;width:100%;height: 6.2vh;font-size: 2.5vh;width: 18vh;left:3vh;bottom:2.2vh;text-align: center;background:url("../images/common/button2.png");background-size:cover;}
+.alert .mainPart .buttonRight{position: absolute;width:100%;height: 6.2vh;font-size: 2.5vh;width: 18vh;right:3vh;bottom:2.2vh;text-align: center;background:url("../images/common/button1.png");background-size:cover;}
+.alert .mainPart .backImg{position: absolute;width:100%;height:100%;border-radius: 1.5vh;top:0;left:0;background: #FFF4DC;}
+.alert .mainPart .backImg .blackImg{position: absolute;width:42vh;height:25vh;top:2.2vh;left:1.5vh; background:url("../images/common/backImg.png") no-repeat; background-size:contain;} 
+.alert .mainPart .btnCancel{display: inline-block;width: 100px;height: 40px;background: url("../images/common/cancelRoom.png") no-repeat;background-size: cover;position: absolute;bottom: 0;left: 4vw;}
+.alert .mainPart .buttonWatch{display: inline-block;width: 100px;height: 40px;background: url("../images/watch/joinWatch.png") no-repeat;background-size: cover;position: absolute;bottom: 0;right: 4vw;}

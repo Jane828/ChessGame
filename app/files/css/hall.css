@@ -1,0 +1,160 @@
+*{padding: 0;margin:0;}a {text-decoration: none;color: #fff;}ul {list-style: none;}input{border: none;outline:none}body{font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', 微软雅黑, Arial, sans-serif;cursor: default;}
+img{border: none;}
+html{height:100%;overflow: hidden;}
+body{height:100%;overflow: hidden;}
+.main{width: 100%;position:relative;margin:0 auto;}
+.roomCard{position: absolute;top:0;right:0;}
+
+.roomCard .img2{position: absolute;top:0;z-index: 51}
+.roomCard .num{position: relative;background: #273151;color:#fff;font-size: 3.5vw;border-radius:4vw;padding: 1vw 4vw;float: left;margin-left: -3vw;z-index: 49;}
+
+.recharge{position: absolute;top:5vw;right:30%;width: 22vw;height: 8vw;z-index: 51;}
+
+
+.header .header-left{height:100%;line-height: 8vh;float:left;white-space:nowrap;}
+
+.header .header-avatar img {width:96%;height:96%;}
+.header .header-left .name{display: inline-block;width: 30vw;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;vertical-align: middle;color:#ffffff;}
+.header .header-right{float:right;height: 8vh;margin-right: 8vw;}
+.header .header-right img {height: 8vh;vertical-align: middle;z-index: 1;position: relative;}
+.header .header-right span {background-color: #333333;color: #ffffff;border: 1px solid #333333;border-radius: 30vw;display: inline-block;vertical-align: middle;padding: 1px 10px 1px 4vw;margin-left: -6vw;max-width: 19vw;overflow: hidden;text-overflow: ellipsis;white-space: nowrap;}
+
+
+.bottom-menu ul {width:100vw;}
+.bottom-menu .menu-item{position: relative;width: 25vw;float: left;height: 10vh;text-align: center;padding-top: 1vh;}
+.bottom-menu .menu-item a {display:inline-block;}
+.bottom-menu .menu-item img{height: 5vh;}
+.bottom-menu .menu-item p {color: #F0D582;font-weight: 600;}
+
+
+
+.game-set{width: 100vw;position: absolute;left: 0;top: 0;height: 83vh;padding-top: 10vh;overflow: auto;}
+.game-set .set-item{float: left;width: 40vw;margin-left: 7vw;margin-bottom: 4vh;}
+.game-set .set-item img{width:100%;}
+
+.game-list {height: 100vh;width: 100vw;position: fixed;left: 0;top: 0;z-index: 110;}
+.game-list .game-list-bg{width: 100%;height: 100%;background-color: #000000;opacity: 0.4;position: absolute;left: 0;top: 0;}
+.game-list .game-list-box {width: 100%;height: 86vh;text-align: center;position: absolute;left: 0;top: 14vh;background-color: rgba(255, 252, 232,0.8);border-radius: 10vw 10vw 0 0;overflow: scroll;}
+.game-list .list-item{float: left;width:50vw;}
+.game-list .list-item .game{width: 36vw;height:auto;margin-top: 4vh;}
+.game-list .list-item:nth-child(2n) .game{margin-left:-3vw;}
+.game-list .list-item:nth-child(2n+1) .game{margin-right:-3vw;}
+
+.alert{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 111;color: #fff;font-family: simHei;}
+.alert .alertBack{width: 100%;height:100%;background: #000;opacity:0.8;position: absolute;}
+.alert .mainPart{position: relative;top: 45%;left: 50%;margin-top:-19vh ;margin-left:-22.5vh ;width: 45vh;height:38vh; }
+.alert .mainPart .alertText{position: absolute;width:100%;line-height: 8.5vh;font-size: 2.5vh;width: 36vh;left:50%;margin-left:-18vh;top:5.6vh;text-align: center; color:#714D29;}
+
+.alert .mainPart .backImg{position: absolute;width:100%;height:100%;border-radius: 1.5vh;top:0;left:0;background: #FFF4DC;}
+
+
+.laizi .selectItem {margin-left: 0.8vh!important;}
+
+.createRoom{position: fixed;width: 100%;height:100%;top:0;left:0;z-index: 210;}
+.createRoom .createRoomBack{width: 100%;height:100%;background: #000;opacity:0.6;}
+.createRoom .mainPart{width: 47vh; position: absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%); text-align:left;}
+.createRoom .mainPart .createB{width: 100%;height:100%;top:2%;left:2%; right:2%; bottom:2%;position: absolute;background:#634fa6;border:1px solid #a684f2;border-radius:10px; }
+.createRoom .mainPart .showPart{ background:#FFF4DC; border-radius:5px; padding-top:20px; height:calc(100% - 20px); overflow:hidden; }
+
+.createRoom .mainPart  .createTitle span{ color:#7D2F00; position:relative;}
+.createRoom .mainPart  .createTitle span::before{ content:attr(data-text); position: absolute; left:0; z-index:-1; -webkit-text-stroke:3px white;}
+.createRoom .mainPart .showPart .cancelCreate{width: 5vh;height:5vh;top:-2.5vh;right:-2.5vh;position: absolute;}
+
+.createRoom .mainPart .showPart .btnOkCancel{ height:calc(15.5vh - 40px);margin-top:5px; text-align:center; position:relative;}
+
+.createRoom .mainPart .showPart .selectPartTitle{ width:100%;line-height:4.5vh;font-size:2.1vh;color:#A04A19;border-radius:0px;font-family:simHei; padding:1vh 0;overflow: hidden; text-align:center; margin-top:1vh;}
+.createRoom .mainPart .showPart .blueBack .selectPart{width:100%;margin-top:0.5vh;line-height:4.5vh;font-size:2.1vh;position: relative;color:#111431;border-radius:0px;font-family:simHei; padding:1vh 0;overflow: hidden;}
+.createRoom .mainPart .blueBack .selectPart .selectTitle{float: left;width:8vh;text-align: right; color:#714D29; }
+.createRoom .mainPart .blueBack .selectPart .selectRoundTitle{width:12vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList{float: left; width: 37vh}
+.createRoom .mainPart .blueBack .selectPart .selectRoundList{float: left; width: 32vh; padding-top:1.2vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem{float: left;position:relative;margin-left:1.6vh;min-width: 16.7vh; }
+.createRoom .mainPart .blueBack .selectPart .selectList .flowerList{float: left;position:relative;height:5vh; min-width:8vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .changeWidth{float: left;position:relative;margin-left:1.8vh;min-width: 5vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectFlowerItem{float: left;position:relative;margin-left:1.8vh;min-width: 10vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectRoundItem{float: left;position:relative;margin-left:1.8vh;min-width: 5vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .defineScore{float: left;position:relative;margin-left:1.8vh;min-width: 4vh;}
+.createRoom .mainPart .blueBack .chipItems .selectItem{min-width: 10vh !important;}
+.createRoom .mainPart .blueBack .chipItems select{
+display: block;
+margin-top: 0.6vh;
+height: 3.4vh;
+width: 9vh;
+}
+.createRoom .mainPart .blueBack .timeItems span,
+.createRoom .mainPart .blueBack .timeItems select{
+float: left;
+}
+/*修改下拉框样式*/
+.createRoom .mainPart .showPart .blueBack .timeItems .flowerReadySelect,.flowerChipSelect, .tbullSelect, .fbullSelect, .lbullSelect, .sgSelect, .nsgSelect,
+.tflowerReadySelect, .tflowerChipSelect, .bullSelect,.bflowerReadySelect, .bflowerChipSelect, .nbullSelect{  -webkit-appearance:none; background: linear-gradient(to bottom, #CDAD6F, #E9D4A1); border: 1px #B4822C solid; color:#633201; }
+.createRoom .mainPart .showPart .blueBack .timeItems .readySelectIcon{ width: 20px; height:20px;  position: absolute; top:1.5vh; right: 3vh; overflow: hidden; pointer-events: none; }
+.createRoom .mainPart .showPart .blueBack .timeItems .readySelectIcon .sanjiao{ width: 100%; height: 100%;  transform: rotate(60deg) skew(30deg) translate(-10px, -10px); background: linear-gradient(to right bottom, red, #4F990E 60%, #B8E485); pointer-events: none;    box-shadow: 0 0 4px green;}
+.createRoom .mainPart .showPart .blueBack .timeItems .bullSelectIcon{ width: 20px; height:20px;  position: absolute; top:1.5vh; right: 3vh; overflow: hidden; pointer-events: none; }
+.createRoom .mainPart .showPart .blueBack .timeItems .bullSelectIcon .sanjiao{width: 100%; height: 100%;  transform: rotate(60deg) skew(30deg) translate(-10px, -10px); background: linear-gradient(to right bottom, red, #4F990E 60%, #B8E485); pointer-events: none;    box-shadow: 0 0 4px green;}
+.createRoom .mainPart .showPart .blueBack .timeItems .sgSelectIcon{ width: 20px; height:20px;  position: absolute; top:1.5vh; right: 3vh; overflow: hidden; pointer-events: none; }
+.createRoom .mainPart .showPart .blueBack .timeItems .sgSelectIcon .sanjiao{width: 100%; height: 100%;  transform: rotate(60deg) skew(30deg) translate(-10px, -10px); background: linear-gradient(to right bottom, red, #4F990E 60%, #B8E485); pointer-events: none;    box-shadow: 0 0 4px green;}
+/*修改下拉框样式*/
+.createRoom .mainPart .blueBack .timeItems select{
+display: block;
+width: 9vh;
+margin: 0.6vh 0 0 0.5vh;
+height: 3.4vh;
+vertical-align: middle;
+}
+#selectList{ height:3.4vh; width:9vh;  margin-top: 0.6vh; -webkit-appearance:none; background: linear-gradient(to bottom, #CDAD6F, #E9D4A1); border: 1px #B4822C solid; color:#633201;}
+#flowerSelect{     position: absolute;transform: translateY(-50%);top: 44%; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .bullfootSelectIcon{ width: 20px; height:20px; position:absolute; top:1.5vh; left:10vh; overflow: hidden; pointer-events: none; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .bullfootSelectIcon .footSanJiao{ width: 100%; height: 100%;  transform: rotate(60deg) skew(30deg) translate(-10px, -10px); background: linear-gradient(to right bottom, red, #4F990E 60%, #B8E485); pointer-events: none;    box-shadow: 0 0 4px green; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectBox{float: left;height:3.4vh;width:3.4vh;border:1px solid #B4822C;border-radius:2px;background:linear-gradient(to bottom, #C8A766, #F1DFB0);margin-top:0.5vh;position: relative; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem img{position: absolute;display: block;width: 2.7vh;height:2.7vh;left: 0.4vh;top:0.4vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectText{float: left;line-height: 5vh; margin-left: 0.5vh;color:#714D29; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectText .flowerSelect{ -webkit-appearance:none; background: linear-gradient(to bottom, #CDAD6F, #E9D4A1); border: 1px #B4822C solid; color:#633201; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectText .selectIcon{ width: 20px; height:20px;  position: absolute; top:1.5vh; right: 2px; overflow: hidden; pointer-events: none;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectText .selectIcon .sanjiao{ width: 100%; height: 100%;  transform: rotate(60deg) skew(30deg) translate(-10px, -10px); background: linear-gradient(to right bottom, red, #4F990E 60%, #B8E485); pointer-events: none;    box-shadow: 0 0 4px green; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectProgressText{ float: left;line-height: 5vh; margin-left: 0.5vh; width:12vw; height:40px; font-size:1.8vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .seenProgressText{ color:#633201; float: left;line-height: 3vh; margin-left: 0.5vh; width:12vw; height:40px; font-size:2.1vh; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectProgress{ float:left; margin-top:1.5vh; margin-left:2vw;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectProgress .range{ -webkit-appearance:none;  height:20px; border-radius:15px; width:20vw; background:-webkit-linear-gradient(#FFF949, #F08D02) no-repeat; background-size: 0% 100%; margin-top:-4px;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectProgress .range::-webkit-slider-thumb{ -webkit-appearance:none; height:20px; width:20px;  border-radius:50%; background:red;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectProgress .range::-webkit-slider-runnable-track { box-shadow: 0 1px #def3f8, inset 0  1px 1px #0d1112;  border-radius:15px;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectReduce{ float: left;height:2.1vh;width:2.1vh;border:1px solid #1d1045;border-radius:2px;background:#78899d;margin-top:1vh;position: relative; }
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .seenProgress{ float:left; margin-left:-10px; margin-right:20px;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .seenProgress .seenRange{ -webkit-appearance:none;  height:3vh; border-radius:15px; width:20vw;  background:-webkit-linear-gradient(#FFF949, #F08D02) no-repeat;  background-size: 0% 100%; }
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .seenProgress .seenRange::-webkit-slider-runnable-track{ box-shadow: 0 1px #def3f8, inset 0  1px 1px #0d1112;  border-radius:15px; height:3vh;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectAdd{ float: left;height:2.1vh;width:2.1vh;border:1px solid #1d1045;border-radius:2px;background:#78899d;margin-top:1vh;position: relative; margin-left:5vw;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .selectXiPaiText{color:#54A802;}
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .seenTip{ color:#54A802;line-height: 2.1vh;margin-bottom: 10px; }
+/**************************开始*****************炸金花的不能比牌的样式***************************************************/
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .compareProgressText{ color:#633201; float: left;line-height: 3vh; margin-left: 0.5vh; width:12vw; height:40px; font-size:2.1vh; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .compareProgress{ float:left; margin-left:-10px; margin-right:20px; }
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .compareProgress .compareRange{-webkit-appearance:none;  height:3vh; border-radius:15px; width:20vw;  background:-webkit-linear-gradient(#FFF949, #F08D02) no-repeat;  background-size: 0% 100%;}
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .compareProgress .compareRange::-webkit-slider-runnable-track{ box-shadow: 0 1px #def3f8, inset 0  1px 1px #0d1112;  border-radius:15px; height:3vh;}
+.createRoom .mainPart .blueBack .selectPart .compareProgressItem{ float: left; width: 32vh; padding-top:1.2vh; }
+/**************************结束***************************************************************************************/
+/********************************开始*********看牌需下注的样式调整******************************************************/
+.createRoom .mainPart .blueBack .selectPart .seenPaiChessTitle{float: left;width:13vh;text-align: right;}
+.createRoom .mainPart .blueBack .selectPart .selectList .seenPaiChessItem{min-width:10vh;}
+.createRoom .mainPart .blueBack .selectPart .seenPaiChessList{width:30vh;}
+/*********************************结束********************************************************************************/
+/*上限样式，同比牌*/
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .limitChooseProgressText{ color:#633201; float: left;line-height: 3vh; margin-left: 0.5vh; width:12vw; height:40px; font-size:2.1vh; }
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .limitChooseProgress{ float:left; margin-left:-10px; margin-right:20px; }
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .limitChooseRange{-webkit-appearance:none;  height:3vh; border-radius:15px; width:20vw;  background:-webkit-linear-gradient(#FFF949, #F08D02) no-repeat;  background-size: 0% 100%;}
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectItem .limitChooseRange::-webkit-slider-runnable-track{ box-shadow: 0 1px #def3f8, inset 0  1px 1px #0d1112;  border-radius:15px; height:3vh;}
+.createRoom .mainPart .blueBack .selectPart .limitChoose{ float: left; width: 32vh; padding-top:1.2vh; }
+/*******************************结束**********************************************************************************/
+
+.createRoom .mainPart .blueBack .selectPart .selectList .selectXiPaiItem{float: left;position:relative;margin-left:1.8vh;min-width: 7vh;}
+.bankerSelected{position: absolute;width: 8vh;height: 5.4vh;color: #653604;text-align: center;font-size: 1.8vh;overflow: hidden;}
+.bankerSelected .img{position: absolute;top: 0;left: 0;width: 7.7vh;height: 5.4vh;}
+.bankerUnSelected{position: absolute;width: 8vh;height: 5.4vh;color: #9a6b3a;text-align: center;font-size: 1.8vh;overflow: hidden;}
+.bankerUnSelected .img{position: absolute;top: 0;left: 0;width: 7.7vh;height: 5.4vh;}
